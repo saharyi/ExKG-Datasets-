@@ -1,694 +1,454 @@
 person_id,en_name,faculty,field,en_department,scimet_link,ClassType,AssignedScholar
-775,Mahmood Azari,Natural resources and environment,Mathematics,Natural Resources and Environment,http://scimet.um.ac.ir/Mahmood_Azari,0,0
-1462,Mohammad Arashi,Mathematical Sciences,Chemistry,"Department of Statistics, Mathematics",http://scimet.um.ac.ir/Mohammad_Arashi,1,0
-153,Hossein Arouiee,Agriculture,Physics,"Department of Gardening, Agriculture",http://scimet.um.ac.ir/Hossein_Arouiee,1,1
-745,Ali Reza Azad,Theology and Islamic Sciences,Mathematics,"Department of Koranic Studies, Theology",http://scimet.um.ac.ir/AliReza_Azad,0,0
-406,Ahmad Asoodeh,Science,Computer science,"Department of Chemistry, Sciences",http://scimet.um.ac.ir/Ahmad_Asoodeh,1,2
-37,Mohammad Bagher Ayani,Engineering,Mathematics,"Department of Mechanical Engineering, Engineering",http://scimet.um.ac.ir/MohammadBagher_Ayani,1,3
-844,Elaheh Ebrahimzadeh Abkooh,Veterinary medicine,Computer science,"Department of Pathobiology, Veterinary medicine",http://scimet.um.ac.ir/Elaheh_EbrahimzadehAbkooh,0,0
-1409,GHolam Reza Ebrahimi,Engineering,Geology,"Department of Material Engineering, Engineering",http://scimet.um.ac.ir/GHolamReza_Ebrahimi,0,0
-173,Seyed Hadi Ebrahimi,Agriculture,Geology,"Department of Animal Sciences, Agriculture",http://scimet.um.ac.ir/SeyedHadi_Ebrahimi,1,4
-676,Abbas Ebrahimi Moghadam,Engineering,Physics,"Department of Electrical Engineering, Engineering",http://scimet.um.ac.ir/Abbas_EbrahimiMoghadam,1,5
-19,Hamid Reza Ebrahimi Vishki,Mathematical Sciences,Electrical engineering,"Department of Pure Mathematics, Mathematics",http://scimet.um.ac.ir/HamidReza_EbrahimiVishki,1,6
-342,Saeid Abrishami,Engineering,Sociology,"Department of Computer Engineering, Engineering",http://scimet.um.ac.ir/Saeid_Abrishami,1,7
-782,Saeed Abrishami,Engineering,Chemical engineering,"Department of Civil Engineering, Engineering",http://scimet.um.ac.ir/Saeed_Abrishami,1,9
-20,Mohammad Hossein Abolbashari,Engineering,Chemical engineering,"Department of Mechanical Engineering, Engineering",http://scimet.um.ac.ir/MohammadHossein_Abolbashari,1,10
-21,Javad Abolfazli Esfahani,Engineering,Chemical engineering,"Department of Mechanical Engineering, Engineering",http://scimet.um.ac.ir/Javad_AbolfazliEsfahani,0,0
-616,Hossein Abootorabi Zarchi,Engineering,Chemical engineering,"Department of Electrical Engineering, Engineering",http://scimet.um.ac.ir/Hossein_AbootorabiZarchi,1,11
-175,Hamid Ejtehadi,Science,Chemistry,"Department of Biology, Sciences",http://scimet.um.ac.ir/Hamid_Ejtehadi,1,12
-114,Ali Ahmadpour,Engineering,Biology,"Department of Chemical Engineering, Engineering",http://scimet.um.ac.ir/Ali_Ahmadpour,1,13
-719,Hossein Ahmadzadeh,Science,Mathematics,"Department of Chemistry, Sciences",http://scimet.um.ac.ir/Hossein_Ahmadzadeh,1,17
-800,Hamidreza Ahmadniaye Motlagh,Natural resources and environment,Mathematics,Natural Resources and Environment,http://scimet.um.ac.ir/Hamidreza_AhmadniaMotlagh,1,18
+775,Mahmood Azari,Natural resources and environment,Civil engineering,Natural Resources and Environment,http://scimet.um.ac.ir/Mahmood_Azari,0,0
+1462,Mohammad Arashi,Mathematical Sciences,Mathematics,"Department of Statistics, Mathematics",http://scimet.um.ac.ir/Mohammad_Arashi,1,0
+153,Hossein Arouiee,Agriculture,Biology,"Department of Gardening, Agriculture",http://scimet.um.ac.ir/Hossein_Arouiee,1,1
+745,Ali Reza Azad,Theology and Islamic Sciences,Philosophy,"Department of Koranic Studies, Theology",http://scimet.um.ac.ir/AliReza_Azad,0,0
+406,Ahmad Asoodeh,Science,Biology,"Department of Chemistry, Sciences",http://scimet.um.ac.ir/Ahmad_Asoodeh,1,2
+37,Mohammad Bagher Ayani,Engineering,Physics,"Department of Mechanical Engineering, Engineering",http://scimet.um.ac.ir/MohammadBagher_Ayani,1,3
+844,Elaheh Ebrahimzadeh Abkooh,Veterinary medicine,Biology,"Department of Pathobiology, Veterinary medicine",http://scimet.um.ac.ir/Elaheh_EbrahimzadehAbkooh,0,0
+1409,GHolam Reza Ebrahimi,Engineering,Computer engineering,"Department of Material Engineering, Engineering",http://scimet.um.ac.ir/GHolamReza_Ebrahimi,0,0
+173,Seyed Hadi Ebrahimi,Agriculture,Biology,"Department of Animal Sciences, Agriculture",http://scimet.um.ac.ir/SeyedHadi_Ebrahimi,1,4
+676,Abbas Ebrahimi Moghadam,Engineering,Computer science,"Department of Electrical Engineering, Engineering",http://scimet.um.ac.ir/Abbas_EbrahimiMoghadam,1,5
+19,Hamid Reza Ebrahimi Vishki,Mathematical Sciences,Mathematics,"Department of Pure Mathematics, Mathematics",http://scimet.um.ac.ir/HamidReza_EbrahimiVishki,1,6
+342,Saeid Abrishami,Engineering,Computer science,"Department of Computer Engineering, Engineering",http://scimet.um.ac.ir/Saeid_Abrishami,1,7
+782,Saeed Abrishami,Engineering,Geology,"Department of Civil Engineering, Engineering",http://scimet.um.ac.ir/Saeed_Abrishami,1,9
+20,Mohammad Hossein Abolbashari,Engineering,Structural engineering,"Department of Mechanical Engineering, Engineering",http://scimet.um.ac.ir/MohammadHossein_Abolbashari,1,10
+21,Javad Abolfazli Esfahani,Engineering,Electrical engineering,"Department of Mechanical Engineering, Engineering",http://scimet.um.ac.ir/Javad_AbolfazliEsfahani,0,0
+616,Hossein Abootorabi Zarchi,Engineering,Electrical engineering,"Department of Electrical Engineering, Engineering",http://scimet.um.ac.ir/Hossein_AbootorabiZarchi,1,11
+175,Hamid Ejtehadi,Science,Geography,"Department of Biology, Sciences",http://scimet.um.ac.ir/Hamid_Ejtehadi,1,12
+114,Ali Ahmadpour,Engineering,Chemical engineering,"Department of Chemical Engineering, Engineering",http://scimet.um.ac.ir/Ali_Ahmadpour,1,13
+719,Hossein Ahmadzadeh,Science,Chemistry,"Department of Chemistry, Sciences",http://scimet.um.ac.ir/Hossein_Ahmadzadeh,1,17
+800,Hamidreza Ahmadniaye Motlagh,Natural resources and environment,Biology,Natural Resources and Environment,http://scimet.um.ac.ir/Hamidreza_AhmadniaMotlagh,1,18
 133,Jafar Ahmadi,Mathematical Sciences,Mathematics,"Department of Statistics, Mathematics",http://scimet.um.ac.ir/Jafar_Ahmadi,1,19
-22,Mohammad Taher Ahmadi Shadmehri,Administrative and economic sciences,Mathematics,"Department of Economics, Economics and Administrative sciences",http://scimet.um.ac.ir/MohammadTaher_AhmadiShadmehri,0,0
-1404,Mohammad Javad Ahmadi Lahijani,Agriculture,Mathematics,"Department of Agronomy, Agriculture",http://scimet.um.ac.ir/MohammadJavad_AhmadiLahijani,1,24
-765,Ali Akhtarpour,Engineering,Mechanical engineering,"Department of Civil Engineering, Engineering",http://scimet.um.ac.ir/Ali_Akhtarpour,1,25
-750,Seyed Javad Akhtarshenas,Science,Geology,"Department of Physics, Sciences",http://scimet.um.ac.ir/SeyedJavad_Akhtarshenas,0,0
-24,Zahra Ekhteyari,Faculty of Literature and Humanities,Geology,"Department of Persian Language and Literature, Letters and Humanities",http://scimet.um.ac.ir/Zahra_Ekhteyari,0,0
-815,Hossein Ali Akhlaghi Amiri,Engineering,Physics,"Department of Chemical Engineering, Engineering",http://scimet.um.ac.ir/HosseinAli_AkhlaghiAmiri,1,26
-23,Mahmood Akhavan Mahdavi,Engineering,Physics,"Department of Chemical Engineering, Engineering",http://scimet.um.ac.ir/Mahmood_AkhavanMahdavi,0,0
-533,Saeed Ostad Movahed,Science,Economics,"Department of Chemistry, Sciences",http://scimet.um.ac.ir/Saeed_OstadMovahed,0,0
-804,Rouhallah Asadi,Faculty of Literature and Humanities,Chemistry,"Department of Geography, Letters and Humanities",http://scimet.um.ac.ir/Rouhallah_Asadi,0,0
-144,Parvin Eslami,Science,Aerospace engineering,"Department of Physics, Sciences",http://scimet.um.ac.ir/Parvin_Eslami,1,27
-839,GHasem Eslami,Administrative and economic sciences,Aerospace engineering,"Department of Management, Economics and Administrative sciences",http://scimet.um.ac.ir/GHasem_Eslami,1,29
-739,Rohollah Eslami SHabjare,political science,Aerospace engineering,Faculty of Law and Political Science,http://scimet.um.ac.ir/Rohollah_EslamiSHabjare,0,0
-687,Abbas Ali Esmaeili,Science,Aerospace engineering,"Department of Chemistry, Sciences",http://scimet.um.ac.ir/AbbasAli_Esmaeili,1,34
+22,Mohammad Taher Ahmadi Shadmehri,Administrative and economic sciences,Economics,"Department of Economics, Economics and Administrative sciences",http://scimet.um.ac.ir/MohammadTaher_AhmadiShadmehri,0,0
+1404,Mohammad Javad Ahmadi Lahijani,Agriculture,Electrical engineering,"Department of Agronomy, Agriculture",http://scimet.um.ac.ir/MohammadJavad_AhmadiLahijani,1,24
+765,Ali Akhtarpour,Engineering,Geology,"Department of Civil Engineering, Engineering",http://scimet.um.ac.ir/Ali_Akhtarpour,1,25
+750,Seyed Javad Akhtarshenas,Science,Physics,"Department of Physics, Sciences",http://scimet.um.ac.ir/SeyedJavad_Akhtarshenas,0,0
+24,Zahra Ekhteyari,Faculty of Literature and Humanities,Philosophy,"Department of Persian Language and Literature, Letters and Humanities",http://scimet.um.ac.ir/Zahra_Ekhteyari,0,0
+815,Hossein Ali Akhlaghi Amiri,Engineering,Geology,"Department of Chemical Engineering, Engineering",http://scimet.um.ac.ir/HosseinAli_AkhlaghiAmiri,1,26
+23,Mahmood Akhavan Mahdavi,Engineering,Chemical engineering,"Department of Chemical Engineering, Engineering",http://scimet.um.ac.ir/Mahmood_AkhavanMahdavi,0,0
+533,Saeed Ostad Movahed,Science,Chemistry,"Department of Chemistry, Sciences",http://scimet.um.ac.ir/Saeed_OstadMovahed,0,0
+804,Rouhallah Asadi,Faculty of Literature and Humanities,Environmental science,"Department of Geography, Letters and Humanities",http://scimet.um.ac.ir/Rouhallah_Asadi,0,0
+144,Parvin Eslami,Science,Physics,"Department of Physics, Sciences",http://scimet.um.ac.ir/Parvin_Eslami,1,27
+839,GHasem Eslami,Administrative and economic sciences,Economics,"Department of Management, Economics and Administrative sciences",http://scimet.um.ac.ir/GHasem_Eslami,1,29
+739,Rohollah Eslami SHabjare,political science,Political science,Faculty of Law and Political Science,http://scimet.um.ac.ir/Rohollah_EslamiSHabjare,0,0
+687,Abbas Ali Esmaeili,Science,Chemistry,"Department of Chemistry, Sciences",http://scimet.um.ac.ir/AbbasAli_Esmaeili,1,34
 1407,Ali Esmaeili,Engineering,Aerospace engineering,"Department of Mechanical Engineering, Engineering",http://scimet.um.ac.ir/Ali_Esmaeili,1,37
-28,Kazem Esmaili,Agriculture,Aerospace engineering,"Department of Water Science and Engineering, Agriculture",http://scimet.um.ac.ir/Kazem_Esmaili,1,53
-393,Ali Ashraf Emami,Theology and Islamic Sciences,Aerospace engineering,"Department of Religion and Comparative Mysticism, Theology",http://scimet.um.ac.ir/Ali_AshrafEmami,0,0
-644,Ahmadreza Asgharpourmasouleh,Faculty of Literature and Humanities,Aerospace engineering,"Department of Social Sciences, Letters and Humanities",http://scimet.um.ac.ir/Ahmadreza_Asgharpourmasouleh,1,54
-667,Seyyed Mohsen Asgari Nekah,Educational sciences and psychology,Aerospace engineering,Education and Psychology,http://scimet.um.ac.ir/SeyyedMohsen_AsgariNekah,0,0
-31,Mohammad Reza Esfahani,Engineering,Aerospace engineering,"Department of Civil Engineering, Engineering",http://scimet.um.ac.ir/MohammadReza_Esfahani,0,0
-167,Hossien Afkhami Rohani,Human Resource Management,Aerospace engineering,Department of Islamic Management,http://scimet.um.ac.ir/Hossien_AfkhamiRohani,0,0
-697,Aref Afsharfard,Engineering,Aerospace engineering,"Department of Mechanical Engineering, Engineering",http://scimet.um.ac.ir/Aref_Afsharfard,1,55
-849,Abbas Aghdassi,Theology and Islamic Sciences,Aerospace engineering,"Department of History and Civilization of Muslim Nations, Theology",http://scimet.um.ac.ir/Abbas_Aghdassi,0,0
-130,Mohammad Reza Akbarzadeh Totonchi,Engineering,Aerospace engineering,"Department of Electrical Engineering, Engineering",http://scimet.um.ac.ir/MohammadReza_AkbarzadehTotonchi,0,0
-454,Morteza Akbari,Natural resources and environment,Aerospace engineering,Natural Resources and Environment,http://scimet.um.ac.ir/Morteza_Akbari,1,57
-872,Sadegh Elhami,Engineering,Aerospace engineering,"Department of Mechanical Engineering, Engineering",http://scimet.um.ac.ir/Sadegh_Elhami,1,66
-668,Mostafa Amirfakhriyan,Faculty of Literature and Humanities,Aerospace engineering,"Department of Geography, Letters and Humanities",http://scimet.um.ac.ir/Mostafa_Amirfakhriyan,0,0
-501,Maghsoud Amin Khandaghi,Educational sciences and psychology,Aerospace engineering,Education and Psychology,http://scimet.um.ac.ir/Maghsoud_AminKhandaghi,1,67
-33,Babak Aminshahidy,Engineering,Aerospace engineering,"Department of Chemical Engineering, Engineering",http://scimet.um.ac.ir/Babak_Aminshahidy,0,0
-803,Haleh Amintoosi,Engineering,Aerospace engineering,"Department of Computer Engineering, Engineering",http://scimet.um.ac.ir/Haleh_Amintoosi,1,68
-443,Mohammad Amini,Mathematical Sciences,Art,"Department of Statistics, Mathematics",http://scimet.um.ac.ir/Mohammad_Amini,1,78
-513,Azam Amini,"<g id=""1"">EPB_36_Translation Assignment 4_</g> <g id=""2"">International Law</g>",Economics,Faculty of Law and Political Science,http://scimet.um.ac.ir/Azam_Amini,1,110
-35,Mohammad Hassan Entezari,Science,Mechanical engineering,"Department of Chemistry, Sciences",http://scimet.um.ac.ir/MohammadHassan_Entezari,1,111
-826,F Ensan,Engineering,Geography,"Department of Computer Engineering, Engineering",http://scimet.um.ac.ir/F_Ensan,1,113
-610,Mohammad Izadyar,Science,Environmental science,"Department of Chemistry, Sciences",http://scimet.um.ac.ir/Mohammad_Izadyar,0,0
-39,Mohamad Taghi Imanpour,Faculty of Literature and Humanities,Geology,"Department of History, Letters and Humanities",http://scimet.um.ac.ir/MohamadTaghi_Imanpour,0,0
-356,Abolfazl Babakhani,Engineering,Environmental science,"Department of Material Engineering, Engineering",http://scimet.um.ac.ir/Abolfazl_Babakhani,1,114
-537,Hasan Baghishani,Veterinary medicine,Geology,"Department of Basical Sciences, Veterinary medicine",http://scimet.um.ac.ir/Hasan_Baghishani,0,0
-1402,Rouholla Bagheri,Administrative and economic sciences,Environmental science,"Department of Management, Economics and Administrative sciences",http://scimet.um.ac.ir/Rouholla_Bagheri,0,0
-177,Masoumeh Bahreini,Science,Geography,"Department of Biology, Sciences",http://scimet.um.ac.ir/Masoumeh_Bahreini,1,115
-857,Hossein Bazrafshan Moghaddam,Science,Geography,"Department of Physics, Sciences",http://scimet.um.ac.ir/Hossein_BazrafshanMoghaddam,1,116
-178,Asgar Bradaran Rahimi,Engineering,Mechanical engineering,"Department of Mechanical Engineering, Engineering",http://scimet.um.ac.ir/Asgar_BradaranRahimi,0,0
-1456,Jalal Baradaran Motie,Agriculture,Computer engineering,"Department of Biosystems Engineering, Agriculture",http://scimet.um.ac.ir/Jalal_BaradaranMotie,1,117
-467,Hassan Borji,Veterinary medicine,Mathematics,"Department of Pathobiology, Veterinary medicine",http://scimet.um.ac.ir/Hassan_Borji,1,118
-670,Sareh Baghaee Ravari,Agriculture,Mathematics,"Department of Plant protection, Agriculture",http://scimet.um.ac.ir/Sareh_BaghaeeRavari,1,120
-551,Majid Baniadam,Engineering,Mathematics,"Department of Chemical Engineering, Engineering",http://scimet.um.ac.ir/Majid_Baniadam,1,121
-183,Ahmad Reza Bahrami,Science,Mathematics,"Department of Biology, Sciences",http://scimet.um.ac.ir/AhmadReza_Bahrami,0,0
-831,Hassan Behzadi,Educational sciences and psychology,Mathematics,"Department of Librarianship, Education and Psychology",http://scimet.um.ac.ir/Hassan_Behzadi,1,122
-669,Aliasghar Beheshti,Agriculture,Mathematics,"Department of Water Science and Engineering, Agriculture",http://scimet.um.ac.ir/Aliasghar_Beheshti,1,123
-496,Behshid Behkamal,Engineering,Mathematics,"Department of Computer Engineering, Engineering",http://scimet.um.ac.ir/Behshid_Behkamal,1,124
-184,Morteza Behnam Rassouli,Science,Mathematics,"Department of Biology, Sciences",http://scimet.um.ac.ir/Morteza_BehnamRassouli,1,125
-713,Mehdi Behname,Administrative and economic sciences,Mathematics,"Department of Economics, Economics and Administrative sciences",http://scimet.um.ac.ir/Mehdi_Behname,1,126
-436,Behrooz Beidokhti,Engineering,Mathematics,"Department of Material Engineering, Engineering",http://scimet.um.ac.ir/Behrooz_Beidokhti,1,127
-801,Imanollah Bigdeli,Educational sciences and psychology,Mathematics,"Department of Clinical Psychology, Education and Psychology",http://scimet.um.ac.ir/Imanollah_Bigdeli,1,128
-411,Majid Pakizeh,Engineering,Mathematics,"Department of Chemical Engineering, Engineering",http://scimet.um.ac.ir/Majid_Pakizeh,1,129
-440,Samad Paydar,Engineering,Mathematics,"Department of Computer Engineering, Engineering",http://scimet.um.ac.ir/Samad_Paydar,1,130
+28,Kazem Esmaili,Agriculture,Art,"Department of Water Science and Engineering, Agriculture",http://scimet.um.ac.ir/Kazem_Esmaili,1,53
+393,Ali Ashraf Emami,Theology and Islamic Sciences,History,"Department of Religion and Comparative Mysticism, Theology",http://scimet.um.ac.ir/Ali_AshrafEmami,0,0
+644,Ahmadreza Asgharpourmasouleh,Faculty of Literature and Humanities,Economics,"Department of Social Sciences, Letters and Humanities",http://scimet.um.ac.ir/Ahmadreza_Asgharpourmasouleh,1,54
+667,Seyyed Mohsen Asgari Nekah,Educational sciences and psychology,Biology,Education and Psychology,http://scimet.um.ac.ir/SeyyedMohsen_AsgariNekah,0,0
+31,Mohammad Reza Esfahani,Engineering,Civil engineering,"Department of Civil Engineering, Engineering",http://scimet.um.ac.ir/MohammadReza_Esfahani,0,0
+167,Hossien Afkhami Rohani,Human Resource Management,Economics,Department of Islamic Management,http://scimet.um.ac.ir/Hossien_AfkhamiRohani,0,0
+697,Aref Afsharfard,Engineering,Systems engineering,"Department of Mechanical Engineering, Engineering",http://scimet.um.ac.ir/Aref_Afsharfard,1,55
+849,Abbas Aghdassi,Theology and Islamic Sciences,Sociology,"Department of History and Civilization of Muslim Nations, Theology",http://scimet.um.ac.ir/Abbas_Aghdassi,0,0
+130,Mohammad Reza Akbarzadeh Totonchi,Engineering,Electrical engineering,"Department of Electrical Engineering, Engineering",http://scimet.um.ac.ir/MohammadReza_AkbarzadehTotonchi,0,0
+454,Morteza Akbari,Natural resources and environment,Geology,Natural Resources and Environment,http://scimet.um.ac.ir/Morteza_Akbari,1,57
+872,Sadegh Elhami,Engineering,Mechanical engineering,"Department of Mechanical Engineering, Engineering",http://scimet.um.ac.ir/Sadegh_Elhami,1,66
+668,Mostafa Amirfakhriyan,Faculty of Literature and Humanities,Environmental science,"Department of Geography, Letters and Humanities",http://scimet.um.ac.ir/Mostafa_Amirfakhriyan,0,0
+501,Maghsoud Amin Khandaghi,Educational sciences and psychology,Psychology,Education and Psychology,http://scimet.um.ac.ir/Maghsoud_AminKhandaghi,1,67
+33,Babak Aminshahidy,Engineering,Chemistry,"Department of Chemical Engineering, Engineering",http://scimet.um.ac.ir/Babak_Aminshahidy,0,0
+803,Haleh Amintoosi,Engineering,Computer science,"Department of Computer Engineering, Engineering",http://scimet.um.ac.ir/Haleh_Amintoosi,1,68
+443,Mohammad Amini,Mathematical Sciences,Mathematics,"Department of Statistics, Mathematics",http://scimet.um.ac.ir/Mohammad_Amini,1,78
+513,Azam Amini,"<g id=""1"">EPB_36_Translation Assignment 4_</g> <g id=""2"">International Law</g>",Political science,Faculty of Law and Political Science,http://scimet.um.ac.ir/Azam_Amini,1,110
+35,Mohammad Hassan Entezari,Science,Mathematics,"Department of Chemistry, Sciences",http://scimet.um.ac.ir/MohammadHassan_Entezari,1,111
+826,F Ensan,Engineering,Computer science,"Department of Computer Engineering, Engineering",http://scimet.um.ac.ir/F_Ensan,1,113
+610,Mohammad Izadyar,Science,Chemistry,"Department of Chemistry, Sciences",http://scimet.um.ac.ir/Mohammad_Izadyar,0,0
+39,Mohamad Taghi Imanpour,Faculty of Literature and Humanities,History,"Department of History, Letters and Humanities",http://scimet.um.ac.ir/MohamadTaghi_Imanpour,0,0
+356,Abolfazl Babakhani,Engineering,Mechanical engineering,"Department of Material Engineering, Engineering",http://scimet.um.ac.ir/Abolfazl_Babakhani,1,114
+537,Hasan Baghishani,Veterinary medicine,Medicine,"Department of Basical Sciences, Veterinary medicine",http://scimet.um.ac.ir/Hasan_Baghishani,0,0
+1402,Rouholla Bagheri,Administrative and economic sciences,Computer science,"Department of Management, Economics and Administrative sciences",http://scimet.um.ac.ir/Rouholla_Bagheri,0,0
+177,Masoumeh Bahreini,Science,Biology,"Department of Biology, Sciences",http://scimet.um.ac.ir/Masoumeh_Bahreini,1,115
+857,Hossein Bazrafshan Moghaddam,Science,Physics,"Department of Physics, Sciences",http://scimet.um.ac.ir/Hossein_BazrafshanMoghaddam,1,116
+178,Asgar Bradaran Rahimi,Engineering,Psychology,"Department of Mechanical Engineering, Engineering",http://scimet.um.ac.ir/Asgar_BradaranRahimi,0,0
+1456,Jalal Baradaran Motie,Agriculture,Engineering drawing,"Department of Biosystems Engineering, Agriculture",http://scimet.um.ac.ir/Jalal_BaradaranMotie,1,117
+467,Hassan Borji,Veterinary medicine,Biology,"Department of Pathobiology, Veterinary medicine",http://scimet.um.ac.ir/Hassan_Borji,1,118
+670,Sareh Baghaee Ravari,Agriculture,Biology,"Department of Plant protection, Agriculture",http://scimet.um.ac.ir/Sareh_BaghaeeRavari,1,120
+551,Majid Baniadam,Engineering,Chemical engineering,"Department of Chemical Engineering, Engineering",http://scimet.um.ac.ir/Majid_Baniadam,1,121
+183,Ahmad Reza Bahrami,Science,Biology,"Department of Biology, Sciences",http://scimet.um.ac.ir/AhmadReza_Bahrami,0,0
+831,Hassan Behzadi,Educational sciences and psychology,Psychology,"Department of Librarianship, Education and Psychology",http://scimet.um.ac.ir/Hassan_Behzadi,1,122
+669,Aliasghar Beheshti,Agriculture,Engineering ethics,"Department of Water Science and Engineering, Agriculture",http://scimet.um.ac.ir/Aliasghar_Beheshti,1,123
+496,Behshid Behkamal,Engineering,Computer science,"Department of Computer Engineering, Engineering",http://scimet.um.ac.ir/Behshid_Behkamal,1,124
+184,Morteza Behnam Rassouli,Science,Biology,"Department of Biology, Sciences",http://scimet.um.ac.ir/Morteza_BehnamRassouli,1,125
+713,Mehdi Behname,Administrative and economic sciences,Economics,"Department of Economics, Economics and Administrative sciences",http://scimet.um.ac.ir/Mehdi_Behname,1,126
+436,Behrooz Beidokhti,Engineering,Physics,"Department of Material Engineering, Engineering",http://scimet.um.ac.ir/Behrooz_Beidokhti,1,127
+801,Imanollah Bigdeli,Educational sciences and psychology,Psychology,"Department of Clinical Psychology, Education and Psychology",http://scimet.um.ac.ir/Imanollah_Bigdeli,1,128
+411,Majid Pakizeh,Engineering,Chemistry,"Department of Chemical Engineering, Engineering",http://scimet.um.ac.ir/Majid_Pakizeh,1,129
+440,Samad Paydar,Engineering,Computer science,"Department of Computer Engineering, Engineering",http://scimet.um.ac.ir/Samad_Paydar,1,130
 620,Mohsen Parvizi,Mathematical Sciences,Mathematics,"Department of Pure Mathematics, Mathematics",http://scimet.um.ac.ir/Mohsen_Parvizi,1,131
-539,Abbas Parham,Veterinary medicine,Mathematics,"Department of Basical Sciences, Veterinary medicine",http://scimet.um.ac.ir/Abbas_Parham,1,132
-187,Naser Pariz,Engineering,Mathematics,"Department of Electrical Engineering, Engineering",http://scimet.um.ac.ir/Naser_Pariz,1,133
-363,Mohammad Passandideh-Fard,Engineering,Mathematics,"Department of Mechanical Engineering, Engineering",http://scimet.um.ac.ir/Mohammad_PassandidehFard,1,134
-797,Mehdi Panahi,Engineering,Mathematics,"Department of Chemical Engineering, Engineering",http://scimet.um.ac.ir/Mehdi_Panahi,1,135
-419,Mahdi Pourafshari Chenar,Engineering,Mathematics,"Department of Chemical Engineering, Engineering",http://scimet.um.ac.ir/Mahdi_PourafshariChenar,1,138
-189,Hamid Reza Pourreza,Engineering,Mathematics,"Department of Computer Engineering, Engineering",http://scimet.um.ac.ir/HamidReza_Pourreza,0,0
-169,Mojtaba Poursalimi,Administrative and economic sciences,Mathematics,"Department of Management, Economics and Administrative sciences",http://scimet.um.ac.ir/Mojtaba_Poursalimi,1,139
-1423,Parsa Pahlavan,Architecture and Urbanism,Mathematics,Architecture and Urban Engineering,http://scimet.um.ac.ir/Parsa_Pahlavan,1,140
-829,Atefeh Pirani Osguei,Science,Mathematics,"Department of Biology, Sciences",http://scimet.um.ac.ir/Atefeh_PiraniOsguei,0,0
-500,Mohammadali Pirayesh,Engineering,Mathematics,"Department of Industrial Engineering, Engineering",http://scimet.um.ac.ir/Mohammadali_Pirayesh,1,142
-718,Masoumeh Tajafari,Educational sciences and psychology,Mathematics,"Department of Librarianship, Education and Psychology",http://scimet.um.ac.ir/Masoumeh_Tajafari,0,0
-357,Seyed Mohammad Ali Taghavi,Political science - political thought in the West,Mathematics,Faculty of Law and Political Science,http://scimet.um.ac.ir/SeyedMohammadAli_Taghavi,0,0
-702,Seyyedeh Fatemeh Taghavi Shahri,Science,Mathematics,"Department of Physics, Sciences",http://scimet.um.ac.ir/SeyyedehFatemeh_TaghaviShahri,0,0
-608,Masoud Taghizadeh,Agriculture,Mathematics,"Department of Food Science Industry, Agriculture",http://scimet.um.ac.ir/Masoud_Taghizadeh,1,144
-632,Reza Takjoo,Science,Mathematics,"Department of Chemistry, Sciences",http://scimet.um.ac.ir/Reza_Takjoo,1,147
-746,Mostafa Tavakoli,Mathematical Sciences,Mathematics,Mathematics,http://scimet.um.ac.ir/Mostafa_Tavakoli,1,148
-470,Mohammadreza Tavakkolizadeh,Engineering,Mathematics,"Department of Civil Engineering, Engineering",http://scimet.um.ac.ir/Mohammadreza_Tavakkolizadeh,1,150
-199,Ali Reza Teymourtash,Engineering,Mathematics,"Department of Mechanical Engineering, Engineering",http://scimet.um.ac.ir/AliReza_Teymourtash,1,151
-331,Kurosh Javidan,Science,Mathematics,"Department of Physics, Sciences",http://scimet.um.ac.ir/Kurosh_Javidan,1,152
-201,Mohammad Hossein Javidi Dasht Bayaz,Engineering,Mathematics,"Department of Electrical Engineering, Engineering",http://scimet.um.ac.ir/MohammadHossein_JavidiDashtBayaz,0,0
+539,Abbas Parham,Veterinary medicine,Medicine,"Department of Basical Sciences, Veterinary medicine",http://scimet.um.ac.ir/Abbas_Parham,1,132
+187,Naser Pariz,Engineering,Physics,"Department of Electrical Engineering, Engineering",http://scimet.um.ac.ir/Naser_Pariz,1,133
+363,Mohammad Passandideh-Fard,Engineering,Psychology,"Department of Mechanical Engineering, Engineering",http://scimet.um.ac.ir/Mohammad_PassandidehFard,1,134
+797,Mehdi Panahi,Engineering,Chemical engineering,"Department of Chemical Engineering, Engineering",http://scimet.um.ac.ir/Mehdi_Panahi,1,135
+419,Mahdi Pourafshari Chenar,Engineering,Chemical engineering,"Department of Chemical Engineering, Engineering",http://scimet.um.ac.ir/Mahdi_PourafshariChenar,1,138
+189,Hamid Reza Pourreza,Engineering,Computer science,"Department of Computer Engineering, Engineering",http://scimet.um.ac.ir/HamidReza_Pourreza,0,0
+169,Mojtaba Poursalimi,Administrative and economic sciences,Computer science,"Department of Management, Economics and Administrative sciences",http://scimet.um.ac.ir/Mojtaba_Poursalimi,1,139
+1423,Parsa Pahlavan,Architecture and Urbanism,Physics,Architecture and Urban Engineering,http://scimet.um.ac.ir/Parsa_Pahlavan,1,140
+829,Atefeh Pirani Osguei,Science,Biology,"Department of Biology, Sciences",http://scimet.um.ac.ir/Atefeh_PiraniOsguei,0,0
+500,Mohammadali Pirayesh,Engineering,Industrial engineering,"Department of Industrial Engineering, Engineering",http://scimet.um.ac.ir/Mohammadali_Pirayesh,1,142
+718,Masoumeh Tajafari,Educational sciences and psychology,Psychology,"Department of Librarianship, Education and Psychology",http://scimet.um.ac.ir/Masoumeh_Tajafari,0,0
+357,Seyed Mohammad Ali Taghavi,Political science - political thought in the West,Political science,Faculty of Law and Political Science,http://scimet.um.ac.ir/SeyedMohammadAli_Taghavi,0,0
+702,Seyyedeh Fatemeh Taghavi Shahri,Science,Physics,"Department of Physics, Sciences",http://scimet.um.ac.ir/SeyyedehFatemeh_TaghaviShahri,0,0
+608,Masoud Taghizadeh,Agriculture,Computer science,"Department of Food Science Industry, Agriculture",http://scimet.um.ac.ir/Masoud_Taghizadeh,1,144
+632,Reza Takjoo,Science,Art,"Department of Chemistry, Sciences",http://scimet.um.ac.ir/Reza_Takjoo,1,147
+746,Mostafa Tavakoli,Mathematical Sciences,Medicine,Mathematics,http://scimet.um.ac.ir/Mostafa_Tavakoli,1,148
+470,Mohammadreza Tavakkolizadeh,Engineering,Engineering ethics,"Department of Civil Engineering, Engineering",http://scimet.um.ac.ir/Mohammadreza_Tavakkolizadeh,1,150
+199,Ali Reza Teymourtash,Engineering,Mechanical engineering,"Department of Mechanical Engineering, Engineering",http://scimet.um.ac.ir/AliReza_Teymourtash,1,151
+331,Kurosh Javidan,Science,Physics,"Department of Physics, Sciences",http://scimet.um.ac.ir/Kurosh_Javidan,1,152
+201,Mohammad Hossein Javidi Dasht Bayaz,Engineering,Electrical engineering,"Department of Electrical Engineering, Engineering",http://scimet.um.ac.ir/MohammadHossein_JavidiDashtBayaz,0,0
 599,Mehdi Jabbari Nooghabi,Mathematical Sciences,Mathematics,"Department of Statistics, Mathematics",http://scimet.um.ac.ir/Mehdi_JabbariNooghabi,1,153
-805,Pedram Jam,Faculty of Literature and Humanities,Political science,"Department of History, Letters and Humanities",http://scimet.um.ac.ir/Pedram_Jam,1,154
-870,Hamed Janani,Engineering,Political science,"Department of Chemical Engineering, Engineering",http://scimet.um.ac.ir/Hamed_Janani,1,155
-394,Ali Javadmanesh,Agriculture,Mathematics,"Department of Animal Sciences, Agriculture",http://scimet.um.ac.ir/Ali_Javadmanesh,1,156
-490,Mohammad Hassan Djavareshkian,Engineering,Mathematics,"Department of Mechanical Engineering, Engineering",http://scimet.um.ac.ir/MohammadHassan_Djavareshkian,0,0
-386,Abbas Javareshkian,Theology and Islamic Sciences,Computer science,"Department of Islamic Philosophy, Theology",http://scimet.um.ac.ir/Abbas_Javareshkian,0,0
-207,Mohammad Reza Javaheri,Theology and Islamic Sciences,Mechanical engineering,Theology,http://scimet.um.ac.ir/MohammadReza_Javaheri,0,0
-662,Mojtaba Joodaki,Engineering,Biology,"Department of Electrical Engineering, Engineering",http://scimet.um.ac.ir/Mojtaba_Joodaki,1,158
-170,Mohsen Jahan,Agriculture,Physics,"Department of Agronomy, Agriculture",http://scimet.um.ac.ir/Mohsen_Jahan,1,159
-721,Ali Cheshomi,Administrative and economic sciences,Engineering drawing,"Department of Economics, Economics and Administrative sciences",http://scimet.um.ac.ir/Ali_Cheshomi,1,161
+805,Pedram Jam,Faculty of Literature and Humanities,History,"Department of History, Letters and Humanities",http://scimet.um.ac.ir/Pedram_Jam,1,154
+870,Hamed Janani,Engineering,Chemistry,"Department of Chemical Engineering, Engineering",http://scimet.um.ac.ir/Hamed_Janani,1,155
+394,Ali Javadmanesh,Agriculture,Sociology,"Department of Animal Sciences, Agriculture",http://scimet.um.ac.ir/Ali_Javadmanesh,1,156
+490,Mohammad Hassan Djavareshkian,Engineering,Mechanical engineering,"Department of Mechanical Engineering, Engineering",http://scimet.um.ac.ir/MohammadHassan_Djavareshkian,0,0
+386,Abbas Javareshkian,Theology and Islamic Sciences,Philosophy,"Department of Islamic Philosophy, Theology",http://scimet.um.ac.ir/Abbas_Javareshkian,0,0
+207,Mohammad Reza Javaheri,Theology and Islamic Sciences,Philosophy,Theology,http://scimet.um.ac.ir/MohammadReza_Javaheri,0,0
+662,Mojtaba Joodaki,Engineering,Control engineering,"Department of Electrical Engineering, Engineering",http://scimet.um.ac.ir/Mojtaba_Joodaki,1,158
+170,Mohsen Jahan,Agriculture,Biology,"Department of Agronomy, Agriculture",http://scimet.um.ac.ir/Mohsen_Jahan,1,159
+721,Ali Cheshomi,Administrative and economic sciences,Economics,"Department of Economics, Economics and Administrative sciences",http://scimet.um.ac.ir/Ali_Cheshomi,1,161
 593,Monireh Cheniany,Science,Biology,"Department of Biology, Sciences",http://scimet.um.ac.ir/Monireh_Cheniany,1,162
-120,Mohammad Hassan Haeri,Theology and Islamic Sciences,Biology,"Department of Jurisprudence, Theology",http://scimet.um.ac.ir/MohammadHassan_Haeri,0,0
-633,Nasser Hafezi Moghaddas,Science,History,"Department of Geology, Sciences",http://scimet.um.ac.ir/Nasser_HafeziMoghaddas,0,0
-855,Bijan Hejazi,Engineering,Chemical engineering,"Department of Chemical Engineering, Engineering",http://scimet.um.ac.ir/Bijan_Hejazi,1,163
-208,Shirin Hejazian,Mathematical Sciences,Psychology,"Department of Pure Mathematics, Mathematics",http://scimet.um.ac.ir/Shirin_Hejazian,1,164
-119,Farhang Haddad,Science,Engineering management,"Department of Biology, Sciences",http://scimet.um.ac.ir/Farhang_Haddad,1,165
-480,Alireza Hadadian,Administrative and economic sciences,Computer science,"Department of Management, Economics and Administrative sciences",http://scimet.um.ac.ir/Alireza_Hadadian,1,166
-442,Mahdi Hasanzadeh,Theology and Islamic Sciences,Biology,"Department of Religion and Comparative Mysticism, Theology",http://scimet.um.ac.ir/Mahdi_Hasanzadeh,1,172
-588,Behrooz Hassani,Engineering,Economics,"Department of Mechanical Engineering, Engineering",http://scimet.um.ac.ir/Behrooz_Hassani,1,174
-127,Seyed Reza Hosseinzadeh,Faculty of Literature and Humanities,Materials science,"Department of Geography, Letters and Humanities",http://scimet.um.ac.ir/SeyedReza_Hosseinzadeh,1,176
+120,Mohammad Hassan Haeri,Theology and Islamic Sciences,Philosophy,"Department of Jurisprudence, Theology",http://scimet.um.ac.ir/MohammadHassan_Haeri,0,0
+633,Nasser Hafezi Moghaddas,Science,Geology,"Department of Geology, Sciences",http://scimet.um.ac.ir/Nasser_HafeziMoghaddas,0,0
+855,Bijan Hejazi,Engineering,Chemistry,"Department of Chemical Engineering, Engineering",http://scimet.um.ac.ir/Bijan_Hejazi,1,163
+208,Shirin Hejazian,Mathematical Sciences,Mathematics,"Department of Pure Mathematics, Mathematics",http://scimet.um.ac.ir/Shirin_Hejazian,1,164
+119,Farhang Haddad,Science,Biology,"Department of Biology, Sciences",http://scimet.um.ac.ir/Farhang_Haddad,1,165
+480,Alireza Hadadian,Administrative and economic sciences,Business,"Department of Management, Economics and Administrative sciences",http://scimet.um.ac.ir/Alireza_Hadadian,1,166
+442,Mahdi Hasanzadeh,Theology and Islamic Sciences,Philosophy,"Department of Religion and Comparative Mysticism, Theology",http://scimet.um.ac.ir/Mahdi_Hasanzadeh,1,172
+588,Behrooz Hassani,Engineering,Engineering management,"Department of Mechanical Engineering, Engineering",http://scimet.um.ac.ir/Behrooz_Hassani,1,174
+127,Seyed Reza Hosseinzadeh,Faculty of Literature and Humanities,Sociology,"Department of Geography, Letters and Humanities",http://scimet.um.ac.ir/SeyedReza_Hosseinzadeh,1,176
 444,Razvan Hosseingholizadeh,Educational sciences and psychology,Psychology,Education and Psychology,http://scimet.um.ac.ir/Razvan_Hosseingholizadeh,0,0
-520,Seyed Mahmoud Hosseini,Engineering,Chemistry,"Department of Industrial Engineering, Engineering",http://scimet.um.ac.ir/SeyedMahmoud_Hosseini,1,177
-692,Seyed Ebrahim Hosseini,Engineering,Computer science,"Department of Electrical Engineering, Engineering",http://scimet.um.ac.ir/SeyedEbrahim_Hosseini,0,0
-1460,Seyed Ruhollah Hosseini,Educational sciences and psychology,Mathematics,"Department of Clinical Psychology, Education and Psychology",http://scimet.um.ac.ir/SeyedRuhollah_Hosseini,1,182
-652,Seyed Kamal Hosseini Sani,Engineering,Medicine,"Department of Electrical Engineering, Engineering",http://scimet.um.ac.ir/SeyedKamal_HosseiniSani,0,0
-1400,Seyed Alireza Hosseini Kakhak,Sport science,Electronic engineering,"Department of Exercise Physiology, Sports and Physical Education",http://scimet.um.ac.ir/Seyedalireza_HosseiniKakhak,1,184
-622,Reza Hesarzadeh,Administrative and economic sciences,Psychology,"Department of Accounting, Economics and Administrative sciences",http://scimet.um.ac.ir/Reza_Hesarzadeh,1,185
-214,Alireza Haghparast,Veterinary medicine,Chemical engineering,"Department of Pathobiology, Veterinary medicine",http://scimet.um.ac.ir/Alireza_Haghparast,1,186
-1405,Farzad Hayati,Veterinary medicine,Chemical engineering,"Department of Clinical Sciences, Veterinary medicine",http://scimet.um.ac.ir/Farzad_Hayati,1,187
-550,Mohammad Heidarpour,Veterinary medicine,Chemical engineering,"Department of Clinical Sciences, Veterinary medicine",http://scimet.um.ac.ir/Mohammad_Heidarpour,1,189
-794,Akbar Heydari Tashekaboud,Faculty of Literature and Humanities,Computer science,"Department of Geography, Letters and Humanities",http://scimet.um.ac.ir/Akbar_HeydariTashekaboud,1,190
-217,Morteza Khademi,Engineering,Materials science,"Department of Electrical Engineering, Engineering",http://scimet.um.ac.ir/Morteza_Khademi,1,191
-219,Saeid Khanzadi,Veterinary medicine,Materials science,Veterinary medicine,http://scimet.um.ac.ir/Saeid_Khanzadi,1,194
-332,Mohammad Khanehbad,Science,Industrial engineering,"Department of Geology, Sciences",http://scimet.um.ac.ir/Mohammad_Khanehbad,1,195
-408,Mehdi Khojastehpour,Agriculture,Mathematics,"Department of Biosystems Engineering, Agriculture",http://scimet.um.ac.ir/Mehdi_Khojastehpour,1,196
-845,Rasool Khodabakhshian Kargar,Agriculture,Mathematics,"Department of Biosystems Engineering, Agriculture",http://scimet.um.ac.ir/Rasool_KhodabakhshianKargar,0,0
-115,Saeed Reza Khodashenas,Agriculture,Art,"Department of Water Science and Engineering, Agriculture",http://scimet.um.ac.ir/SaeedReza_Khodashenas,1,197
+520,Seyed Mahmoud Hosseini,Engineering,Mechanical engineering,"Department of Industrial Engineering, Engineering",http://scimet.um.ac.ir/SeyedMahmoud_Hosseini,1,177
+692,Seyed Ebrahim Hosseini,Engineering,Mechanical engineering,"Department of Electrical Engineering, Engineering",http://scimet.um.ac.ir/SeyedEbrahim_Hosseini,0,0
+1460,Seyed Ruhollah Hosseini,Educational sciences and psychology,Psychology,"Department of Clinical Psychology, Education and Psychology",http://scimet.um.ac.ir/SeyedRuhollah_Hosseini,1,182
+652,Seyed Kamal Hosseini Sani,Engineering,Electrical engineering,"Department of Electrical Engineering, Engineering",http://scimet.um.ac.ir/SeyedKamal_HosseiniSani,0,0
+1400,Seyed Alireza Hosseini Kakhak,Sport science,Medicine,"Department of Exercise Physiology, Sports and Physical Education",http://scimet.um.ac.ir/Seyedalireza_HosseiniKakhak,1,184
+622,Reza Hesarzadeh,Administrative and economic sciences,Business,"Department of Accounting, Economics and Administrative sciences",http://scimet.um.ac.ir/Reza_Hesarzadeh,1,185
+214,Alireza Haghparast,Veterinary medicine,Biology,"Department of Pathobiology, Veterinary medicine",http://scimet.um.ac.ir/Alireza_Haghparast,1,186
+1405,Farzad Hayati,Veterinary medicine,Medicine,"Department of Clinical Sciences, Veterinary medicine",http://scimet.um.ac.ir/Farzad_Hayati,1,187
+550,Mohammad Heidarpour,Veterinary medicine,Medicine,"Department of Clinical Sciences, Veterinary medicine",http://scimet.um.ac.ir/Mohammad_Heidarpour,1,189
+794,Akbar Heydari Tashekaboud,Faculty of Literature and Humanities,Biology,"Department of Geography, Letters and Humanities",http://scimet.um.ac.ir/Akbar_HeydariTashekaboud,1,190
+217,Morteza Khademi,Engineering,Geography,"Department of Electrical Engineering, Engineering",http://scimet.um.ac.ir/Morteza_Khademi,1,191
+219,Saeid Khanzadi,Veterinary medicine,Chemistry,Veterinary medicine,http://scimet.um.ac.ir/Saeid_Khanzadi,1,194
+332,Mohammad Khanehbad,Science,Geology,"Department of Geology, Sciences",http://scimet.um.ac.ir/Mohammad_Khanehbad,1,195
+408,Mehdi Khojastehpour,Agriculture,Engineering drawing,"Department of Biosystems Engineering, Agriculture",http://scimet.um.ac.ir/Mehdi_Khojastehpour,1,196
+845,Rasool Khodabakhshian Kargar,Agriculture,Engineering drawing,"Department of Biosystems Engineering, Agriculture",http://scimet.um.ac.ir/Rasool_KhodabakhshianKargar,0,0
+115,Saeed Reza Khodashenas,Agriculture,Psychology,"Department of Water Science and Engineering, Agriculture",http://scimet.um.ac.ir/SaeedReza_Khodashenas,1,197
 751,Babak KHoramian Toosi,Veterinary medicine,Medicine,"Department of Clinical Sciences, Veterinary medicine",http://scimet.um.ac.ir/Babak_KHoramianTousi,1,198
-377,Kazem Khashyarmanesh,Mathematical Sciences,Medicine,"Department of Pure Mathematics, Mathematics",http://scimet.um.ac.ir/Kazem_Khashyarmanesh,1,199
-685,Omid Ali Kharazmi,Faculty of Literature and Humanities,Civil engineering,"Department of Geography, Letters and Humanities",http://scimet.um.ac.ir/OmidAli_Kharazmi,1,200
-707,Alireza Khorakian,Administrative and economic sciences,Mechanical engineering,"Department of Management, Economics and Administrative sciences",http://scimet.um.ac.ir/Alireza_Khorakian,1,201
-224,Hossein Khoshbin Ghomash,Engineering,Physics,"Department of Electrical Engineering, Engineering",http://scimet.um.ac.ir/Hossein_KhoshbinGhomash,1,202
-430,Masood Khoshsaligheh,Faculty of Literature and Humanities,Mathematics,"Department of English, Letters and Humanities",http://scimet.um.ac.ir/Masood_Khoshsaligheh,1,203
-453,Javad Khoshnegah,Veterinary medicine,History,"Department of Clinical Sciences, Veterinary medicine",http://scimet.um.ac.ir/Javad_Khoshnegah,1,204
-824,Morteza Daneshyar,Theology and Islamic Sciences,Chemistry,"Department of History and Civilization of Muslim Nations, Theology",http://scimet.um.ac.ir/Morteza_Daneshyar,0,0
-665,Ali Davoodi,Engineering,Sociology,"Department of Material Engineering, Engineering",http://scimet.um.ac.ir/Ali_Davoodi,1,205
-728,Mohammad Taghi Dastorani,Natural resources and environment,Systems engineering,Natural Resources and Environment,http://scimet.um.ac.ir/MohammadTaghi_Dastorani,1,214
-696,Ali Dashti,Engineering,Biology,"Department of Chemical Engineering, Engineering",http://scimet.um.ac.ir/Ali_Dashti,1,217
+377,Kazem Khashyarmanesh,Mathematical Sciences,Mathematics,"Department of Pure Mathematics, Mathematics",http://scimet.um.ac.ir/Kazem_Khashyarmanesh,1,199
+685,Omid Ali Kharazmi,Faculty of Literature and Humanities,Economics,"Department of Geography, Letters and Humanities",http://scimet.um.ac.ir/OmidAli_Kharazmi,1,200
+707,Alireza Khorakian,Administrative and economic sciences,Business,"Department of Management, Economics and Administrative sciences",http://scimet.um.ac.ir/Alireza_Khorakian,1,201
+224,Hossein Khoshbin Ghomash,Engineering,Computer science,"Department of Electrical Engineering, Engineering",http://scimet.um.ac.ir/Hossein_KhoshbinGhomash,1,202
+430,Masood Khoshsaligheh,Faculty of Literature and Humanities,Philosophy,"Department of English, Letters and Humanities",http://scimet.um.ac.ir/Masood_Khoshsaligheh,1,203
+453,Javad Khoshnegah,Veterinary medicine,Biology,"Department of Clinical Sciences, Veterinary medicine",http://scimet.um.ac.ir/Javad_Khoshnegah,1,204
+824,Morteza Daneshyar,Theology and Islamic Sciences,Philosophy,"Department of History and Civilization of Muslim Nations, Theology",http://scimet.um.ac.ir/Morteza_Daneshyar,0,0
+665,Ali Davoodi,Engineering,Materials science,"Department of Material Engineering, Engineering",http://scimet.um.ac.ir/Ali_Davoodi,1,205
+728,Mohammad Taghi Dastorani,Natural resources and environment,Computer science,Natural Resources and Environment,http://scimet.um.ac.ir/MohammadTaghi_Dastorani,1,214
+696,Ali Dashti,Engineering,Chemistry,"Department of Chemical Engineering, Engineering",http://scimet.um.ac.ir/Ali_Dashti,1,217
 590,Arash Dourandish,Agriculture,Economics,"Department of Agricultural Economics, Agriculture",http://scimet.um.ac.ir/Arash_Dourandish,1,229
-426,Mahdi Doostparast,Mathematical Sciences,Economics,"Department of Statistics, Mathematics",http://scimet.um.ac.ir/Mahdi_Doostparast,1,230
-229,Hesam Dehghani,Veterinary medicine,Biology,"Department of Basical Sciences, Veterinary medicine",http://scimet.um.ac.ir/Hesam_Dehghani,1,231
-581,Farzad Dehghanian,Engineering,Chemistry,"Department of Industrial Engineering, Engineering",http://scimet.um.ac.ir/Farzad_Dehghanian,1,233
-231,Ahmad Reza Raji,Veterinary medicine,Mathematics,"Department of Basical Sciences, Veterinary medicine",http://scimet.um.ac.ir/AhmadReza_Raji,0,0
-619,Mehdi Rastgoo,Agriculture,Biology,"Department of Agronomy, Agriculture",http://scimet.um.ac.ir/Mehdi_Rastgoo,1,234
-591,Reihaneh Raisi Tousi,Mathematical Sciences,Business,"Department of Pure Mathematics, Mathematics",http://scimet.um.ac.ir/Reihaneh_RaisiTousi,1,236
+426,Mahdi Doostparast,Mathematical Sciences,Mathematics,"Department of Statistics, Mathematics",http://scimet.um.ac.ir/Mahdi_Doostparast,1,230
+229,Hesam Dehghani,Veterinary medicine,Environmental science,"Department of Basical Sciences, Veterinary medicine",http://scimet.um.ac.ir/Hesam_Dehghani,1,231
+581,Farzad Dehghanian,Engineering,Biology,"Department of Industrial Engineering, Engineering",http://scimet.um.ac.ir/Farzad_Dehghanian,1,233
+231,Ahmad Reza Raji,Veterinary medicine,Medicine,"Department of Basical Sciences, Veterinary medicine",http://scimet.um.ac.ir/AhmadReza_Raji,0,0
+619,Mehdi Rastgoo,Agriculture,Computer science,"Department of Agronomy, Agriculture",http://scimet.um.ac.ir/Mehdi_Rastgoo,1,234
+591,Reihaneh Raisi Tousi,Mathematical Sciences,Mathematics,"Department of Pure Mathematics, Mathematics",http://scimet.um.ac.ir/Reihaneh_RaisiTousi,1,236
 766,Tahereh Rahimpoor,Theology and Islamic Sciences,Philosophy,Theology,http://scimet.um.ac.ir/Tahereh_Rahimpoor,1,237
-233,Fariborz Rahimnia,Administrative and economic sciences,Philosophy,"Department of Management, Economics and Administrative sciences",http://scimet.um.ac.ir/Fariborz_Rahimnia,1,238
-402,Behnam Rahimi,Science,Art,"Department of Geology, Sciences",http://scimet.um.ac.ir/Behnam_Rahimi,1,239
-474,Mostafa Razmkhah,Mathematical Sciences,Philosophy,"Department of Statistics, Mathematics",http://scimet.um.ac.ir/Mostafa_Razmkhah,1,242
-236,Gholam Reza Razmi,Veterinary medicine,Art,"Department of Pathobiology, Veterinary medicine",http://scimet.um.ac.ir/GholamReza_Razmi,0,0
-235,Seyed Mohammad Javad Razmi,Administrative and economic sciences,Sociology,"Department of Economics, Economics and Administrative sciences",http://scimet.um.ac.ir/SeyedMohammadJavad_Razmi,1,243
-376,Mohammad Hasan Rostami,Theology and Islamic Sciences,Engineering ethics,"Department of Koranic Studies, Theology",http://scimet.um.ac.ir/MohammadHasan_Rostami,1,244
-763,Abbas Rasoolzadegan,Engineering,Engineering ethics,"Department of Computer Engineering, Engineering",http://scimet.um.ac.ir/Abbas_Rasoolzadegan,1,245
-547,Amir Rashidlamir,Sport science,Sociology,"Department of Exercise Physiology, Sports and Physical Education",http://scimet.um.ac.ir/Amir_Rashidlamir,0,0
-395,Abolfazl Rezaee Bazzaz,Engineering,Systems engineering,"Department of Material Engineering, Engineering",http://scimet.um.ac.ir/Abolfazl_RezaeeBazzaz,1,247
-1422,MohammadReza Rezaeigolestani,Veterinary medicine,Mechanical engineering,Veterinary medicine,http://scimet.um.ac.ir/MohammadReza_Rezaeigolestani,1,248
-243,Seyed Mohammad Ali Razavi,Agriculture,Simulation,"Department of Food Science Industry, Agriculture",http://scimet.um.ac.ir/SeyedMohammadAli_Razavi,1,249
-441,Hamideh Razavi,Engineering,Psychology,"Department of Industrial Engineering, Engineering",http://scimet.um.ac.ir/Hamideh_Razavi,1,250
-830,Rasoul Ramezanian,Mathematical Sciences,Medicine,Mathematics,http://scimet.um.ac.ir/Rasoul_Ramezanian,1,251
-473,Mohammad Ranjbar,Engineering,Economics,"Department of Industrial Engineering, Engineering",http://scimet.um.ac.ir/Mohammad_Ranjbar,1,259
-768,Abbas Rohani,Agriculture,Biology,"Department of Biosystems Engineering, Agriculture",http://scimet.um.ac.ir/Abbas_Rohani,1,277
-832,Modjtaba Rouhani,Engineering,Medicine,"Department of Computer Engineering, Engineering",http://scimet.um.ac.ir/Modjtaba_Rouhani,1,279
-648,Ehsan Roohi,Engineering,Medicine,"Department of Mechanical Engineering, Engineering",http://scimet.um.ac.ir/Ehsan_Roohi,1,280
-755,Mahmood Roshan,Science,Medicine,"Department of Physics, Sciences",http://scimet.um.ac.ir/Mahmood_Roshan,1,282
-244,Freydoon Rahbarnia,Mathematical Sciences,Civil engineering,Mathematics,http://scimet.um.ac.ir/Freydoon_Rahbarnia,1,283
-245,Mohammad Rahim Rahnama,Faculty of Literature and Humanities,Geography,"Department of Geography, Letters and Humanities",http://scimet.um.ac.ir/MohammadRahim_Rahnama,1,284
-532,Seyyed Hadi Zarghani,Faculty of Literature and Humanities,Geography,"Department of Geography, Letters and Humanities",http://scimet.um.ac.ir/SeyyedHadi_Zarghani,0,0
-756,Heydar Zarghi,Agriculture,Chemistry,"Department of Animal Sciences, Agriculture",http://scimet.um.ac.ir/Heydar_Zarghi,1,285
-790,Saeed Zerehdaran,Agriculture,Geology,"Department of Animal Sciences, Agriculture",http://scimet.um.ac.ir/Saeed_Zerehdaran,1,286
-700,Azar Zarrin,Faculty of Literature and Humanities,Psychology,"Department of Geography, Letters and Humanities",http://scimet.um.ac.ir/Azar_Zarrin,1,287
+233,Fariborz Rahimnia,Administrative and economic sciences,Computer science,"Department of Management, Economics and Administrative sciences",http://scimet.um.ac.ir/Fariborz_Rahimnia,1,238
+402,Behnam Rahimi,Science,Geology,"Department of Geology, Sciences",http://scimet.um.ac.ir/Behnam_Rahimi,1,239
+474,Mostafa Razmkhah,Mathematical Sciences,Mathematics,"Department of Statistics, Mathematics",http://scimet.um.ac.ir/Mostafa_Razmkhah,1,242
+236,Gholam Reza Razmi,Veterinary medicine,Biology,"Department of Pathobiology, Veterinary medicine",http://scimet.um.ac.ir/GholamReza_Razmi,0,0
+235,Seyed Mohammad Javad Razmi,Administrative and economic sciences,Philosophy,"Department of Economics, Economics and Administrative sciences",http://scimet.um.ac.ir/SeyedMohammadJavad_Razmi,1,243
+376,Mohammad Hasan Rostami,Theology and Islamic Sciences,Philosophy,"Department of Koranic Studies, Theology",http://scimet.um.ac.ir/MohammadHasan_Rostami,1,244
+763,Abbas Rasoolzadegan,Engineering,Computer engineering,"Department of Computer Engineering, Engineering",http://scimet.um.ac.ir/Abbas_Rasoolzadegan,1,245
+547,Amir Rashidlamir,Sport science,Medicine,"Department of Exercise Physiology, Sports and Physical Education",http://scimet.um.ac.ir/Amir_Rashidlamir,0,0
+395,Abolfazl Rezaee Bazzaz,Engineering,Materials science,"Department of Material Engineering, Engineering",http://scimet.um.ac.ir/Abolfazl_RezaeeBazzaz,1,247
+1422,MohammadReza Rezaeigolestani,Veterinary medicine,Biology,Veterinary medicine,http://scimet.um.ac.ir/MohammadReza_Rezaeigolestani,1,248
+243,Seyed Mohammad Ali Razavi,Agriculture,Biology,"Department of Food Science Industry, Agriculture",http://scimet.um.ac.ir/SeyedMohammadAli_Razavi,1,249
+441,Hamideh Razavi,Engineering,Computer science,"Department of Industrial Engineering, Engineering",http://scimet.um.ac.ir/Hamideh_Razavi,1,250
+830,Rasoul Ramezanian,Mathematical Sciences,Mathematics,Mathematics,http://scimet.um.ac.ir/Rasoul_Ramezanian,1,251
+473,Mohammad Ranjbar,Engineering,Industrial engineering,"Department of Industrial Engineering, Engineering",http://scimet.um.ac.ir/Mohammad_Ranjbar,1,259
+768,Abbas Rohani,Agriculture,Political science,"Department of Biosystems Engineering, Agriculture",http://scimet.um.ac.ir/Abbas_Rohani,1,277
+832,Modjtaba Rouhani,Engineering,Electrical engineering,"Department of Computer Engineering, Engineering",http://scimet.um.ac.ir/Modjtaba_Rouhani,1,279
+648,Ehsan Roohi,Engineering,Mechanical engineering,"Department of Mechanical Engineering, Engineering",http://scimet.um.ac.ir/Ehsan_Roohi,1,280
+755,Mahmood Roshan,Science,Physics,"Department of Physics, Sciences",http://scimet.um.ac.ir/Mahmood_Roshan,1,282
+244,Freydoon Rahbarnia,Mathematical Sciences,Mathematics,Mathematics,http://scimet.um.ac.ir/Freydoon_Rahbarnia,1,283
+245,Mohammad Rahim Rahnama,Faculty of Literature and Humanities,Simulation,"Department of Geography, Letters and Humanities",http://scimet.um.ac.ir/MohammadRahim_Rahnama,1,284
+532,Seyyed Hadi Zarghani,Faculty of Literature and Humanities,Political science,"Department of Geography, Letters and Humanities",http://scimet.um.ac.ir/SeyyedHadi_Zarghani,0,0
+756,Heydar Zarghi,Agriculture,Biology,"Department of Animal Sciences, Agriculture",http://scimet.um.ac.ir/Heydar_Zarghi,1,285
+790,Saeed Zerehdaran,Agriculture,Biology,"Department of Animal Sciences, Agriculture",http://scimet.um.ac.ir/Saeed_Zerehdaran,1,286
+700,Azar Zarrin,Faculty of Literature and Humanities,Geography,"Department of Geography, Letters and Humanities",http://scimet.um.ac.ir/Azar_Zarrin,1,287
 690,Mahdieh Zaeemi,Veterinary medicine,Medicine,"Department of Clinical Sciences, Veterinary medicine",http://scimet.um.ac.ir/Mahdieh_Zaeemi,0,0
 1403,Moslem Zamani,Mathematical Sciences,Mathematics,Mathematics,http://scimet.um.ac.ir/Moslem_Zamani,1,289
-559,Ali Reza Zamani Bahabadi,Mathematical Sciences,Economics,"Department of Pure Mathematics, Mathematics",http://scimet.um.ac.ir/AliReza_ZamaniBahabadi,0,0
-823,Seyyed Mohammad Javad Sadati,Criminal law and criminology,Computer science,Faculty of Law and Political Science,http://scimet.um.ac.ir/SeyyedMohammadJavad_Sadati,0,0
-161,Javad Sadeh,Engineering,Philosophy,"Department of Electrical Engineering, Engineering",http://scimet.um.ac.ir/Javad_Sadeh,1,290
-653,Majid Salari,Engineering,Biology,"Department of Industrial Engineering, Engineering",http://scimet.um.ac.ir/Majid_Salari,1,291
-15,Amir Salari,Veterinary medicine,Materials science,Veterinary medicine,http://scimet.um.ac.ir/Amir_Salari,1,294
-740,Hamideh Salari Sedigh,Veterinary medicine,Materials science,"Department of Clinical Sciences, Veterinary medicine",http://scimet.um.ac.ir/Hamideh_SalariSedigh,1,298
-818,Javad Sepahi-Younsi,Engineering,Materials science,"Department of Mechanical Engineering, Engineering",http://scimet.um.ac.ir/Javad_SepahiYounsi,1,299
-689,Adel Sepehr,Natural resources and environment,Materials science,Natural Resources and Environment,http://scimet.um.ac.ir/Adel_Sepehr,1,300
+559,Ali Reza Zamani Bahabadi,Mathematical Sciences,Computer science,"Department of Pure Mathematics, Mathematics",http://scimet.um.ac.ir/AliReza_ZamaniBahabadi,0,0
+823,Seyyed Mohammad Javad Sadati,Criminal law and criminology,Sociology,Faculty of Law and Political Science,http://scimet.um.ac.ir/SeyyedMohammadJavad_Sadati,0,0
+161,Javad Sadeh,Engineering,Physics,"Department of Electrical Engineering, Engineering",http://scimet.um.ac.ir/Javad_Sadeh,1,290
+653,Majid Salari,Engineering,Reliability engineering,"Department of Industrial Engineering, Engineering",http://scimet.um.ac.ir/Majid_Salari,1,291
+15,Amir Salari,Veterinary medicine,Biology,Veterinary medicine,http://scimet.um.ac.ir/Amir_Salari,1,294
+740,Hamideh Salari Sedigh,Veterinary medicine,Medicine,"Department of Clinical Sciences, Veterinary medicine",http://scimet.um.ac.ir/Hamideh_SalariSedigh,1,298
+818,Javad Sepahi-Younsi,Engineering,Aerospace engineering,"Department of Mechanical Engineering, Engineering",http://scimet.um.ac.ir/Javad_SepahiYounsi,1,299
+689,Adel Sepehr,Natural resources and environment,Geology,Natural Resources and Environment,http://scimet.um.ac.ir/Adel_Sepehr,1,300
 1392,Seyed Abdolkarim Sajjadi,Engineering,Materials science,"Department of Material Engineering, Engineering",http://scimet.um.ac.ir/SeyedAbdolkarim_Sajjadi,1,301
-736,Hamdollah Sojasi  Qeidari,Faculty of Literature and Humanities,Materials science,"Department of Geography, Letters and Humanities",http://scimet.um.ac.ir/Hamdollah_SojasiQeidari,0,0
-783,Ali Asghar Sarchahi,Veterinary medicine,Materials science,"Department of Clinical Sciences, Veterinary medicine",http://scimet.um.ac.ir/AliAsghar_Sarchahi,1,302
-860,Mehrdad Sarkheil,Natural resources and environment,Geology,Natural Resources and Environment,http://scimet.um.ac.ir/Mehrdad_Sarkheil,1,303
-418,Javad Sargolzaei,Engineering,Chemistry,"Department of Chemical Engineering, Engineering",http://scimet.um.ac.ir/Javad_Sargolzaei,1,304
-151,Mahmood Saeedy Rezvani,Educational sciences and psychology,Chemistry,Education and Psychology,http://scimet.um.ac.ir/Mahmood_SaeedyRezvani,0,0
-494,Ehsan Saljoughi,Engineering,Chemistry,"Department of Chemical Engineering, Engineering",http://scimet.um.ac.ir/Ehsan_Saljoughi,1,306
-249,Abbas Ali Soltani,Theology and Islamic Sciences,Chemistry,"Department of Jurisprudence, Theology",http://scimet.um.ac.ir/AbbasAli_Soltani,0,0
-820,Sakineh Soltani Kouhbanani,Educational sciences and psychology,Chemistry,Education and Psychology,http://scimet.um.ac.ir/Sakineh_SoltaniKouhbanani,0,0
-714,Alireza Salimi,Science,Chemistry,"Department of Chemistry, Sciences",http://scimet.um.ac.ir/Alireza_Salimi,1,308
-251,Abdorreza Savadi,Engineering,Chemistry,"Department of Computer Engineering, Engineering",http://scimet.um.ac.ir/Abdorreza_Savadi,1,314
-252,Mehdi Sohrabi,Sport science,Chemistry,"Department of Motor Behavior, Sports and Physical Education",http://scimet.um.ac.ir/Mehdi_Sohrabi,1,316
-563,Ali Reza Soheili,Mathematical Sciences,Chemistry,Mathematics,http://scimet.um.ac.ir/AliReza_Soheili,1,318
-364,Roohollah Siahsarvie,Science,Chemistry,"Department of Biology, Sciences",http://scimet.um.ac.ir/Roohollah_Siahsarvie,1,319
-624,Seyed Ehsan Seyedi Hosseininia,Engineering,Chemistry,"Department of Civil Engineering, Engineering",http://scimet.um.ac.ir/SeyedEhsan_SeyediHosseininia,0,0
-375,Vahid Sinaee,Political science - Iranian issues,Chemistry,Faculty of Law and Political Science,http://scimet.um.ac.ir/Vahid_Sinaee,1,320
-654,Rouzbeh Shad,Engineering,Chemistry,"Department of Civil Engineering, Engineering",http://scimet.um.ac.ir/Rouzbeh_Shad,1,321
-615,Alireza Shadman,Engineering,Chemistry,"Department of Industrial Engineering, Engineering",http://scimet.um.ac.ir/Alireza_Shadman,1,322
-1397,Behnaz Shahtahmassebi,Sport science,Economics,"Department of Exercise Physiology, Sports and Physical Education",http://scimet.um.ac.ir/Behnaz_Shahtahmassebi,1,323
-258,Davar Shahsavani,Veterinary medicine,Mathematics,Veterinary medicine,http://scimet.um.ac.ir/Davar_Shahsavani,1,324
-752,Mahmoud Shariati,Engineering,Environmental science,"Department of Mechanical Engineering, Engineering",http://scimet.um.ac.ir/Mahmoud_Shariati,1,325
-657,Fahimeh SHariati,Theology and Islamic Sciences,Environmental science,Theology,http://scimet.um.ac.ir/Fahimeh_SHariati,0,0
+736,Hamdollah Sojasi  Qeidari,Faculty of Literature and Humanities,Environmental science,"Department of Geography, Letters and Humanities",http://scimet.um.ac.ir/Hamdollah_SojasiQeidari,0,0
+783,Ali Asghar Sarchahi,Veterinary medicine,Medicine,"Department of Clinical Sciences, Veterinary medicine",http://scimet.um.ac.ir/AliAsghar_Sarchahi,1,302
+860,Mehrdad Sarkheil,Natural resources and environment,Biology,Natural Resources and Environment,http://scimet.um.ac.ir/Mehrdad_Sarkheil,1,303
+418,Javad Sargolzaei,Engineering,Chemical engineering,"Department of Chemical Engineering, Engineering",http://scimet.um.ac.ir/Javad_Sargolzaei,1,304
+151,Mahmood Saeedy Rezvani,Educational sciences and psychology,Psychology,Education and Psychology,http://scimet.um.ac.ir/Mahmood_SaeedyRezvani,0,0
+494,Ehsan Saljoughi,Engineering,Chemical engineering,"Department of Chemical Engineering, Engineering",http://scimet.um.ac.ir/Ehsan_Saljoughi,1,306
+249,Abbas Ali Soltani,Theology and Islamic Sciences,Philosophy,"Department of Jurisprudence, Theology",http://scimet.um.ac.ir/AbbasAli_Soltani,0,0
+820,Sakineh Soltani Kouhbanani,Educational sciences and psychology,Biology,Education and Psychology,http://scimet.um.ac.ir/Sakineh_SoltaniKouhbanani,0,0
+714,Alireza Salimi,Science,Physics,"Department of Chemistry, Sciences",http://scimet.um.ac.ir/Alireza_Salimi,1,308
+251,Abdorreza Savadi,Engineering,Computer science,"Department of Computer Engineering, Engineering",http://scimet.um.ac.ir/Abdorreza_Savadi,1,314
+252,Mehdi Sohrabi,Sport science,Medicine,"Department of Motor Behavior, Sports and Physical Education",http://scimet.um.ac.ir/Mehdi_Sohrabi,1,316
+563,Ali Reza Soheili,Mathematical Sciences,Mathematics,Mathematics,http://scimet.um.ac.ir/AliReza_Soheili,1,318
+364,Roohollah Siahsarvie,Science,Biology,"Department of Biology, Sciences",http://scimet.um.ac.ir/Roohollah_Siahsarvie,1,319
+624,Seyed Ehsan Seyedi Hosseininia,Engineering,Civil engineering,"Department of Civil Engineering, Engineering",http://scimet.um.ac.ir/SeyedEhsan_SeyediHosseininia,0,0
+375,Vahid Sinaee,Political science - Iranian issues,Political science,Faculty of Law and Political Science,http://scimet.um.ac.ir/Vahid_Sinaee,1,320
+654,Rouzbeh Shad,Engineering,Construction engineering,"Department of Civil Engineering, Engineering",http://scimet.um.ac.ir/Rouzbeh_Shad,1,321
+615,Alireza Shadman,Engineering,Industrial engineering,"Department of Industrial Engineering, Engineering",http://scimet.um.ac.ir/Alireza_Shadman,1,322
+1397,Behnaz Shahtahmassebi,Sport science,Medicine,"Department of Exercise Physiology, Sports and Physical Education",http://scimet.um.ac.ir/Behnaz_Shahtahmassebi,1,323
+258,Davar Shahsavani,Veterinary medicine,Medicine,Veterinary medicine,http://scimet.um.ac.ir/Davar_Shahsavani,1,324
+752,Mahmoud Shariati,Engineering,Systems engineering,"Department of Mechanical Engineering, Engineering",http://scimet.um.ac.ir/Mahmoud_Shariati,1,325
+657,Fahimeh SHariati,Theology and Islamic Sciences,Philosophy,Theology,http://scimet.um.ac.ir/Fahimeh_SHariati,0,0
 795,Mirza Mohammad Reza Sharifmoghadam,Science,Biology,"Department of Biology, Sciences",http://scimet.um.ac.ir/MirzaMohammadReza_Sharifmoghadam,0,0
-769,Soheil SHarifi,Science,Computer science,"Department of Physics, Sciences",http://scimet.um.ac.ir/Soheil_SHarifi,1,326
-261,Kamran Sharifi,Veterinary medicine,Computer science,"Department of Clinical Sciences, Veterinary medicine",http://scimet.um.ac.ir/Kamran_Sharifi,1,328
-262,Bakhtiar Shabani Varaki,Educational sciences and psychology,Mathematics,Education and Psychology,http://scimet.um.ac.ir/Bakhtiar_ShabaniVaraki,1,329
-663,Mehrdad Shokooh-Saremi,Engineering,Philosophy,"Department of Electrical Engineering, Engineering",http://scimet.um.ac.ir/Mehrdad_ShokoohSaremi,1,330
-149,Farhad Shokouhifar,Molecular genetics,Computer science,Department of Legumes,http://scimet.um.ac.ir/Farhad_Shokouhifar,1,331
-101,Ahmad Shooshtari,Engineering,Geology,"Department of Civil Engineering, Engineering",http://scimet.um.ac.ir/Ahmad_Shooshtari,1,332
-264,Farzad Shahabian Moghadam,Engineering,Geology,"Department of Civil Engineering, Engineering",http://scimet.um.ac.ir/Farzad_ShahabianMoghadam,0,0
-628,Bahar Shahnavaz,Science,Geology,"Department of Biology, Sciences",http://scimet.um.ac.ir/Bahar_Shahnavaz,1,333
-266,Fakhri Shahidi,Agriculture,Mathematics,"Department of Food Science Industry, Agriculture",http://scimet.um.ac.ir/Fakhri_Shahidi,1,334
-372,Ali Shirazi,Administrative and economic sciences,Sociology,"Department of Management, Economics and Administrative sciences",http://scimet.um.ac.ir/Ali_Shirazi,1,339
-451,Ali Shiri,Science,Philosophy,"Department of Chemistry, Sciences",http://scimet.um.ac.ir/Ali_Shiri,1,347
-463,Mehdi Saberi,Engineering,Computer engineering,"Department of Electrical Engineering, Engineering",http://scimet.um.ac.ir/Mehdi_Saberi,1,352
-143,Hossein Saberi,Theology and Islamic Sciences,Chemistry,"Department of Jurisprudence, Theology",http://scimet.um.ac.ir/Hossein_Saberi,1,365
-732,Alireza Saberi Kakhki,Sport science,Biology,"Department of Motor Behavior, Sports and Physical Education",http://scimet.um.ac.ir/Alireza_SaberiKakhki,1,367
-759,Tahereh Sadeghloo,Faculty of Literature and Humanities,Industrial engineering,"Department of Geography, Letters and Humanities",http://scimet.um.ac.ir/Tahereh_Sadeghloo,1,368
-268,Hossein Sadeghi,Science,Industrial engineering,"Department of Geology, Sciences",http://scimet.um.ac.ir/Hossein_Sadeghi,1,378
-269,Hussein Sadeghi Namaghi,Agriculture,Industrial engineering,"Department of Plant protection, Agriculture",http://scimet.um.ac.ir/Hussein_SadeghiNamaghi,1,395
-270,Mohammad Sal Moslehian,Mathematical Sciences,Industrial engineering,"Department of Pure Mathematics, Mathematics",http://scimet.um.ac.ir/Mohammad_SalMoslehian,1,396
-576,Narges Salehnia,Administrative and economic sciences,Industrial engineering,"Department of Economics, Economics and Administrative sciences",http://scimet.um.ac.ir/Narges_Salehnia,1,397
-678,Mahdi Salehi,Administrative and economic sciences,Industrial engineering,"Department of Accounting, Economics and Administrative sciences",http://scimet.um.ac.ir/Mahdi_Salehi,1,400
-271,Javad Salehi Fadardi,Educational sciences and psychology,Industrial engineering,"Department of Clinical Psychology, Education and Psychology",http://scimet.um.ac.ir/Javad_SalehiFadardi,1,412
-748,Ali Sahaf,Engineering,Industrial engineering,"Department of Civil Engineering, Engineering",http://scimet.um.ac.ir/Ali_Sahaf,1,413
-688,Yasser Sedaghat,Engineering,Industrial engineering,"Department of Computer Engineering, Engineering",http://scimet.um.ac.ir/Yasser_Sedaghat,1,414
-497,Hadi Sadoghi Yazdi,Engineering,Industrial engineering,"Department of Computer Engineering, Engineering",http://scimet.um.ac.ir/Hadi_SadoghiYazdi,1,415
+769,Soheil SHarifi,Science,Physics,"Department of Physics, Sciences",http://scimet.um.ac.ir/Soheil_SHarifi,1,326
+261,Kamran Sharifi,Veterinary medicine,Biology,"Department of Clinical Sciences, Veterinary medicine",http://scimet.um.ac.ir/Kamran_Sharifi,1,328
+262,Bakhtiar Shabani Varaki,Educational sciences and psychology,Sociology,Education and Psychology,http://scimet.um.ac.ir/Bakhtiar_ShabaniVaraki,1,329
+663,Mehrdad Shokooh-Saremi,Engineering,Computer science,"Department of Electrical Engineering, Engineering",http://scimet.um.ac.ir/Mehrdad_ShokoohSaremi,1,330
+149,Farhad Shokouhifar,Molecular genetics,Biology,Department of Legumes,http://scimet.um.ac.ir/Farhad_Shokouhifar,1,331
+101,Ahmad Shooshtari,Engineering,Civil engineering,"Department of Civil Engineering, Engineering",http://scimet.um.ac.ir/Ahmad_Shooshtari,1,332
+264,Farzad Shahabian Moghadam,Engineering,Materials science,"Department of Civil Engineering, Engineering",http://scimet.um.ac.ir/Farzad_ShahabianMoghadam,0,0
+628,Bahar Shahnavaz,Science,Biology,"Department of Biology, Sciences",http://scimet.um.ac.ir/Bahar_Shahnavaz,1,333
+266,Fakhri Shahidi,Agriculture,Physics,"Department of Food Science Industry, Agriculture",http://scimet.um.ac.ir/Fakhri_Shahidi,1,334
+372,Ali Shirazi,Administrative and economic sciences,Political science,"Department of Management, Economics and Administrative sciences",http://scimet.um.ac.ir/Ali_Shirazi,1,339
+451,Ali Shiri,Science,Psychology,"Department of Chemistry, Sciences",http://scimet.um.ac.ir/Ali_Shiri,1,347
+463,Mehdi Saberi,Engineering,Mechanical engineering,"Department of Electrical Engineering, Engineering",http://scimet.um.ac.ir/Mehdi_Saberi,1,352
+143,Hossein Saberi,Theology and Islamic Sciences,Philosophy,"Department of Jurisprudence, Theology",http://scimet.um.ac.ir/Hossein_Saberi,1,365
+732,Alireza Saberi Kakhki,Sport science,Psychology,"Department of Motor Behavior, Sports and Physical Education",http://scimet.um.ac.ir/Alireza_SaberiKakhki,1,367
+759,Tahereh Sadeghloo,Faculty of Literature and Humanities,Environmental science,"Department of Geography, Letters and Humanities",http://scimet.um.ac.ir/Tahereh_Sadeghloo,1,368
+268,Hossein Sadeghi,Science,Geology,"Department of Geology, Sciences",http://scimet.um.ac.ir/Hossein_Sadeghi,1,378
+269,Hussein Sadeghi Namaghi,Agriculture,Biology,"Department of Plant protection, Agriculture",http://scimet.um.ac.ir/Hussein_SadeghiNamaghi,1,395
+270,Mohammad Sal Moslehian,Mathematical Sciences,Mathematics,"Department of Pure Mathematics, Mathematics",http://scimet.um.ac.ir/Mohammad_SalMoslehian,1,396
+576,Narges Salehnia,Administrative and economic sciences,Business,"Department of Economics, Economics and Administrative sciences",http://scimet.um.ac.ir/Narges_Salehnia,1,397
+678,Mahdi Salehi,Administrative and economic sciences,Economics,"Department of Accounting, Economics and Administrative sciences",http://scimet.um.ac.ir/Mahdi_Salehi,1,400
+271,Javad Salehi Fadardi,Educational sciences and psychology,Medicine,"Department of Clinical Psychology, Education and Psychology",http://scimet.um.ac.ir/Javad_SalehiFadardi,1,412
+748,Ali Sahaf,Engineering,Engineering management,"Department of Civil Engineering, Engineering",http://scimet.um.ac.ir/Ali_Sahaf,1,413
+688,Yasser Sedaghat,Engineering,Psychology,"Department of Computer Engineering, Engineering",http://scimet.um.ac.ir/Yasser_Sedaghat,1,414
+497,Hadi Sadoghi Yazdi,Engineering,Control engineering,"Department of Computer Engineering, Engineering",http://scimet.um.ac.ir/Hadi_SadoghiYazdi,1,415
 796,Javad Safaie,Engineering,Materials science,"Department of Electrical Engineering, Engineering",http://scimet.um.ac.ir/Javad_Safaie,1,416
-627,Omid Safari,Natural resources and environment,Industrial engineering,Natural Resources and Environment,http://scimet.um.ac.ir/Omid_Safari,0,0
-105,Ahad Zabett,Engineering,Industrial engineering,"Department of Material Engineering, Engineering",http://scimet.um.ac.ir/Ahad_Zabett,1,417
-275,Hossein Zamiri-Jafarian,Engineering,Industrial engineering,"Department of Electrical Engineering, Engineering",http://scimet.um.ac.ir/Hossein_ZamiriJafarian,1,418
-526,Ali Naghi Ziaei,Agriculture,Industrial engineering,"Department of Water Science and Engineering, Agriculture",http://scimet.um.ac.ir/AliNaghi_Ziaei,0,0
-103,Mahdi Talebpour,Sport science,Industrial engineering,"Department of Motor Behavior, Sports and Physical Education",http://scimet.um.ac.ir/Mahdi_Talebpour,0,0
-681,Mohammad Taherzadeh-Sani,Engineering,Industrial engineering,"Department of Electrical Engineering, Engineering",http://scimet.um.ac.ir/Mohammad_TaherzadehSani,1,420
-703,Jafar Taheri,Architecture and Urbanism,Industrial engineering,Architecture and Urban Engineering,http://scimet.um.ac.ir/Jafar_Taheri,1,422
-534,Hamid Reza Taheri,Sport science,Industrial engineering,"Department of Motor Behavior, Sports and Physical Education",http://scimet.um.ac.ir/HamidReza_Taheri,0,0
-754,Amir Hossein Taherinia,Engineering,Industrial engineering,"Department of Computer Engineering, Engineering",http://scimet.um.ac.ir/AmirHossein_Taherinia,1,424
-421,Zahra Tabibi,Educational sciences and psychology,Industrial engineering,"Department of Clinical Psychology, Education and Psychology",http://scimet.um.ac.ir/Zahra_Tabibi,0,0
-528,Saeed Tarighi,Agriculture,Industrial engineering,"Department of Plant protection, Agriculture",http://scimet.um.ac.ir/Saeed_Tarighi,1,426
+627,Omid Safari,Natural resources and environment,Biology,Natural Resources and Environment,http://scimet.um.ac.ir/Omid_Safari,0,0
+105,Ahad Zabett,Engineering,Forensic engineering,"Department of Material Engineering, Engineering",http://scimet.um.ac.ir/Ahad_Zabett,1,417
+275,Hossein Zamiri-Jafarian,Engineering,Electrical engineering,"Department of Electrical Engineering, Engineering",http://scimet.um.ac.ir/Hossein_ZamiriJafarian,1,418
+526,Ali Naghi Ziaei,Agriculture,Construction engineering,"Department of Water Science and Engineering, Agriculture",http://scimet.um.ac.ir/AliNaghi_Ziaei,0,0
+103,Mahdi Talebpour,Sport science,Computer science,"Department of Motor Behavior, Sports and Physical Education",http://scimet.um.ac.ir/Mahdi_Talebpour,0,0
+681,Mohammad Taherzadeh-Sani,Engineering,Control engineering,"Department of Electrical Engineering, Engineering",http://scimet.um.ac.ir/Mohammad_TaherzadehSani,1,420
+703,Jafar Taheri,Architecture and Urbanism,Geography,Architecture and Urban Engineering,http://scimet.um.ac.ir/Jafar_Taheri,1,422
+534,Hamid Reza Taheri,Sport science,Medicine,"Department of Motor Behavior, Sports and Physical Education",http://scimet.um.ac.ir/HamidReza_Taheri,0,0
+754,Amir Hossein Taherinia,Engineering,Computer science,"Department of Computer Engineering, Engineering",http://scimet.um.ac.ir/AmirHossein_Taherinia,1,424
+421,Zahra Tabibi,Educational sciences and psychology,Psychology,"Department of Clinical Psychology, Education and Psychology",http://scimet.um.ac.ir/Zahra_Tabibi,0,0
+528,Saeed Tarighi,Agriculture,Biology,"Department of Plant protection, Agriculture",http://scimet.um.ac.ir/Saeed_Tarighi,1,426
 863,Heydar Toossian Shandiz,Engineering,Electrical engineering,"Department of Electrical Engineering, Engineering",http://scimet.um.ac.ir/Heydar_ToossianShandiz,1,427
-338,Masoud Tahani,Engineering,Political science,"Department of Mechanical Engineering, Engineering",http://scimet.um.ac.ir/Masoud_Tahani,1,428
-1393,Mojtaba Tahmoorespur,Agriculture,Electronic engineering,"Department of Animal Sciences, Agriculture",http://scimet.um.ac.ir/Mojtaba_Tahmoorespur,1,430
-277,Gholamhossein Zohuri,Science,Systems engineering,"Department of Chemistry, Sciences",http://scimet.um.ac.ir/Gholamhossein_Zohuri,0,0
-279,Ghosheh Abed Hodtani,Engineering,Systems engineering,"Department of Electrical Engineering, Engineering",http://scimet.um.ac.ir/Ghosheh_AbedHodtani,0,0
-661,Alireza Abedi Sarasia,Theology and Islamic Sciences,Physics,"Department of Jurisprudence, Theology",http://scimet.um.ac.ir/Alireza_AbediSarasia,1,431
-723,Reza Arefinia,Engineering,Mathematics,"Department of Chemical Engineering, Engineering",http://scimet.um.ac.ir/Reza_Arefinia,1,432
-578,Shahrbanoo Aali,Educational sciences and psychology,Simulation,"Department of Clinical Psychology, Education and Psychology",http://scimet.um.ac.ir/Shahrbanoo_Aali,1,433
-282,M. Hossein Abbaspour-Fard,Agriculture,Biology,"Department of Biosystems Engineering, Agriculture",http://scimet.um.ac.ir/MHossein_AbbaspourFard,1,434
-847,Ali Abbasi,Engineering,Biology,"Department of Civil Engineering, Engineering",http://scimet.um.ac.ir/Ali_Abbasi,1,452
-434,Shahram Abbassi,Science,Economics,"Department of Physics, Sciences",http://scimet.um.ac.ir/Shahram_Abbassi,1,478
-699,Hossein Ajam,Engineering,Mathematics,"Department of Mechanical Engineering, Engineering",http://scimet.um.ac.ir/Hossein_Ajam,1,479
-691,Mohammad Reza Edalatian  Dovom,Agriculture,Electronic engineering,"Department of Food Science Industry, Agriculture",http://scimet.um.ac.ir/MohammadReza_EdalatianDovom,0,0
-508,Hadi Arabi,Science,Forensic engineering,"Department of Physics, Sciences",http://scimet.um.ac.ir/Hadi_Arabi,1,480
-286,Ahmad Erfanian,Mathematical Sciences,Biology,"Department of Pure Mathematics, Mathematics",http://scimet.um.ac.ir/Ahmad_Erfanian,1,481
+338,Masoud Tahani,Engineering,Psychology,"Department of Mechanical Engineering, Engineering",http://scimet.um.ac.ir/Masoud_Tahani,1,428
+1393,Mojtaba Tahmoorespur,Agriculture,Biology,"Department of Animal Sciences, Agriculture",http://scimet.um.ac.ir/Mojtaba_Tahmoorespur,1,430
+277,Gholamhossein Zohuri,Science,Materials science,"Department of Chemistry, Sciences",http://scimet.um.ac.ir/Gholamhossein_Zohuri,0,0
+279,Ghosheh Abed Hodtani,Engineering,Chemistry,"Department of Electrical Engineering, Engineering",http://scimet.um.ac.ir/Ghosheh_AbedHodtani,0,0
+661,Alireza Abedi Sarasia,Theology and Islamic Sciences,Philosophy,"Department of Jurisprudence, Theology",http://scimet.um.ac.ir/Alireza_AbediSarasia,1,431
+723,Reza Arefinia,Engineering,Chemical engineering,"Department of Chemical Engineering, Engineering",http://scimet.um.ac.ir/Reza_Arefinia,1,432
+578,Shahrbanoo Aali,Educational sciences and psychology,Psychology,"Department of Clinical Psychology, Education and Psychology",http://scimet.um.ac.ir/Shahrbanoo_Aali,1,433
+282,M. Hossein Abbaspour-Fard,Agriculture,Electrical engineering,"Department of Biosystems Engineering, Agriculture",http://scimet.um.ac.ir/MHossein_AbbaspourFard,1,434
+847,Ali Abbasi,Engineering,Environmental science,"Department of Civil Engineering, Engineering",http://scimet.um.ac.ir/Ali_Abbasi,1,452
+434,Shahram Abbassi,Science,Physics,"Department of Physics, Sciences",http://scimet.um.ac.ir/Shahram_Abbassi,1,478
+699,Hossein Ajam,Engineering,Physics,"Department of Mechanical Engineering, Engineering",http://scimet.um.ac.ir/Hossein_Ajam,1,479
+691,Mohammad Reza Edalatian  Dovom,Agriculture,Economics,"Department of Food Science Industry, Agriculture",http://scimet.um.ac.ir/MohammadReza_EdalatianDovom,0,0
+508,Hadi Arabi,Science,Physics,"Department of Physics, Sciences",http://scimet.um.ac.ir/Hadi_Arabi,1,480
+286,Ahmad Erfanian,Mathematical Sciences,Mathematics,"Department of Pure Mathematics, Mathematics",http://scimet.um.ac.ir/Ahmad_Erfanian,1,481
 548,Mohammad Azizzadeh,Veterinary medicine,Biology,"Department of Clinical Sciences, Veterinary medicine",http://scimet.um.ac.ir/Mohammad_Azizzadeh,1,482
 152,Majid Azizi,Agriculture,Biology,"Department of Gardening, Agriculture",http://scimet.um.ac.ir/Majid_Azizi,1,483
-840,Maryam Azizian,Faculty of Literature and Humanities,Biology,"Department of History, Letters and Humanities",http://scimet.um.ac.ir/Maryam_Azizian,1,486
-410,Rajabali Askarzadeh Torghabeh,Faculty of Literature and Humanities,Medicine,"Department of English, Letters and Humanities",http://scimet.um.ac.ir/Rajabali_AskarzadehTorghabeh,1,487
-862,Mahdi Askari Badouei,Veterinary medicine,Aerospace engineering,"Department of Pathobiology, Veterinary medicine",http://scimet.um.ac.ir/Mahdi_AskariBadouei,1,488
-1395,Hossein Eshghi,Science,Geology,"Department of Chemistry, Sciences",http://scimet.um.ac.ir/Hossein_Eshghi,1,489
-287,Seyyed Reza Attarzadeh Hosseini,Sport science,Forensic engineering,"Department of Exercise Physiology, Sports and Physical Education",http://scimet.um.ac.ir/SeyyedReza_AttarzadehHosseini,1,491
-339,Amir Reza Attari,Engineering,Medicine,"Department of Electrical Engineering, Engineering",http://scimet.um.ac.ir/AmirReza_Attari,1,492
-492,Sohrab Effati,Mathematical Sciences,Biology,Mathematics,http://scimet.um.ac.ir/Sohrab_Effati,1,493
-131,Mohammad Kathem Elmi Sola,Theology and Islamic Sciences,Chemical engineering,"Department of Islamic Philosophy, Theology",http://scimet.um.ac.ir/MohammadKathem_ElmiSola,0,0
-289,Mansour Aliabadian,Science,Chemical engineering,"Department of Biology, Sciences",http://scimet.um.ac.ir/Mansour_Aliabadian,1,494
-1412,Soodeh Alidadi,Veterinary medicine,Art,"Department of Pathobiology, Veterinary medicine",http://scimet.um.ac.ir/Soodeh_Alidadi,1,495
-499,Aliakbar Anabestani,Faculty of Literature and Humanities,Physics,"Department of Geography, Letters and Humanities",http://scimet.um.ac.ir/Aliakbar_Anabestani,1,496
-291,Mohammad Javad Enayati Rad,Theology and Islamic Sciences,Physics,Theology,http://scimet.um.ac.ir/MohammadJavad_EnayatiRad,0,0
-577,Samaneh Eidi,Veterinary medicine,Art,"Department of Pathobiology, Veterinary medicine",http://scimet.um.ac.ir/Samaneh_Eidi,1,497
-600,Mohammad Ghazanfari,Faculty of Literature and Humanities,Physics,"Department of English, Letters and Humanities",http://scimet.um.ac.ir/Mohammad_Ghazanfari,1,501
-328,Abulfazl Ghaffari,Educational sciences and psychology,Art,Education and Psychology,http://scimet.um.ac.ir/Abulfazl_Ghaffari,0,0
-1408,Seyed Ali Ghafouri,Veterinary medicine,Art,"Department of Clinical Sciences, Veterinary medicine",http://scimet.um.ac.ir/SeyedAli_Ghafouri,1,505
+840,Maryam Azizian,Faculty of Literature and Humanities,Philosophy,"Department of History, Letters and Humanities",http://scimet.um.ac.ir/Maryam_Azizian,1,486
+410,Rajabali Askarzadeh Torghabeh,Faculty of Literature and Humanities,Philosophy,"Department of English, Letters and Humanities",http://scimet.um.ac.ir/Rajabali_AskarzadehTorghabeh,1,487
+862,Mahdi Askari Badouei,Veterinary medicine,Biology,"Department of Pathobiology, Veterinary medicine",http://scimet.um.ac.ir/Mahdi_AskariBadouei,1,488
+1395,Hossein Eshghi,Science,Chemistry,"Department of Chemistry, Sciences",http://scimet.um.ac.ir/Hossein_Eshghi,1,489
+287,Seyyed Reza Attarzadeh Hosseini,Sport science,Medicine,"Department of Exercise Physiology, Sports and Physical Education",http://scimet.um.ac.ir/SeyyedReza_AttarzadehHosseini,1,491
+339,Amir Reza Attari,Engineering,Computer science,"Department of Electrical Engineering, Engineering",http://scimet.um.ac.ir/AmirReza_Attari,1,492
+492,Sohrab Effati,Mathematical Sciences,Mathematics,Mathematics,http://scimet.um.ac.ir/Sohrab_Effati,1,493
+131,Mohammad Kathem Elmi Sola,Theology and Islamic Sciences,Philosophy,"Department of Islamic Philosophy, Theology",http://scimet.um.ac.ir/MohammadKathem_ElmiSola,0,0
+289,Mansour Aliabadian,Science,Geology,"Department of Biology, Sciences",http://scimet.um.ac.ir/Mansour_Aliabadian,1,494
+1412,Soodeh Alidadi,Veterinary medicine,Medicine,"Department of Pathobiology, Veterinary medicine",http://scimet.um.ac.ir/Soodeh_Alidadi,1,495
+499,Aliakbar Anabestani,Faculty of Literature and Humanities,Economics,"Department of Geography, Letters and Humanities",http://scimet.um.ac.ir/Aliakbar_Anabestani,1,496
+291,Mohammad Javad Enayati Rad,Theology and Islamic Sciences,Art,Theology,http://scimet.um.ac.ir/MohammadJavad_EnayatiRad,0,0
+577,Samaneh Eidi,Veterinary medicine,Biology,"Department of Pathobiology, Veterinary medicine",http://scimet.um.ac.ir/Samaneh_Eidi,1,497
+600,Mohammad Ghazanfari,Faculty of Literature and Humanities,Psychology,"Department of English, Letters and Humanities",http://scimet.um.ac.ir/Mohammad_Ghazanfari,1,501
+328,Abulfazl Ghaffari,Educational sciences and psychology,Sociology,Education and Psychology,http://scimet.um.ac.ir/Abulfazl_Ghaffari,0,0
+1408,Seyed Ali Ghafouri,Veterinary medicine,Medicine,"Department of Clinical Sciences, Veterinary medicine",http://scimet.um.ac.ir/SeyedAli_Ghafouri,1,505
 141,Ali Ghanaei CHamanabad,Educational sciences and psychology,Computer science,"Department of Clinical Psychology, Education and Psychology",http://scimet.um.ac.ir/Ali_GhanaeiCHamanabad,1,506
-865,Abolfazl Ghaniei,Veterinary medicine,Medicine,"Department of Clinical Sciences, Veterinary medicine",http://scimet.um.ac.ir/Abolfazl_Ghaniei,1,507
-753,Kamaledin Ghiasi Shirazi,Engineering,Medicine,"Department of Computer Engineering, Engineering",http://scimet.um.ac.ir/Kamaledin_GhiasiShirazi,1,508
+865,Abolfazl Ghaniei,Veterinary medicine,Biology,"Department of Clinical Sciences, Veterinary medicine",http://scimet.um.ac.ir/Abolfazl_Ghaniei,1,507
+753,Kamaledin Ghiasi Shirazi,Engineering,Computer engineering,"Department of Computer Engineering, Engineering",http://scimet.um.ac.ir/Kamaledin_GhiasiShirazi,1,508
 295,Mehrdad Fathei,Sport science,Medicine,"Department of Exercise Physiology, Sports and Physical Education",http://scimet.um.ac.ir/Mehrdad_Fathei,0,0
-429,Vahideh Fakhar Noghani,Theology and Islamic Sciences,Mathematics,Theology,http://scimet.um.ac.ir/Vahideh_FakharNoghani,1,509
-329,Mohammad Taghi Fakhlaei,Theology and Islamic Sciences,Biology,"Department of Jurisprudence, Theology",http://scimet.um.ac.ir/MohammadTaghi_Fakhlaei,0,0
-479,Mohammad Mahdi Farahi,Administrative and economic sciences,Political science,"Department of Management, Economics and Administrative sciences",http://scimet.um.ac.ir/MohammadMahdi_Farahi,1,510
-764,Mahboobeh Farkhondehzadeh,Theology and Islamic Sciences,Civil engineering,Theology,http://scimet.um.ac.ir/Mahboobeh_Farkhondehzadeh,1,512
-398,Mohammad Farzam,Natural resources and environment,Industrial engineering,Natural Resources and Environment,http://scimet.um.ac.ir/Mohammad_Farzam,1,513
+429,Vahideh Fakhar Noghani,Theology and Islamic Sciences,Philosophy,Theology,http://scimet.um.ac.ir/Vahideh_FakharNoghani,1,509
+329,Mohammad Taghi Fakhlaei,Theology and Islamic Sciences,Philosophy,"Department of Jurisprudence, Theology",http://scimet.um.ac.ir/MohammadTaghi_Fakhlaei,0,0
+479,Mohammad Mahdi Farahi,Administrative and economic sciences,Computer science,"Department of Management, Economics and Administrative sciences",http://scimet.um.ac.ir/MohammadMahdi_Farahi,1,510
+764,Mahboobeh Farkhondehzadeh,Theology and Islamic Sciences,Sociology,Theology,http://scimet.um.ac.ir/Mahboobeh_Farkhondehzadeh,1,512
+398,Mohammad Farzam,Natural resources and environment,Political science,Natural Resources and Environment,http://scimet.um.ac.ir/Mohammad_Farzam,1,513
 298,Nima Farzaneh,Veterinary medicine,Medicine,"Department of Clinical Sciences, Veterinary medicine",http://scimet.um.ac.ir/Nima_Farzaneh,1,516
-798,Mohammad Hassan Farshidi,Engineering,Medicine,"Department of Material Engineering, Engineering",http://scimet.um.ac.ir/MohammadHassan_Farshidi,0,0
-299,Anoshirvan Farshidianfar,Engineering,Simulation,"Department of Mechanical Engineering, Engineering",http://scimet.um.ac.ir/Anoshirvan_Farshidianfar,0,0
-612,Nafishe Farhadian,Engineering,Physics,"Department of Chemical Engineering, Engineering",http://scimet.um.ac.ir/Nafishe_Farhadian,0,0
-300,Khalil Farhangdoost,Engineering,Physics,"Department of Mechanical Engineering, Engineering",http://scimet.um.ac.ir/Khalil_Farhangdoost,1,519
+798,Mohammad Hassan Farshidi,Engineering,Manufacturing engineering,"Department of Material Engineering, Engineering",http://scimet.um.ac.ir/MohammadHassan_Farshidi,0,0
+299,Anoshirvan Farshidianfar,Engineering,Physics,"Department of Mechanical Engineering, Engineering",http://scimet.um.ac.ir/Anoshirvan_Farshidianfar,0,0
+612,Nafishe Farhadian,Engineering,Psychology,"Department of Chemical Engineering, Engineering",http://scimet.um.ac.ir/Nafishe_Farhadian,0,0
+300,Khalil Farhangdoost,Engineering,Mechanical engineering,"Department of Mechanical Engineering, Engineering",http://scimet.um.ac.ir/Khalil_Farhangdoost,1,519
 46,Masoud Fereidoni,Science,Biology,"Department of Biology, Sciences",http://scimet.um.ac.ir/Masoud_Fereidoni,1,520
-352,Massoumeh Fashandi,Mathematical Sciences,Sociology,"Department of Statistics, Mathematics",http://scimet.um.ac.ir/Massoumeh_Fashandi,0,0
-407,Vahid Fakoor,Mathematical Sciences,Computer science,"Department of Statistics, Mathematics",http://scimet.um.ac.ir/Vahid_Fakoor,1,521
-305,Farzin Ghaemi,Science,Biology,"Department of Geology, Sciences",http://scimet.um.ac.ir/Farzin_Ghaemi,1,522
+352,Massoumeh Fashandi,Mathematical Sciences,Mathematics,"Department of Statistics, Mathematics",http://scimet.um.ac.ir/Massoumeh_Fashandi,0,0
+407,Vahid Fakoor,Mathematical Sciences,Mathematics,"Department of Statistics, Mathematics",http://scimet.um.ac.ir/Vahid_Fakoor,1,521
+305,Farzin Ghaemi,Science,Geology,"Department of Geology, Sciences",http://scimet.um.ac.ir/Farzin_Ghaemi,1,522
 629,Abbas Ghaderi,Science,Physics,"Department of Geology, Sciences",http://scimet.um.ac.ir/Abbas_Ghaderi,1,524
-1399,Samaneh Ghasemi,Veterinary medicine,Computer science,"Department of Clinical Sciences, Veterinary medicine",http://scimet.um.ac.ir/Samaneh_GHasemi,1,528
+1399,Samaneh Ghasemi,Veterinary medicine,Medicine,"Department of Clinical Sciences, Veterinary medicine",http://scimet.um.ac.ir/Samaneh_GHasemi,1,528
 304,Fateme Helen Ghane Ostadghassemi,Mathematical Sciences,Computer science,"Department of Pure Mathematics, Mathematics",http://scimet.um.ac.ir/FatemeHelen_GhaneOstadghassemi,0,0
-432,Ehsan Ghabool,Faculty of Literature and Humanities,Political science,"Department of Persian Language and Literature, Letters and Humanities",http://scimet.um.ac.ir/Ehsan_Ghabool,1,529
-306,Seyed Mohammad Taghi Ghabooli Dorafshan,Theology and Islamic Sciences,Computer science,"Department of Jurisprudence, Theology",http://scimet.um.ac.ir/SeyedMohammadTaghi_GhabooliDorafshan,0,0
-543,Sayyed Mohammad Hadi Ghabooli Dorafshan,Theology and Islamic Sciences,Computer science,"Department of Jurisprudence, Theology",http://scimet.um.ac.ir/SayyedMohammadHadi_GhabooliDorafshan,1,530
-401,Ahmad Ghodsi Mahmoudzadeh,Science,Computer science,"Department of Physics, Sciences",http://scimet.um.ac.ir/Ahmad_GhodsiMahmoudzadeh,0,0
-83,Mahmood Reza Ghorban Sabbagh,Faculty of Literature and Humanities,Political science,"Department of English, Letters and Humanities",http://scimet.um.ac.ir/MahmoodReza_GhorbanSabbagh,0,0
-726,Shaban Reza Ghorbani,Science,Computer science,"Department of Physics, Sciences",http://scimet.um.ac.ir/ShabanReza_Ghorbani,0,0
-757,Maryam Ghorbani,Engineering,Political science,"Department of Electrical Engineering, Engineering",http://scimet.um.ac.ir/Maryam_Ghorbani,1,532
-842,Davood Ghorooneh,Educational sciences and psychology,Economics,Education and Psychology,http://scimet.um.ac.ir/Davood_Ghorooneh,1,541
-310,Reza Gheshlaghi,Engineering,Political science,"Department of Chemical Engineering, Engineering",http://scimet.um.ac.ir/REZA_Gheshlaghi,1,542
-846,Nima Ghal-Eh,Science,Psychology,"Department of Physics, Sciences",http://scimet.um.ac.ir/Nima_GhalEh,1,544
-477,Mansour Ghalehnovi,Engineering,Psychology,"Department of Civil Engineering, Engineering",http://scimet.um.ac.ir/Mansour_Ghalehnovi,1,545
+432,Ehsan Ghabool,Faculty of Literature and Humanities,Philosophy,"Department of Persian Language and Literature, Letters and Humanities",http://scimet.um.ac.ir/Ehsan_Ghabool,1,529
+306,Seyed Mohammad Taghi Ghabooli Dorafshan,Theology and Islamic Sciences,Art,"Department of Jurisprudence, Theology",http://scimet.um.ac.ir/SeyedMohammadTaghi_GhabooliDorafshan,0,0
+543,Sayyed Mohammad Hadi Ghabooli Dorafshan,Theology and Islamic Sciences,Philosophy,"Department of Jurisprudence, Theology",http://scimet.um.ac.ir/SayyedMohammadHadi_GhabooliDorafshan,1,530
+401,Ahmad Ghodsi Mahmoudzadeh,Science,Physics,"Department of Physics, Sciences",http://scimet.um.ac.ir/Ahmad_GhodsiMahmoudzadeh,0,0
+83,Mahmood Reza Ghorban Sabbagh,Faculty of Literature and Humanities,Art,"Department of English, Letters and Humanities",http://scimet.um.ac.ir/MahmoodReza_GhorbanSabbagh,0,0
+726,Shaban Reza Ghorbani,Science,Physics,"Department of Physics, Sciences",http://scimet.um.ac.ir/ShabanReza_Ghorbani,0,0
+757,Maryam Ghorbani,Engineering,Physics,"Department of Electrical Engineering, Engineering",http://scimet.um.ac.ir/Maryam_Ghorbani,1,532
+842,Davood Ghorooneh,Educational sciences and psychology,Psychology,Education and Psychology,http://scimet.um.ac.ir/Davood_Ghorooneh,1,541
+310,Reza Gheshlaghi,Engineering,Chemical engineering,"Department of Chemical Engineering, Engineering",http://scimet.um.ac.ir/REZA_Gheshlaghi,1,542
+846,Nima Ghal-Eh,Science,Physics,"Department of Physics, Sciences",http://scimet.um.ac.ir/Nima_GhalEh,1,544
+477,Mansour Ghalehnovi,Engineering,Engineering management,"Department of Civil Engineering, Engineering",http://scimet.um.ac.ir/Mansour_Ghalehnovi,1,545
 570,Mostafa Gholizadeh,Science,Psychology,"Department of Chemistry, Sciences",http://scimet.um.ac.ir/Mostafa_Gholizadeh,0,0
-312,Bhram Ali Ghanbary Hashemabady,Educational sciences and psychology,Psychology,"Department of Clinical Psychology, Education and Psychology",http://scimet.um.ac.ir/BhramAli_GhanbaryHashemabady,0,0
-856,Amir Ghandehariun,Engineering,Psychology,"Department of Mechanical Engineering, Engineering",http://scimet.um.ac.ir/Amir_Ghandehariun,0,0
-605,Azra Ghandeharion,Faculty of Literature and Humanities,Psychology,"Department of English, Letters and Humanities",http://scimet.um.ac.ir/Azra_Ghandeharion,1,547
-738,Mahdi Ghahremani Moghaddam,Sport science,Systems engineering,"Department of Exercise Physiology, Sports and Physical Education",http://scimet.um.ac.ir/Mahdi_GhahremaniMoghaddam,0,0
-848,Hamed Karkhanechi,Engineering,Control engineering,"Department of Chemical Engineering, Engineering",http://scimet.um.ac.ir/Hamed_Karkhanechi,1,548
-1410,Iman Kardan,Engineering,Philosophy,"Department of Mechanical Engineering, Engineering",http://scimet.um.ac.ir/Iman_Kardan,1,549
-518,Hossein Kareshki,Educational sciences and psychology,Art,Education and Psychology,http://scimet.um.ac.ir/Hossein_Kareshki,1,550
-316,Hamid Reza Kazerani,Veterinary medicine,Philosophy,"Department of Basical Sciences, Veterinary medicine",http://scimet.um.ac.ir/HamidReza_Kazerani,1,551
-318,Mostafa Kazemi,Administrative and economic sciences,Art,"Department of Management, Economics and Administrative sciences",http://scimet.um.ac.ir/Mostafa_Kazemi,1,552
-319,Mohammad Kafi,Agriculture,Philosophy,"Department of Agronomy, Agriculture",http://scimet.um.ac.ir/Mohammad_Kafi,1,559
-1414,Behnam Kamkar,Agriculture,Philosophy,"Department of Agronomy, Agriculture",http://scimet.um.ac.ir/Behnam_Kamkar,1,564
-391,Seyyed Alireza Kamel Mirmostafaee,Mathematical Sciences,Philosophy,"Department of Pure Mathematics, Mathematics",http://scimet.um.ac.ir/SeyyedAlireza_KamelMirmostafaee,0,0
-741,Atiyeh Kamyabi Gol,Faculty of Literature and Humanities,Philosophy,"Department of Linguistics, Letters and Humanities",http://scimet.um.ac.ir/Atiyeh_KamyabiGol,1,565
-104,Mohsen Kahani,Engineering,Philosophy,"Department of Computer Engineering, Engineering",http://scimet.um.ac.ir/Mohsen_Kahani,1,566
-321,Mehran Kadkhodayan,Engineering,Philosophy,"Department of Mechanical Engineering, Engineering",http://scimet.um.ac.ir/Mehran_Kadkhodayan,1,567
-643,Seyed Mohsen Karrabi,Engineering,Art,"Department of Civil Engineering, Engineering",http://scimet.um.ac.ir/SeyedMohsen_Karrabi,0,0
-223,Abbas Karamodin,Engineering,Psychology,"Department of Civil Engineering, Engineering",http://scimet.um.ac.ir/Abbas_Karamodin,1,568
-611,Morteza Karami,Educational sciences and psychology,Economics,Education and Psychology,http://scimet.um.ac.ir/Morteza_Karami,1,570
+312,Bhram Ali Ghanbary Hashemabady,Educational sciences and psychology,Medicine,"Department of Clinical Psychology, Education and Psychology",http://scimet.um.ac.ir/BhramAli_GhanbaryHashemabady,0,0
+856,Amir Ghandehariun,Engineering,Mechanical engineering,"Department of Mechanical Engineering, Engineering",http://scimet.um.ac.ir/Amir_Ghandehariun,0,0
+605,Azra Ghandeharion,Faculty of Literature and Humanities,Art,"Department of English, Letters and Humanities",http://scimet.um.ac.ir/Azra_Ghandeharion,1,547
+738,Mahdi Ghahremani Moghaddam,Sport science,Medicine,"Department of Exercise Physiology, Sports and Physical Education",http://scimet.um.ac.ir/Mahdi_GhahremaniMoghaddam,0,0
+848,Hamed Karkhanechi,Engineering,Materials science,"Department of Chemical Engineering, Engineering",http://scimet.um.ac.ir/Hamed_Karkhanechi,1,548
+1410,Iman Kardan,Engineering,Systems engineering,"Department of Mechanical Engineering, Engineering",http://scimet.um.ac.ir/Iman_Kardan,1,549
+518,Hossein Kareshki,Educational sciences and psychology,Psychology,Education and Psychology,http://scimet.um.ac.ir/Hossein_Kareshki,1,550
+316,Hamid Reza Kazerani,Veterinary medicine,Medicine,"Department of Basical Sciences, Veterinary medicine",http://scimet.um.ac.ir/HamidReza_Kazerani,1,551
+318,Mostafa Kazemi,Administrative and economic sciences,Systems engineering,"Department of Management, Economics and Administrative sciences",http://scimet.um.ac.ir/Mostafa_Kazemi,1,552
+319,Mohammad Kafi,Agriculture,Biology,"Department of Agronomy, Agriculture",http://scimet.um.ac.ir/Mohammad_Kafi,1,559
+1414,Behnam Kamkar,Agriculture,Materials science,"Department of Agronomy, Agriculture",http://scimet.um.ac.ir/Behnam_Kamkar,1,564
+391,Seyyed Alireza Kamel Mirmostafaee,Mathematical Sciences,Mathematics,"Department of Pure Mathematics, Mathematics",http://scimet.um.ac.ir/SeyyedAlireza_KamelMirmostafaee,0,0
+741,Atiyeh Kamyabi Gol,Faculty of Literature and Humanities,Psychology,"Department of Linguistics, Letters and Humanities",http://scimet.um.ac.ir/Atiyeh_KamyabiGol,1,565
+104,Mohsen Kahani,Engineering,Computer science,"Department of Computer Engineering, Engineering",http://scimet.um.ac.ir/Mohsen_Kahani,1,566
+321,Mehran Kadkhodayan,Engineering,Computer science,"Department of Mechanical Engineering, Engineering",http://scimet.um.ac.ir/Mehran_Kadkhodayan,1,567
+643,Seyed Mohsen Karrabi,Engineering,Environmental science,"Department of Civil Engineering, Engineering",http://scimet.um.ac.ir/SeyedMohsen_Karrabi,0,0
+223,Abbas Karamodin,Engineering,Engineering management,"Department of Civil Engineering, Engineering",http://scimet.um.ac.ir/Abbas_Karamodin,1,568
+611,Morteza Karami,Educational sciences and psychology,Computer science,Education and Psychology,http://scimet.um.ac.ir/Morteza_Karami,1,570
 519,Alireza Karimi,Agriculture,Geology,"Department of Soil Sciences, Agriculture",http://scimet.um.ac.ir/Alireza_Karimi,1,577
-484,Javad Karimi,Agriculture,Geology,"Department of Plant protection, Agriculture",http://scimet.um.ac.ir/Javad_Karimi,1,594
-854,MEHDI KARIMI,Engineering,Geology,"Department of Chemical Engineering, Engineering",http://scimet.um.ac.ir/MEHDI_KARIMI,1,605
-562,Azadeh Karimi,Natural resources and environment,Geology,Natural Resources and Environment,http://scimet.um.ac.ir/Azadeh_Karimi,1,613
-466,Abdolghasem Karimi,Theology and Islamic Sciences,Geology,Theology,http://scimet.um.ac.ir/Abdolghasem_Karimi,0,0
-758,Mohammad Keshtidar,Sport science,Geology,"Department of Motor Behavior, Sports and Physical Education",http://scimet.um.ac.ir/Mohammad_Keshtidar,1,616
-325,Azar Kaffashpoor,Administrative and economic sciences,Geology,"Department of Management, Economics and Administrative sciences",http://scimet.um.ac.ir/Azar_Kaffashpoor,1,617
-163,Mojtaba Kaffashan Kakhki,Educational sciences and psychology,Geology,"Department of Librarianship, Education and Psychology",http://scimet.um.ac.ir/Mojtaba_KaffashanKakhki,1,618
-326,Elaheh Kafshdare Goharshadi,Science,Geology,"Department of Chemistry, Sciences",http://scimet.um.ac.ir/Elaheh_KafshdareGoharshadi,0,0
-150,Farhad Kolahan,Engineering,Geology,"Department of Mechanical Engineering, Engineering",http://scimet.um.ac.ir/Farhad_Kolahan,1,619
-836,Mahdi Kolahi,Natural resources and environment,Geology,Natural Resources and Environment,http://scimet.um.ac.ir/Mahdi_Kolahi,1,620
-521,Arash Koocheki,Agriculture,Geology,"Department of Food Science Industry, Agriculture",http://scimet.um.ac.ir/Arash_Koocheki,1,622
-1394,Alireza Koocheki,Agriculture,Geology,"Department of Agronomy, Agriculture",http://scimet.um.ac.ir/Alireza_Koocheki,1,623
-546,Hamidreza Koosha,Engineering,Geology,"Department of Industrial Engineering, Engineering",http://scimet.um.ac.ir/Hamidreza_Koosha,1,624
-413,Ali Reza Kiani Rashid,Engineering,Geology,"Department of Material Engineering, Engineering",http://scimet.um.ac.ir/AliReza_KianiRashid,1,625
-42,Saeed Kayvanfar,Mathematical Sciences,Geology,"Department of Pure Mathematics, Mathematics",http://scimet.um.ac.ir/Saeed_Kayvanfar,1,626
-414,Mortaza Gachpazan,Mathematical Sciences,Geology,Mathematics,http://scimet.um.ac.ir/Mortaza_Gachpazan,1,627
-100,Mohammad Reza Garousi,Science,Geology,"Department of Physics, Sciences",http://scimet.um.ac.ir/MohammadReza_Garousi,0,0
-43,Ali Ganjeali,Science,Geology,"Department of Biology, Sciences",http://scimet.um.ac.ir/Ali_Ganjeali,1,628
+484,Javad Karimi,Agriculture,Biology,"Department of Plant protection, Agriculture",http://scimet.um.ac.ir/Javad_Karimi,1,594
+854,MEHDI KARIMI,Engineering,Chemical engineering,"Department of Chemical Engineering, Engineering",http://scimet.um.ac.ir/MEHDI_KARIMI,1,605
+562,Azadeh Karimi,Natural resources and environment,Civil engineering,Natural Resources and Environment,http://scimet.um.ac.ir/Azadeh_Karimi,1,613
+466,Abdolghasem Karimi,Theology and Islamic Sciences,Psychology,Theology,http://scimet.um.ac.ir/Abdolghasem_Karimi,0,0
+758,Mohammad Keshtidar,Sport science,Psychology,"Department of Motor Behavior, Sports and Physical Education",http://scimet.um.ac.ir/Mohammad_Keshtidar,1,616
+325,Azar Kaffashpoor,Administrative and economic sciences,Computer science,"Department of Management, Economics and Administrative sciences",http://scimet.um.ac.ir/Azar_Kaffashpoor,1,617
+163,Mojtaba Kaffashan Kakhki,Educational sciences and psychology,Psychology,"Department of Librarianship, Education and Psychology",http://scimet.um.ac.ir/Mojtaba_KaffashanKakhki,1,618
+326,Elaheh Kafshdare Goharshadi,Science,Chemistry,"Department of Chemistry, Sciences",http://scimet.um.ac.ir/Elaheh_KafshdareGoharshadi,0,0
+150,Farhad Kolahan,Engineering,Psychology,"Department of Mechanical Engineering, Engineering",http://scimet.um.ac.ir/Farhad_Kolahan,1,619
+836,Mahdi Kolahi,Natural resources and environment,Environmental science,Natural Resources and Environment,http://scimet.um.ac.ir/Mahdi_Kolahi,1,620
+521,Arash Koocheki,Agriculture,Biology,"Department of Food Science Industry, Agriculture",http://scimet.um.ac.ir/Arash_Koocheki,1,622
+1394,Alireza Koocheki,Agriculture,Biology,"Department of Agronomy, Agriculture",http://scimet.um.ac.ir/Alireza_Koocheki,1,623
+546,Hamidreza Koosha,Engineering,Industrial engineering,"Department of Industrial Engineering, Engineering",http://scimet.um.ac.ir/Hamidreza_Koosha,1,624
+413,Ali Reza Kiani Rashid,Engineering,Forensic engineering,"Department of Material Engineering, Engineering",http://scimet.um.ac.ir/AliReza_KianiRashid,1,625
+42,Saeed Kayvanfar,Mathematical Sciences,Mathematics,"Department of Pure Mathematics, Mathematics",http://scimet.um.ac.ir/Saeed_Kayvanfar,1,626
+414,Mortaza Gachpazan,Mathematical Sciences,Psychology,Mathematics,http://scimet.um.ac.ir/Mortaza_Gachpazan,1,627
+100,Mohammad Reza Garousi,Science,Physics,"Department of Physics, Sciences",http://scimet.um.ac.ir/MohammadReza_Garousi,0,0
+43,Ali Ganjeali,Science,Biology,"Department of Biology, Sciences",http://scimet.um.ac.ir/Ali_Ganjeali,1,628
 397,Gholam Reza Lashkaripour,Science,Geology,"Department of Geology, Sciences",http://scimet.um.ac.ir/GholamReza_Lashkaripour,1,629
-44,Mohammad Reza Lotfalipour,Administrative and economic sciences,Geology,"Department of Economics, Economics and Administrative sciences",http://scimet.um.ac.ir/MohammadReza_Lotfalipour,0,0
-602,Mohammad Saeed Majedi,Engineering,Biology,"Department of Electrical Engineering, Engineering",http://scimet.um.ac.ir/MohammadSaeed_Majedi,1,631
-701,Fatemeh Mahvan,Faculty of Literature and Humanities,Mathematics,"Department of Persian Language and Literature, Letters and Humanities",http://scimet.um.ac.ir/Fatemeh_Mahvan,1,632
-742,Mahdi Mojtahedi,Theology and Islamic Sciences,Business,"Department of History and Civilization of Muslim Nations, Theology",http://scimet.um.ac.ir/Mahdi_Mojtahedi,1,634
-786,Hadi Mohebalian,Veterinary medicine,Economics,"Department of Pathobiology, Veterinary medicine",http://scimet.um.ac.ir/Hadi_Mohebalian,1,635
+44,Mohammad Reza Lotfalipour,Administrative and economic sciences,Political science,"Department of Economics, Economics and Administrative sciences",http://scimet.um.ac.ir/MohammadReza_Lotfalipour,0,0
+602,Mohammad Saeed Majedi,Engineering,Electrical engineering,"Department of Electrical Engineering, Engineering",http://scimet.um.ac.ir/MohammadSaeed_Majedi,1,631
+701,Fatemeh Mahvan,Faculty of Literature and Humanities,Art,"Department of Persian Language and Literature, Letters and Humanities",http://scimet.um.ac.ir/Fatemeh_Mahvan,1,632
+742,Mahdi Mojtahedi,Theology and Islamic Sciences,Philosophy,"Department of History and Civilization of Muslim Nations, Theology",http://scimet.um.ac.ir/Mahdi_Mojtahedi,1,634
+786,Hadi Mohebalian,Veterinary medicine,Biology,"Department of Pathobiology, Veterinary medicine",http://scimet.um.ac.ir/Hadi_Mohebalian,1,635
 427,Mohebbat Mohebbi,Agriculture,Economics,"Department of Food Science Industry, Agriculture",http://scimet.um.ac.ir/Mohebbat_Mohebbi,1,636
-770,Vahid Mohtashami,Engineering,Economics,"Department of Electrical Engineering, Engineering",http://scimet.um.ac.ir/Vahid_Mohtashami,1,637
-447,Gholam Reza Mohtashami Borzadaran,Mathematical Sciences,Economics,"Department of Statistics, Mathematics",http://scimet.um.ac.ir/GholamReza_MohtashamiBorzadaran,1,638
-118,Mohammad Mohsenzadeh,Veterinary medicine,Economics,Veterinary medicine,http://scimet.um.ac.ir/Mohammad_Mohsenzadeh,1,639
-791,Neda Mohseni,Faculty of Literature and Humanities,Economics,"Department of Geography, Letters and Humanities",http://scimet.um.ac.ir/Neda_Mohseni,1,642
-396,Ahmadali Mohammadpour,Veterinary medicine,Economics,"Department of Basical Sciences, Veterinary medicine",http://scimet.um.ac.ir/Ahmadali_Mohammadpour,0,0
-51,Hossein Mohammadzadeh,Science,Economics,"Department of Geology, Sciences",http://scimet.um.ac.ir/Hossein_Mohammadzadeh,1,643
-498,Abolfazl Mohamadzadeh Moghaddam,Engineering,Economics,"Department of Civil Engineering, Engineering",http://scimet.um.ac.ir/Abolfazl_MohamadzadehMoghaddam,0,0
-675,Ahmad Raza Mohamadnia,Veterinary medicine,Economics,"Department of Clinical Sciences, Veterinary medicine",http://scimet.um.ac.ir/AhmadRaza_Mohamadnia,0,0
-53,Gholam Reza Mohammadi,Veterinary medicine,Economics,"Department of Clinical Sciences, Veterinary medicine",http://scimet.um.ac.ir/GholamReza_Mohammadi,0,0
-866,Ehsan Mohammadi Zahrani,Engineering,Economics,"Department of Material Engineering, Engineering",http://scimet.um.ac.ir/Ehsan_MohammadiZahrani,1,651
-459,Mohamad Hosein Mahmudy Gharaie,Science,Economics,"Department of Geology, Sciences",http://scimet.um.ac.ir/MohamadHosein_MahmudyGharaie,1,652
-708,Ali Makhdoumi,Science,Psychology,"Department of Biology, Sciences",http://scimet.um.ac.ir/Ali_Makhdoumi,1,654
-1413,Fereshteh Modaresi,Agriculture,Engineering ethics,"Department of Water Science and Engineering, Agriculture",http://scimet.um.ac.ir/Fereshteh_Modaresi,1,655
-716,Mohsen Modarresi,Science,Psychology,"Department of Physics, Sciences",http://scimet.um.ac.ir/Mohsen_Modarresi,1,656
-58,Mohammad Mazinani,Engineering,Mechanical engineering,"Department of Material Engineering, Engineering",http://scimet.um.ac.ir/Mohammad_Mazinani,1,657
+770,Vahid Mohtashami,Engineering,Computer science,"Department of Electrical Engineering, Engineering",http://scimet.um.ac.ir/Vahid_Mohtashami,1,637
+447,Gholam Reza Mohtashami Borzadaran,Mathematical Sciences,Mathematics,"Department of Statistics, Mathematics",http://scimet.um.ac.ir/GholamReza_MohtashamiBorzadaran,1,638
+118,Mohammad Mohsenzadeh,Veterinary medicine,Biology,Veterinary medicine,http://scimet.um.ac.ir/Mohammad_Mohsenzadeh,1,639
+791,Neda Mohseni,Faculty of Literature and Humanities,Geology,"Department of Geography, Letters and Humanities",http://scimet.um.ac.ir/Neda_Mohseni,1,642
+396,Ahmadali Mohammadpour,Veterinary medicine,Chemistry,"Department of Basical Sciences, Veterinary medicine",http://scimet.um.ac.ir/Ahmadali_Mohammadpour,0,0
+51,Hossein Mohammadzadeh,Science,Geology,"Department of Geology, Sciences",http://scimet.um.ac.ir/Hossein_Mohammadzadeh,1,643
+498,Abolfazl Mohamadzadeh Moghaddam,Engineering,Engineering management,"Department of Civil Engineering, Engineering",http://scimet.um.ac.ir/Abolfazl_MohamadzadehMoghaddam,0,0
+675,Ahmad Raza Mohamadnia,Veterinary medicine,Medicine,"Department of Clinical Sciences, Veterinary medicine",http://scimet.um.ac.ir/AhmadRaza_Mohamadnia,0,0
+53,Gholam Reza Mohammadi,Veterinary medicine,Biology,"Department of Clinical Sciences, Veterinary medicine",http://scimet.um.ac.ir/GholamReza_Mohammadi,0,0
+866,Ehsan Mohammadi Zahrani,Engineering,Forensic engineering,"Department of Material Engineering, Engineering",http://scimet.um.ac.ir/Ehsan_MohammadiZahrani,1,651
+459,Mohamad Hosein Mahmudy Gharaie,Science,Geology,"Department of Geology, Sciences",http://scimet.um.ac.ir/MohamadHosein_MahmudyGharaie,1,652
+708,Ali Makhdoumi,Science,Medicine,"Department of Biology, Sciences",http://scimet.um.ac.ir/Ali_Makhdoumi,1,654
+1413,Fereshteh Modaresi,Agriculture,Construction engineering,"Department of Water Science and Engineering, Agriculture",http://scimet.um.ac.ir/Fereshteh_Modaresi,1,655
+716,Mohsen Modarresi,Science,Physics,"Department of Physics, Sciences",http://scimet.um.ac.ir/Mohsen_Modarresi,1,656
+58,Mohammad Mazinani,Engineering,Forensic engineering,"Department of Material Engineering, Engineering",http://scimet.um.ac.ir/Mohammad_Mazinani,1,657
 509,Abolfazl Mosaedi,Agriculture,Materials science,"Department of Water Science and Engineering, Agriculture",http://scimet.um.ac.ir/Abolfazl_Mosaedi,1,659
-555,Mohammad Mosaferi Ziaaldini,Sport science,Control engineering,"Department of Exercise Physiology, Sports and Physical Education",http://scimet.um.ac.ir/Mohammad_MosaferiZiaaldini,1,660
-634,Ali Moshaverinia,Veterinary medicine,Art,"Department of Pathobiology, Veterinary medicine",http://scimet.um.ac.ir/Ali_Moshaverinia,1,661
-60,Behrooz Mashayekhy Fard,Mathematical Sciences,Art,"Department of Pure Mathematics, Mathematics",http://scimet.um.ac.ir/Behrooz_MashayekhyFard,0,0
-134,Mansour Mashreghi,Science,Computer science,"Department of Biology, Sciences",http://scimet.um.ac.ir/Mansour_Mashreghi,1,662
+555,Mohammad Mosaferi Ziaaldini,Sport science,Medicine,"Department of Exercise Physiology, Sports and Physical Education",http://scimet.um.ac.ir/Mohammad_MosaferiZiaaldini,1,660
+634,Ali Moshaverinia,Veterinary medicine,Biology,"Department of Pathobiology, Veterinary medicine",http://scimet.um.ac.ir/Ali_Moshaverinia,1,661
+60,Behrooz Mashayekhy Fard,Mathematical Sciences,Mathematics,"Department of Pure Mathematics, Mathematics",http://scimet.um.ac.ir/Behrooz_MashayekhyFard,0,0
+134,Mansour Mashreghi,Science,Biology,"Department of Biology, Sciences",http://scimet.um.ac.ir/Mansour_Mashreghi,1,662
 776,Azadeh Meshkini,Science,Biology,"Department of Chemistry, Sciences",http://scimet.um.ac.ir/Azadeh_Meshkini,1,663
-558,Ali Mashhadi,Educational sciences and psychology,Electrical engineering,"Department of Clinical Psychology, Education and Psychology",http://scimet.um.ac.ir/Ali_Mashhadi,1,665
-729,Nasser Motahari Farimani,Administrative and economic sciences,Psychology,"Department of Management, Economics and Administrative sciences",http://scimet.um.ac.ir/Nasser_MotahariFarimani,1,672
-686,Seyed Hossein Mazloumi,Engineering,Psychology,"Department of Chemical Engineering, Engineering",http://scimet.um.ac.ir/SeyedHossein_Mazloumi,0,0
-113,Behnam Moetakef Imani,Engineering,Biology,"Department of Mechanical Engineering, Engineering",http://scimet.um.ac.ir/Behnam_MoetakefImani,1,673
-64,Mahtab Moazzami,Sport science,Art,"Department of Exercise Physiology, Sports and Physical Education",http://scimet.um.ac.ir/Mahtab_Moazzami,1,674
-361,Farshid Memariani,Biology (plant science) - plant systematics,Chemical engineering,Department of Plant Biology,http://scimet.um.ac.ir/Farshid_Memariani,1,675
-852,Marzieh Moeenfard,Agriculture,Psychology,"Department of Food Science Industry, Agriculture",http://scimet.um.ac.ir/Marzieh_Moeenfard,1,676
-166,Majid Moeenizadeh,Educational sciences and psychology,Electrical engineering,"Department of Clinical Psychology, Education and Psychology",http://scimet.um.ac.ir/Majid_Moeenizadeh,1,677
-614,Mohammad Javad Maghrebi,Engineering,Environmental science,"Department of Mechanical Engineering, Engineering",http://scimet.um.ac.ir/MohammadJavad_Maghrebi,1,678
-586,Mojtaba Maghrebi,Engineering,Environmental science,"Department of Civil Engineering, Engineering",http://scimet.um.ac.ir/Mojtaba_Maghrebi,1,679
-621,Abbas Mofidi,Faculty of Literature and Humanities,Environmental science,"Department of Geography, Letters and Humanities",http://scimet.um.ac.ir/Abbas_Mofidi,1,680
-841,Amir Moqaddam Mottaqi,Faculty of Literature and Humanities,Environmental science,"Department of Arabic Language and Literature, Letters and Humanities",http://scimet.um.ac.ir/Amir_MoqaddamMottaqi,1,682
-715,Zahra Maghsoud,Engineering,Environmental science,"Department of Chemical Engineering, Engineering",http://scimet.um.ac.ir/Zahra_Maghsoud,1,683
-65,Mohammad Moghiman,Engineering,Environmental science,"Department of Mechanical Engineering, Engineering",http://scimet.um.ac.ir/Mohammad_Moghiman,1,684
+558,Ali Mashhadi,Educational sciences and psychology,Psychology,"Department of Clinical Psychology, Education and Psychology",http://scimet.um.ac.ir/Ali_Mashhadi,1,665
+729,Nasser Motahari Farimani,Administrative and economic sciences,Economics,"Department of Management, Economics and Administrative sciences",http://scimet.um.ac.ir/Nasser_MotahariFarimani,1,672
+686,Seyed Hossein Mazloumi,Engineering,Chemical engineering,"Department of Chemical Engineering, Engineering",http://scimet.um.ac.ir/SeyedHossein_Mazloumi,0,0
+113,Behnam Moetakef Imani,Engineering,Systems engineering,"Department of Mechanical Engineering, Engineering",http://scimet.um.ac.ir/Behnam_MoetakefImani,1,673
+64,Mahtab Moazzami,Sport science,Medicine,"Department of Exercise Physiology, Sports and Physical Education",http://scimet.um.ac.ir/Mahtab_Moazzami,1,674
+361,Farshid Memariani,Biology (plant science) - plant systematics,Mechanical engineering,Department of Plant Biology,http://scimet.um.ac.ir/Farshid_Memariani,1,675
+852,Marzieh Moeenfard,Agriculture,Biology,"Department of Food Science Industry, Agriculture",http://scimet.um.ac.ir/Marzieh_Moeenfard,1,676
+166,Majid Moeenizadeh,Educational sciences and psychology,Medicine,"Department of Clinical Psychology, Education and Psychology",http://scimet.um.ac.ir/Majid_Moeenizadeh,1,677
+614,Mohammad Javad Maghrebi,Engineering,Aerospace engineering,"Department of Mechanical Engineering, Engineering",http://scimet.um.ac.ir/MohammadJavad_Maghrebi,1,678
+586,Mojtaba Maghrebi,Engineering,Engineering ethics,"Department of Civil Engineering, Engineering",http://scimet.um.ac.ir/Mojtaba_Maghrebi,1,679
+621,Abbas Mofidi,Faculty of Literature and Humanities,Geography,"Department of Geography, Letters and Humanities",http://scimet.um.ac.ir/Abbas_Mofidi,1,680
+841,Amir Moqaddam Mottaqi,Faculty of Literature and Humanities,Philosophy,"Department of Arabic Language and Literature, Letters and Humanities",http://scimet.um.ac.ir/Amir_MoqaddamMottaqi,1,682
+715,Zahra Maghsoud,Engineering,Materials science,"Department of Chemical Engineering, Engineering",http://scimet.um.ac.ir/Zahra_Maghsoud,1,683
+65,Mohammad Moghiman,Engineering,Computer science,"Department of Mechanical Engineering, Engineering",http://scimet.um.ac.ir/Mohammad_Moghiman,1,684
 66,Ali Moghimi,Science,Psychology,"Department of Biology, Sciences",http://scimet.um.ac.ir/Ali_Moghimi,1,686
-778,Sahar Mollazadeh Beidokhti,Engineering,Environmental science,"Department of Material Engineering, Engineering",http://scimet.um.ac.ir/Sahar_MollazadehBeidokhti,1,693
-476,Seyed Saeed Malek Sadati,Administrative and economic sciences,Environmental science,"Department of Economics, Economics and Administrative sciences",http://scimet.um.ac.ir/SeyedSaeed_MalekSadati,0,0
-542,Gholamreza Malekzadeh,Administrative and economic sciences,Environmental science,"Department of Management, Economics and Administrative sciences",http://scimet.um.ac.ir/Gholamreza_Malekzadeh,1,694
-67,Saeid Malekzadeh Shafaroudi,Agriculture,Environmental science,"Department of Crop Biotechnology and Breeding, Agriculture",http://scimet.um.ac.ir/Saeid_MalekzadehShafaroudi,1,695
-379,Azadeh Malekzadeh Shafaroudi,Science,Environmental science,"Department of Geology, Sciences",http://scimet.um.ac.ir/Azadeh_MalekzadehShafaroudi,1,696
-682,Mojtaba Mamarabadi,Agriculture,Environmental science,"Department of Plant protection, Agriculture",http://scimet.um.ac.ir/Mojtaba_Mamarabadi,1,697
-154,Morteza Manshadi,Political science - political sociology,Environmental science,Faculty of Law and Political Science,http://scimet.um.ac.ir/Morteza_Manshadi,1,698
-68,Reza Monsefi,Engineering,Environmental science,"Department of Computer Engineering, Engineering",http://scimet.um.ac.ir/Reza_Monsefi,0,0
-592,Mohammad Monfared,Engineering,Environmental science,"Department of Electrical Engineering, Engineering",http://scimet.um.ac.ir/Mohammad_Monfared,1,700
-788,Hamid Moazzeni,Biology (plant science) - plant systematics,Environmental science,Department of Plant Biology,http://scimet.um.ac.ir/Hamid_Moazzeni,1,708
-117,Seyed Mahmoud Mousavi,Engineering,Environmental science,"Department of Chemical Engineering, Engineering",http://scimet.um.ac.ir/SeyedMahmoud_Mousavi,1,709
-655,Zahra Moosavi,Veterinary medicine,Environmental science,"Department of Pathobiology, Veterinary medicine",http://scimet.um.ac.ir/Zahra_Moosavi,1,714
-705,Fatemeh Moosavi,Science,Environmental science,"Department of Chemistry, Sciences",http://scimet.um.ac.ir/Fatemeh_Moosavi,1,716
-556,Amirhossein Mohajerzadeh,Engineering,Environmental science,"Department of Computer Engineering, Engineering",http://scimet.um.ac.ir/Amirhossein_Mohajerzadeh,0,0
-165,Yaghoob Maharati,Administrative and economic sciences,Environmental science,"Department of Management, Economics and Administrative sciences",http://scimet.um.ac.ir/Yaghoob_Maharati,1,720
+778,Sahar Mollazadeh Beidokhti,Engineering,Materials science,"Department of Material Engineering, Engineering",http://scimet.um.ac.ir/Sahar_MollazadehBeidokhti,1,693
+476,Seyed Saeed Malek Sadati,Administrative and economic sciences,Sociology,"Department of Economics, Economics and Administrative sciences",http://scimet.um.ac.ir/SeyedSaeed_MalekSadati,0,0
+542,Gholamreza Malekzadeh,Administrative and economic sciences,Political science,"Department of Management, Economics and Administrative sciences",http://scimet.um.ac.ir/Gholamreza_Malekzadeh,1,694
+67,Saeid Malekzadeh Shafaroudi,Agriculture,Biology,"Department of Crop Biotechnology and Breeding, Agriculture",http://scimet.um.ac.ir/Saeid_MalekzadehShafaroudi,1,695
+379,Azadeh Malekzadeh Shafaroudi,Science,Geology,"Department of Geology, Sciences",http://scimet.um.ac.ir/Azadeh_MalekzadehShafaroudi,1,696
+682,Mojtaba Mamarabadi,Agriculture,Mathematics,"Department of Plant protection, Agriculture",http://scimet.um.ac.ir/Mojtaba_Mamarabadi,1,697
+154,Morteza Manshadi,Political science - political sociology,Political science,Faculty of Law and Political Science,http://scimet.um.ac.ir/Morteza_Manshadi,1,698
+68,Reza Monsefi,Engineering,Electronic engineering,"Department of Computer Engineering, Engineering",http://scimet.um.ac.ir/Reza_Monsefi,0,0
+592,Mohammad Monfared,Engineering,Mechanical engineering,"Department of Electrical Engineering, Engineering",http://scimet.um.ac.ir/Mohammad_Monfared,1,700
+788,Hamid Moazzeni,Biology (plant science) - plant systematics,Mechanical engineering,Department of Plant Biology,http://scimet.um.ac.ir/Hamid_Moazzeni,1,708
+117,Seyed Mahmoud Mousavi,Engineering,Chemical engineering,"Department of Chemical Engineering, Engineering",http://scimet.um.ac.ir/SeyedMahmoud_Mousavi,1,709
+655,Zahra Moosavi,Veterinary medicine,Medicine,"Department of Pathobiology, Veterinary medicine",http://scimet.um.ac.ir/Zahra_Moosavi,1,714
+705,Fatemeh Moosavi,Science,Chemistry,"Department of Chemistry, Sciences",http://scimet.um.ac.ir/Fatemeh_Moosavi,1,716
+556,Amirhossein Mohajerzadeh,Engineering,Computer science,"Department of Computer Engineering, Engineering",http://scimet.um.ac.ir/Amirhossein_Mohajerzadeh,0,0
+165,Yaghoob Maharati,Administrative and economic sciences,Economics,"Department of Management, Economics and Administrative sciences",http://scimet.um.ac.ir/Yaghoob_Maharati,1,720
 809,Sara Mahdizadeh,Architecture and Urbanism,Environmental science,Architecture and Urban Engineering,http://scimet.um.ac.ir/Sara_Mahdizadeh,1,722
-49,Mohammad Mehraeen,Administrative and economic sciences,Environmental science,"Department of Management, Economics and Administrative sciences",http://scimet.um.ac.ir/Mohammad_Lagzian,1,723
-595,Mohsen Mehrvar,Agriculture,Environmental science,"Department of Plant protection, Agriculture",http://scimet.um.ac.ir/Mohsen_Mehrvar,1,724
-76,Mehrdad Mohri,Veterinary medicine,Environmental science,"Department of Clinical Sciences, Veterinary medicine",http://scimet.um.ac.ir/Mehrdad_Mohri,1,725
-523,Bibi Hanieh Mirebrahimi Paziquee,Mathematical Sciences,Environmental science,"Department of Pure Mathematics, Mathematics",http://scimet.um.ac.ir/BibiHanieh_MirebrahimiPaziquee,0,0
-505,Mostafa Mirjalili,Engineering,Environmental science,"Department of Material Engineering, Engineering",http://scimet.um.ac.ir/Mostafa_Mirjalili,1,726
-636,Masoud Mirzaei Shahrabi,Science,Environmental science,"Department of Chemistry, Sciences",http://scimet.um.ac.ir/Masoud_MirzaeiShahrabi,0,0
-565,Zahra Sadat Mirzazadeh,Sport science,Environmental science,"Department of Motor Behavior, Sports and Physical Education",http://scimet.um.ac.ir/ZahraSadat_Mirzazadeh,0,0
-672,Ali Mirshahi,Veterinary medicine,Environmental science,"Department of Clinical Sciences, Veterinary medicine",http://scimet.um.ac.ir/Ali_Mirshahi,1,727
-720,Pezhman Mirshokraei,Veterinary medicine,Environmental science,"Department of Clinical Sciences, Veterinary medicine",http://scimet.um.ac.ir/Pezhman_Mirshokraei,1,728
-347,Omid Mirshamsi,Science,Environmental science,"Department of Biology, Sciences",http://scimet.um.ac.ir/Omid_Mirshamsi,1,729
-145,Seyyed Hashem Miri Hakimabad,Science,Environmental science,"Department of Physics, Sciences",http://scimet.um.ac.ir/SeyyedHashem_MiriHakimabad,0,0
-1398,Masoud Minaei,Faculty of Literature and Humanities,Environmental science,"Department of Geography, Letters and Humanities",http://scimet.um.ac.ir/Masoud_Minaei,1,730
-79,Ali Akbar Naji Meidani,Administrative and economic sciences,Environmental science,"Department of Economics, Economics and Administrative sciences",http://scimet.um.ac.ir/AliAkbar_NajiMeidani,0,0
-1418,Elham Naji Meidani,Faculty of Literature and Humanities,Environmental science,"Department of English, Letters and Humanities",http://scimet.um.ac.ir/Elham_Najimeidani,1,731
-155,Hosein Naseri Mogaddam,Theology and Islamic Sciences,Environmental science,"Department of Jurisprudence, Theology",http://scimet.um.ac.ir/Hosein_NaseriMogaddam,0,0
-82,Alireza NajafZadeh Torbati,Theology and Islamic Sciences,Environmental science,Theology,http://scimet.um.ac.ir/Alireza_NajafZadehTorbati,0,0
-828,Leila Najafian Razavi,Faculty of Literature and Humanities,Physics,"Department of History, Letters and Humanities",http://scimet.um.ac.ir/Leyla_NajafianRazavi,1,732
-734,Ali Nakhaei Pour,Science,Physics,"Department of Chemistry, Sciences",http://scimet.um.ac.ir/Ali_NakhaeiPour,1,733
-873,Saeideh Nakhaeirad,Molecular biology,Physics,Ferdowsi University of Mashhad,http://scimet.um.ac.ir/Saeideh_Nakhaeirad,0,0
-472,Mohammad Hassan Neshati,Engineering,Mathematics,"Department of Electrical Engineering, Engineering",http://scimet.um.ac.ir/MohammadHassan_Neshati,0,0
-85,Farzaneh Nassir Zadeh,Administrative and economic sciences,Biology,"Department of Accounting, Economics and Administrative sciences",http://scimet.um.ac.ir/Farzaneh_NassirZadeh,1,734
-140,Mohammadreza Nassiri,Agriculture,Biology,"Department of Animal Sciences, Agriculture",http://scimet.um.ac.ir/Mohammadreza_Nassiri,1,735
+49,Mohammad Mehraeen,Administrative and economic sciences,Economics,"Department of Management, Economics and Administrative sciences",http://scimet.um.ac.ir/Mohammad_Lagzian,1,723
+595,Mohsen Mehrvar,Agriculture,Medicine,"Department of Plant protection, Agriculture",http://scimet.um.ac.ir/Mohsen_Mehrvar,1,724
+76,Mehrdad Mohri,Veterinary medicine,Medicine,"Department of Clinical Sciences, Veterinary medicine",http://scimet.um.ac.ir/Mehrdad_Mohri,1,725
+523,Bibi Hanieh Mirebrahimi Paziquee,Mathematical Sciences,Mathematics,"Department of Pure Mathematics, Mathematics",http://scimet.um.ac.ir/BibiHanieh_MirebrahimiPaziquee,0,0
+505,Mostafa Mirjalili,Engineering,Materials science,"Department of Material Engineering, Engineering",http://scimet.um.ac.ir/Mostafa_Mirjalili,1,726
+636,Masoud Mirzaei Shahrabi,Science,Chemistry,"Department of Chemistry, Sciences",http://scimet.um.ac.ir/Masoud_MirzaeiShahrabi,0,0
+565,Zahra Sadat Mirzazadeh,Sport science,Psychology,"Department of Motor Behavior, Sports and Physical Education",http://scimet.um.ac.ir/ZahraSadat_Mirzazadeh,0,0
+672,Ali Mirshahi,Veterinary medicine,Medicine,"Department of Clinical Sciences, Veterinary medicine",http://scimet.um.ac.ir/Ali_Mirshahi,1,727
+720,Pezhman Mirshokraei,Veterinary medicine,Medicine,"Department of Clinical Sciences, Veterinary medicine",http://scimet.um.ac.ir/Pezhman_Mirshokraei,1,728
+347,Omid Mirshamsi,Science,Philosophy,"Department of Biology, Sciences",http://scimet.um.ac.ir/Omid_Mirshamsi,1,729
+145,Seyyed Hashem Miri Hakimabad,Science,Physics,"Department of Physics, Sciences",http://scimet.um.ac.ir/SeyyedHashem_MiriHakimabad,0,0
+1398,Masoud Minaei,Faculty of Literature and Humanities,Computer science,"Department of Geography, Letters and Humanities",http://scimet.um.ac.ir/Masoud_Minaei,1,730
+79,Ali Akbar Naji Meidani,Administrative and economic sciences,Psychology,"Department of Economics, Economics and Administrative sciences",http://scimet.um.ac.ir/AliAkbar_NajiMeidani,0,0
+1418,Elham Naji Meidani,Faculty of Literature and Humanities,Psychology,"Department of English, Letters and Humanities",http://scimet.um.ac.ir/Elham_Najimeidani,1,731
+155,Hosein Naseri Mogaddam,Theology and Islamic Sciences,Art,"Department of Jurisprudence, Theology",http://scimet.um.ac.ir/Hosein_NaseriMogaddam,0,0
+82,Alireza NajafZadeh Torbati,Theology and Islamic Sciences,Philosophy,Theology,http://scimet.um.ac.ir/Alireza_NajafZadehTorbati,0,0
+828,Leila Najafian Razavi,Faculty of Literature and Humanities,Philosophy,"Department of History, Letters and Humanities",http://scimet.um.ac.ir/Leyla_NajafianRazavi,1,732
+734,Ali Nakhaei Pour,Science,Chemistry,"Department of Chemistry, Sciences",http://scimet.um.ac.ir/Ali_NakhaeiPour,1,733
+873,Saeideh Nakhaeirad,Molecular biology,Biology,Ferdowsi University of Mashhad,http://scimet.um.ac.ir/Saeideh_Nakhaeirad,0,0
+472,Mohammad Hassan Neshati,Engineering,Electrical engineering,"Department of Electrical Engineering, Engineering",http://scimet.um.ac.ir/MohammadHassan_Neshati,0,0
+85,Farzaneh Nassir Zadeh,Administrative and economic sciences,Economics,"Department of Accounting, Economics and Administrative sciences",http://scimet.um.ac.ir/Farzaneh_NassirZadeh,1,734
+140,Mohammadreza Nassiri,Agriculture,Waste management,"Department of Animal Sciences, Agriculture",http://scimet.um.ac.ir/Mohammadreza_Nassiri,1,735
 84,Mehdi Nassiri Mahallati,Agriculture,Biology,"Department of Agronomy, Agriculture",http://scimet.um.ac.ir/Mehdi_NassiriMahallati,1,736
-86,Ahmad Nezami,Agriculture,Biology,"Department of Agronomy, Agriculture",http://scimet.um.ac.ir/Ahmad_Nezami,1,737
-807,Hossein Neghabi,Engineering,Philosophy,"Department of Industrial Engineering, Engineering",http://scimet.um.ac.ir/Hossein_Neghabi,1,738
-641,Nadia Naghavi,Engineering,Philosophy,"Department of Electrical Engineering, Engineering",http://scimet.um.ac.ir/Nadia_Naghavi,1,739
-404,Mohammad Bagher Naghibi Sistani,Engineering,Biology,"Department of Electrical Engineering, Engineering",http://scimet.um.ac.ir/MohammadBagher_NaghibiSistani,1,740
-781,Hossein Nourani,Veterinary medicine,Chemistry,"Department of Pathobiology, Veterinary medicine",http://scimet.um.ac.ir/Hossein_Nourani,1,741
-495,Hamid Noori,Engineering,Chemistry,"Department of Computer Engineering, Engineering",http://scimet.um.ac.ir/Hamid_Noori,1,745
-491,Seyed Mostafa Nowee Baghban,Engineering,Medicine,"Department of Chemical Engineering, Engineering",http://scimet.um.ac.ir/SeyedMostafa_NoweeBaghban,0,0
-868,Seyed Morteza Noei Baghban,Theology and Islamic Sciences,Computer science,Theology,http://scimet.um.ac.ir/SeyedMorteza_NoeiBaghban,0,0
-388,Mohsen Noghani Dokht Bahmani,Faculty of Literature and Humanities,Mathematics,"Department of Social Sciences, Letters and Humanities",http://scimet.um.ac.ir/Mohsen_NoghaniDokhtBahmani,1,748
-89,Hamid Niazmand,Engineering,Biology,"Department of Mechanical Engineering, Engineering",http://scimet.um.ac.ir/Hamid_Niazmand,1,750
-424,Abedin Vahedian Mazloum,Engineering,Medicine,"Department of Computer Engineering, Engineering",http://scimet.um.ac.ir/Abedin_VahedianMazloum,0,0
-389,Jalil Vahdati Khaki,Engineering,Economics,"Department of Material Engineering, Engineering",http://scimet.um.ac.ir/Jalil_VahdatiKhaki,1,751
+86,Ahmad Nezami,Agriculture,Materials science,"Department of Agronomy, Agriculture",http://scimet.um.ac.ir/Ahmad_Nezami,1,737
+807,Hossein Neghabi,Engineering,Industrial engineering,"Department of Industrial Engineering, Engineering",http://scimet.um.ac.ir/Hossein_Neghabi,1,738
+641,Nadia Naghavi,Engineering,Medicine,"Department of Electrical Engineering, Engineering",http://scimet.um.ac.ir/Nadia_Naghavi,1,739
+404,Mohammad Bagher Naghibi Sistani,Engineering,Control engineering,"Department of Electrical Engineering, Engineering",http://scimet.um.ac.ir/MohammadBagher_NaghibiSistani,1,740
+781,Hossein Nourani,Veterinary medicine,Medicine,"Department of Pathobiology, Veterinary medicine",http://scimet.um.ac.ir/Hossein_Nourani,1,741
+495,Hamid Noori,Engineering,Computer science,"Department of Computer Engineering, Engineering",http://scimet.um.ac.ir/Hamid_Noori,1,745
+491,Seyed Mostafa Nowee Baghban,Engineering,Chemistry,"Department of Chemical Engineering, Engineering",http://scimet.um.ac.ir/SeyedMostafa_NoweeBaghban,0,0
+868,Seyed Morteza Noei Baghban,Theology and Islamic Sciences,Political science,Theology,http://scimet.um.ac.ir/SeyedMorteza_NoeiBaghban,0,0
+388,Mohsen Noghani Dokht Bahmani,Faculty of Literature and Humanities,Sociology,"Department of Social Sciences, Letters and Humanities",http://scimet.um.ac.ir/Mohsen_NoghaniDokhtBahmani,1,748
+89,Hamid Niazmand,Engineering,Physics,"Department of Mechanical Engineering, Engineering",http://scimet.um.ac.ir/Hamid_Niazmand,1,750
+424,Abedin Vahedian Mazloum,Engineering,Electrical engineering,"Department of Computer Engineering, Engineering",http://scimet.um.ac.ir/Abedin_VahedianMazloum,0,0
+389,Jalil Vahdati Khaki,Engineering,Electrical engineering,"Department of Material Engineering, Engineering",http://scimet.um.ac.ir/Jalil_VahdatiKhaki,1,751
 90,Mohammad Vahidinia,Science,Biology,"Department of Geology, Sciences",http://scimet.um.ac.ir/Mohammad_Vahidinia,1,753
-589,Mehdi Varidi,Agriculture,Psychology,"Department of Food Science Industry, Agriculture",http://scimet.um.ac.ir/Mehdi_Varidi,1,754
-698,Mohammad Ali Vatandoost,Theology and Islamic Sciences,Psychology,"Department of Islamic Philosophy, Theology",http://scimet.um.ac.ir/MohamadAli_Vatandoost,1,755
-95,Mohammad Reza Hashemi,Faculty of Literature and Humanities,Psychology,"Department of English, Letters and Humanities",http://scimet.um.ac.ir/MohammadReza_Hashemi,1,757
-94,GHOLAMREZA HASHEMI TABAR,Veterinary medicine,Psychology,"Department of Pathobiology, Veterinary medicine",http://scimet.um.ac.ir/GHOLAMREZA_HASHEMITABAR,0,0
-594,Ahad Harati,Engineering,Psychology,"Department of Computer Engineering, Engineering",http://scimet.um.ac.ir/Ahad_Harati,1,762
-571,Masuod Homayounifar,Administrative and economic sciences,Psychology,"Department of Economics, Economics and Administrative sciences",http://scimet.um.ac.ir/Masuod_Homayounifar,0,0
-368,Faezeh Yazdani Moghaddam,Science,Psychology,"Department of Biology, Sciences",http://scimet.um.ac.ir/Faezeh_YazdaniMoghaddam,1,765
-816,Elham Yasari,Engineering,Medicine,"Department of Chemical Engineering, Engineering",http://scimet.um.ac.ir/Elham_Yasari,1,766
-129,Mohammad Hossein Yaghmaee Moghaddam,Engineering,Computer science,"Department of Computer Engineering, Engineering",http://scimet.um.ac.ir/MohammadHossein_YaghmaeeMoghaddam,1,767
-,,,Biology,,,,
-,,,Computer engineering,,,,
-,,,Art,,,,
-,,,Political science,,,,
-,,,Computer science,,,,
-,,,Psychology,,,,
-,,,Sociology,,,,
-,,,Economics,,,,
-,,,Political science,,,,
-,,,Medicine,,,,
-,,,Medicine,,,,
-,,,Medicine,,,,
-,,,Manufacturing engineering,,,,
-,,,Biology,,,,
-,,,Mathematics,,,,
-,,,Geology,,,,
-,,,Physics,,,,
-,,,Physics,,,,
-,,,Physics,,,,
-,,,Medicine,,,,
-,,,Medicine,,,,
-,,,Philosophy,,,,
-,,,Philosophy,,,,
-,,,Physics,,,,
-,,,Physics,,,,
-,,,Physics,,,,
-,,,Physics,,,,
-,,,Physics,,,,
-,,,Physics,,,,
-,,,Physics,,,,
-,,,Physics,,,,
-,,,Physics,,,,
-,,,Psychology,,,,
-,,,Chemical engineering,,,,
-,,,Chemical engineering,,,,
-,,,Physics,,,,
-,,,Civil engineering,,,,
-,,,Art,,,,
-,,,Materials science,,,,
-,,,Mechanical engineering,,,,
-,,,Psychology,,,,
-,,,Computer science,,,,
-,,,Computer science,,,,
-,,,Systems engineering,,,,
-,,,Systems engineering,,,,
-,,,Systems engineering,,,,
-,,,Systems engineering,,,,
-,,,Systems engineering,,,,
-,,,Biology,,,,
-,,,Biology,,,,
-,,,Biology,,,,
-,,,Biology,,,,
-,,,Materials science,,,,
-,,,Sociology,,,,
-,,,Computer science,,,,
-,,,Systems engineering,,,,
-,,,Civil engineering,,,,
-,,,Computer science,,,,
-,,,Computer science,,,,
-,,,Computer science,,,,
-,,,Psychology,,,,
-,,,Computer science,,,,
-,,,Geology,,,,
-,,,Geology,,,,
-,,,Geology,,,,
-,,,Geology,,,,
-,,,Geology,,,,
-,,,Geology,,,,
-,,,Geology,,,,
-,,,Geology,,,,
-,,,Geology,,,,
-,,,Geology,,,,
-,,,Geology,,,,
-,,,Geology,,,,
-,,,Geology,,,,
-,,,Geology,,,,
-,,,Geology,,,,
-,,,Geology,,,,
-,,,Geology,,,,
-,,,Biology,,,,
-,,,Biology,,,,
-,,,Biology,,,,
-,,,Biology,,,,
-,,,Biology,,,,
-,,,Biology,,,,
-,,,Biology,,,,
-,,,Biology,,,,
-,,,Chemical engineering,,,,
-,,,Chemical engineering,,,,
-,,,Chemical engineering,,,,
-,,,Chemical engineering,,,,
-,,,Chemical engineering,,,,
-,,,Chemical engineering,,,,
-,,,Chemical engineering,,,,
-,,,Chemical engineering,,,,
-,,,Chemical engineering,,,,
-,,,Civil engineering,,,,
-,,,Civil engineering,,,,
-,,,Construction engineering,,,,
-,,,Psychology,,,,
-,,,Psychology,,,,
-,,,Computer science,,,,
-,,,Psychology,,,,
-,,,Environmental science,,,,
-,,,Environmental science,,,,
-,,,Biology,,,,
-,,,Geography,,,,
-,,,Industrial engineering,,,,
-,,,Manufacturing engineering,,,,
-,,,Mathematics,,,,
-,,,Psychology,,,,
-,,,Biology,,,,
-,,,Geology,,,,
-,,,Electrical engineering,,,,
-,,,Philosophy,,,,
-,,,Art,,,,
-,,,Philosophy,,,,
-,,,Biology,,,,
-,,,Economics,,,,
-,,,Mathematics,,,,
-,,,Biology,,,,
-,,,Biology,,,,
-,,,Geology,,,,
-,,,Geology,,,,
-,,,Geology,,,,
-,,,Geology,,,,
-,,,Geology,,,,
-,,,Geology,,,,
-,,,Geology,,,,
-,,,Geology,,,,
-,,,Geology,,,,
-,,,Forensic engineering,,,,
-,,,Geology,,,,
-,,,Medicine,,,,
-,,,Civil engineering,,,,
-,,,Physics,,,,
-,,,Materials science,,,,
-,,,Materials science,,,,
-,,,Structural engineering,,,,
-,,,Medicine,,,,
-,,,Biology,,,,
-,,,Biology,,,,
-,,,Chemistry,,,,
-,,,Psychology,,,,
-,,,Psychology,,,,
-,,,Psychology,,,,
-,,,Psychology,,,,
-,,,Psychology,,,,
-,,,Psychology,,,,
-,,,Psychology,,,,
-,,,Economics,,,,
-,,,Systems engineering,,,,
-,,,Medicine,,,,
-,,,Mechanical engineering,,,,
-,,,Biology,,,,
-,,,Medicine,,,,
-,,,Aerospace engineering,,,,
-,,,Civil engineering,,,,
-,,,Geography,,,,
-,,,Environmental science,,,,
-,,,Philosophy,,,,
-,,,Materials science,,,,
-,,,Psychology,,,,
-,,,Psychology,,,,
-,,,Psychology,,,,
-,,,Psychology,,,,
-,,,Psychology,,,,
-,,,Psychology,,,,
-,,,Psychology,,,,
-,,,Psychology,,,,
-,,,Materials science,,,,
-,,,Psychology,,,,
-,,,Biology,,,,
-,,,Geology,,,,
-,,,Computer science,,,,
-,,,Electrical engineering,,,,
-,,,Political science,,,,
-,,,Mechanical engineering,,,,
-,,,Political science,,,,
-,,,Political science,,,,
-,,,Electrical engineering,,,,
-,,,Electrical engineering,,,,
-,,,Electrical engineering,,,,
-,,,Electrical engineering,,,,
-,,,Chemical engineering,,,,
-,,,Chemical engineering,,,,
-,,,Chemical engineering,,,,
-,,,Chemical engineering,,,,
-,,,Medicine,,,,
-,,,Medicine,,,,
-,,,Chemistry,,,,
-,,,Chemistry,,,,
-,,,Chemistry,,,,
-,,,Economics,,,,
-,,,Environmental science,,,,
-,,,Environmental science,,,,
-,,,Economics,,,,
-,,,Biology,,,,
-,,,Medicine,,,,
-,,,Materials science,,,,
-,,,Medicine,,,,
-,,,Medicine,,,,
-,,,Computer science,,,,
-,,,Computer science,,,,
-,,,Psychology,,,,
-,,,Philosophy,,,,
-,,,Chemistry,,,,
-,,,Economics,,,,
-,,,Biology,,,,
-,,,History,,,,
-,,,Materials science,,,,
-,,,Industrial engineering,,,,
-,,,Medicine,,,,
-,,,Control engineering,,,,
-,,,Medicine,,,,
-,,,Medicine,,,,
-,,,Computer engineering,,,,
-,,,Computer science,,,,
-,,,Computer science,,,,
-,,,Computer engineering,,,,
-,,,Computer engineering,,,,
-,,,Sociology,,,,
-,,,Sociology,,,,
-,,,Aerospace engineering,,,,
-,,,Mechanical engineering,,,,
-,,,Biology,,,,
-,,,Biology,,,,
-,,,Biology,,,,
-,,,Art,,,,
-,,,Art,,,,
-,,,Art,,,,
-,,,Art,,,,
-,,,Art,,,,
-,,,Philosophy,,,,
-,,,Philosophy,,,,
-,,,Computer science,,,,
-,,,Computer science,,,,
-,,,Geology,,,,
-,,,Chemical engineering,,,,
-,,,Electrical engineering,,,,
+589,Mehdi Varidi,Agriculture,Biology,"Department of Food Science Industry, Agriculture",http://scimet.um.ac.ir/Mehdi_Varidi,1,754
+698,Mohammad Ali Vatandoost,Theology and Islamic Sciences,Philosophy,"Department of Islamic Philosophy, Theology",http://scimet.um.ac.ir/MohamadAli_Vatandoost,1,755
+95,Mohammad Reza Hashemi,Faculty of Literature and Humanities,Art,"Department of English, Letters and Humanities",http://scimet.um.ac.ir/MohammadReza_Hashemi,1,757
+94,GHOLAMREZA HASHEMI TABAR,Veterinary medicine,Chemistry,"Department of Pathobiology, Veterinary medicine",http://scimet.um.ac.ir/GHOLAMREZA_HASHEMITABAR,0,0
+594,Ahad Harati,Engineering,Computer science,"Department of Computer Engineering, Engineering",http://scimet.um.ac.ir/Ahad_Harati,1,762
+571,Masuod Homayounifar,Administrative and economic sciences,Biology,"Department of Economics, Economics and Administrative sciences",http://scimet.um.ac.ir/Masuod_Homayounifar,0,0
+368,Faezeh Yazdani Moghaddam,Science,Geology,"Department of Biology, Sciences",http://scimet.um.ac.ir/Faezeh_YazdaniMoghaddam,1,765
+816,Elham Yasari,Engineering,Chemical engineering,"Department of Chemical Engineering, Engineering",http://scimet.um.ac.ir/Elham_Yasari,1,766
+129,Mohammad Hossein Yaghmaee Moghaddam,Engineering,Electrical engineering,"Department of Computer Engineering, Engineering",http://scimet.um.ac.ir/MohammadHossein_YaghmaeeMoghaddam,1,767

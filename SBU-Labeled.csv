@@ -1,479 +1,479 @@
-PersonId,Name,field,ScimetUrl,ScholarUrl,AssignedScholar,ClassType
-587,Ahmad Ali Abin,Mathematics,http://scimet.sbu.ac.ir/AhmadAli_Abin,https://scholar.google.com/citations?user=BrxRchIAAAAJ&hl=en,0,0
-117,Mohammad Hossein Adabi,Mathematics,http://scimet.sbu.ac.ir/MohammadHossein_Adabi,https://scholar.google.com/citations?user=l1LqctQAAAAJ&hl=en,0,0
-233,Hossein Azari,Electrical engineering,http://scimet.sbu.ac.ir/Hossein_Azari,https://scholar.google.com/citations?user=5ZIT5fQAAAAJ&hl=en,1,1
-680,Mohsen Azadbakht,Geology,http://scimet.sbu.ac.ir/Mohsen_Azadbakht,https://scholar.google.com/citations?user=3fvNKa4AAAAJ&hl=en,3,1
-145,Mohammad Reza Aghamohammadi,Computer science,http://scimet.sbu.ac.ir/MohammadReza_Aghamohammadi,https://scholar.google.com/citations?user=Wg6ldcIAAAAJ&hl=en,4,1
-664,Fateme Aghamir,Biology,http://scimet.sbu.ac.ir/Fateme_Aghamir,https://scholar.google.com/citations?user=HhoVj-oAAAAJ&hl=en,5,1
-626,Mahdy Ahangar,Mechanical engineering,http://scimet.sbu.ac.ir/Mahdy_Ahangar,https://scholar.google.com/citations?user=M3rZIGgAAAAJ&hl=en,6,1
-18,Homeira Ebrahimzadeh,Geology,http://scimet.sbu.ac.ir/Homeira_Ebrahimzadeh,https://scholar.google.com/citations?user=q9jKbvoAAAAJ&hl=en,0,0
-649,Vahide Ebrahimnia,Biology,http://scimet.sbu.ac.ir/Vahide_Ebrahimnia,https://scholar.google.com/citations?user=vvgPs58AAAAJ&hl=en,8,1
-273,Mohsen Ebrahimi Moghaddam,Computer science,http://scimet.sbu.ac.ir/Mohsen_EbrahimiMoghaddam,https://scholar.google.com/citations?user=trWxrgcAAAAJ&hl=en,9,1
-267,Behrooz Abtahi,Biology,http://scimet.sbu.ac.ir/Behrooz_Abtahi,https://scholar.google.com/citations?user=Y20_kyAAAAAJ&hl=en,10,1
-655,Mohammad Ali Ehteram,Biology,http://scimet.sbu.ac.ir/MohammadAli_Ehteram,https://scholar.google.com/citations?user=Rw3LlWkAAAAJ&hl=en,11,1
-449,Mohsen Ehteshami-Moinabadi,Electrical engineering,http://scimet.sbu.ac.ir/Mohsen_EhteshamiMoinabadi,https://scholar.google.com/citations?user=NKIJjdsAAAAJ&hl=en,12,1
-245,Faraham Ahmadzadeh,Electrical engineering,http://scimet.sbu.ac.ir/Faraham_Ahmadzadeh,https://scholar.google.com/citations?user=tm5u5AsAAAAJ&hl=en,13,1
-376,Abbas Ahmadvand,Electrical engineering,http://scimet.sbu.ac.ir/Abbas_Ahmadvand,https://scholar.google.com/citations?user=Piw8pRIAAAAJ&hl=en,14,1
-580,Sadra Ahmadi,Business,http://scimet.sbu.ac.ir/Sadra_Ahmadi,https://scholar.google.com/citations?user=x4p9AE0AAAAJ&hl=en,15,1
-368,Mahmoud Ahmadi,Biology,http://scimet.sbu.ac.ir/Mahmoud_Ahmadi,https://scholar.google.com/citations?user=LwzyMt0AAAAJ&hl=en,17,1
-487,Asadollah Ahmadikhah,Mathematics,http://scimet.sbu.ac.ir/Asadollah_Ahmadikhah,https://scholar.google.com/citations?user=u-b0EzYAAAAJ&hl=en,19,1
-319,Sajad Ahmadizad,Electrical engineering,http://scimet.sbu.ac.ir/Sajad_Ahmadizad,https://scholar.google.com/citations?user=PyUyDI4AAAAJ&hl=en,20,1
-357,Bijan Ahmadi Kakavandi,Mathematics,http://scimet.sbu.ac.ir/Bijan_AhmadiKakavandi,https://scholar.google.com/citations?user=g53P9vcAAAAJ&hl=en,0,0
-172,Zahra Ahmadian,Mechanical engineering,http://scimet.sbu.ac.ir/Zahra_Ahmadian,https://scholar.google.com/citations?user=W9jo6oIAAAAJ&hl=en,21,1
-418,Maryam Akhavan Kharazian,Mathematics,http://scimet.sbu.ac.ir/Maryam_AkhavanKharazian,https://scholar.google.com/citations?user=EAauZd4AAAAJ&hl=en,24,1
-636,Sareh Arjmand,Mechanical engineering,http://scimet.sbu.ac.ir/Sareh_Arjmand,https://scholar.google.com/citations?user=pxbqu0PxDI8C&hl=en,25,1
-296,Shahrooz Asadi,Mechanical engineering,http://scimet.sbu.ac.ir/Shahrooz_Asadi,https://scholar.google.com/citations?user=p06LLHYAAAAJ&hl=en,26,1
-200,Ziba Eslami,Mechanical engineering,http://scimet.sbu.ac.ir/Ziba_Eslami,https://scholar.google.com/citations?user=i1fEXFkAAAAJ&hl=en,27,1
-423,Hassan Esmaeilzadeh,Chemistry,http://scimet.sbu.ac.ir/Hassan_Esmaeilzadeh,https://scholar.google.com/citations?user=toFQ0_4AAAAJ&hl=en,28,1
-312,Reza Asvadi,Biology,http://scimet.sbu.ac.ir/Reza_Asvadi,https://scholar.google.com/citations?user=5ZwXPA4AAAAJ&hl=en,29,1
-307,Hadi Asharioun,Biology,http://scimet.sbu.ac.ir/Hadi_Asharioun,https://scholar.google.com/citations?user=TYn-o0gAAAAJ&hl=en,0,0
-140,Changiz Eslahchi,Medicine,http://scimet.sbu.ac.ir/Changiz_Eslahchi,https://scholar.google.com/citations?user=Dr4pU2MAAAAJ&hl=en,30,1
-396,Amir Reza Asnafi,Electrical engineering,http://scimet.sbu.ac.ir/AmirReza_Asnafi,https://scholar.google.com/citations?user=6J3viSAAAAAJ&hl=en,31,1
-387,Marzieh Athari Nikazm,Political science,http://scimet.sbu.ac.ir/Marzieh_AthariNikazm,https://scholar.google.com/citations?user=gNQRr_kAAAAJ&hl=en,32,1
-121,Seyed Ebrahim Afjei,Geography,http://scimet.sbu.ac.ir/SeyedEbrahim_Afjei,https://scholar.google.com/citations?user=678H5g8AAAAJ&hl=en,0,0
-126,Ali Akbar Afzalian,Geography,http://scimet.sbu.ac.ir/AliAkbar_Afzalian,https://scholar.google.com/citations?user=yE__YGcAAAAJ&hl=en,0,0
-605,Roham Afghani Khoraskani,Mathematics,http://scimet.sbu.ac.ir/Roham_AfghaniKhoraskani,https://scholar.google.com/citations?user=j2chfGQAAAAJ&hl=en,33,1
-464,Zeinab Shariatmadari,Mathematics,http://scimet.sbu.ac.ir/Zeinab_Shariatmadari,https://scholar.google.com/citations?user=7S5D4r4AAAAJ&hl=en,34,1
-467,Tayebeh Akbari-Azirani,Mechanical engineering,http://scimet.sbu.ac.ir/Tayebeh_AkbariAzirani,https://scholar.google.com/citations?user=e0vFiqoAAAAJ&hl=en,0,0
-568,Saeed Akbari-Zardkhaneh,Biology,http://scimet.sbu.ac.ir/Saeed_AkbariZardkhaneh,https://scholar.google.com/citations?user=OBiUtOYAAAAJ&hl=en,35,1
-646,Mohammad Emamzadeh,Biology,http://scimet.sbu.ac.ir/Mohammad_Emamzadeh,https://scholar.google.com/citations?user=cqq9Xd0AAAAJ&hl=en,36,1
-693,Jamal Amani Rad,Biology,http://scimet.sbu.ac.ir/Jamal_AmaniRad,https://scholar.google.com/citations?user=LA2VT8kAAAAJ&hl=en,37,1
-668,Meisam Omidi,Electrical engineering,http://scimet.sbu.ac.ir/Meisam_Omidi,https://scholar.google.com/citations?user=Omstr-gAAAAJ&hl=en,38,1
-395,Tayyebe Amirkhani,Biology,http://scimet.sbu.ac.ir/Tayyebe_Amirkhani,https://scholar.google.com/citations?user=L9sMbVsAAAAJ&hl=en,0,0
-847,Javad Aminian,Chemistry,http://scimet.sbu.ac.ir/Javad_Aminian,https://scholar.google.com/citations?user=ASYOu0IAAAAJ&hl=en,39,1
-366,Mohammad Ali Ansari,Mathematics,http://scimet.sbu.ac.ir/MohammadAli_Ansari,https://scholar.google.com/citations?user=bXkALgcAAAAJ&hl=en,42,1
-552,Saeed Imani,Electrical engineering,http://scimet.sbu.ac.ir/Saeed_Imani,https://scholar.google.com/citations?user=vBeQsR0AAAAJ&hl=en,44,1
-246,Ayoob Bazgir,Electrical engineering,http://scimet.sbu.ac.ir/Ayoob_Bazgir,https://scholar.google.com/citations?user=8h64GtwAAAAJ&hl=en,46,1
-759,A. B. Shemirani,Chemistry,http://scimet.sbu.ac.ir/AB_Shemirani,https://scholar.google.com/citations?user=-2_B-mEAAAAJ&hl=en,47,1
-633,Zeinab Bagheri,Electrical engineering,http://scimet.sbu.ac.ir/Zeinab_Bagheri,https://scholar.google.com/citations?user=baZT_ssAAAAJ&hl=en,48,1
-271,Fatemeh Bagherian,Electrical engineering,http://scimet.sbu.ac.ir/Fatemeh_Bagherian,https://scholar.google.com/citations?user=PgmXTkoAAAAJ&hl=en,50,1
-516,Fatemeh Bakouie,Electrical engineering,http://scimet.sbu.ac.ir/Fatemeh_Bakouie,https://scholar.google.com/citations?user=YE5N52MAAAAJ&hl=en,51,1
-272,Sasan Baleghizadeh,Electrical engineering,http://scimet.sbu.ac.ir/Sasan_Baleghizadeh,https://scholar.google.com/citations?user=JabwOWkAAAAJ&hl=en,0,0
-557,Saleheh Bokharaei,Electrical engineering,http://scimet.sbu.ac.ir/Saleheh_Bokharaei,https://scholar.google.com/citations?user=_0A944sAAAAJ&hl=en,53,1
-316,Vahid Badri,Electrical engineering,http://scimet.sbu.ac.ir/Vahid_Badri,https://scholar.google.com/citations?user=toDg_f8AAAAJ&hl=en,54,1
-804,Gagik Badalians Gholikandi,Electrical engineering,http://scimet.sbu.ac.ir/Gagik_BadaliansGholikandi,https://scholar.google.com/citations?user=fTGXY7kAAAAJ&hl=en,0,0
-599,Amir Hossein Barati,Electrical engineering,http://scimet.sbu.ac.ir/AmirHossein_Barati,https://scholar.google.com/citations?user=xPhAjH8AAAAJ&hl=en,0,0
-277,Rajabali Borzooei,Chemistry,http://scimet.sbu.ac.ir/Rajabali_Borzooei,https://scholar.google.com/citations?user=ft-caOoAAAAJ&hl=en,0,0
-141,Shahindokht Barghjelveh,Biology,http://scimet.sbu.ac.ir/Shahindokht_Barghjelveh,https://scholar.google.com/citations?user=roptMe8AAAAJ&hl=en,56,1
-460,Mohammad Reza Boroumand,Civil engineering,http://scimet.sbu.ac.ir/MohammadReza_Boroumand,https://scholar.google.com/citations?user=vy7G-7AAAAAJ&hl=en,57,1
-225,Danial Basanj,Computer science,http://scimet.sbu.ac.ir/Danial_Basanj,https://scholar.google.com/citations?user=KGP2-dgAAAAJ&hl=en,58,1
-190,Janet Blake,Computer science,http://scimet.sbu.ac.ir/Janet_Blake,https://scholar.google.com/citations?user=zQ5d0TgAAAAJ&hl=en,59,1
-645,Shahram Bahrami,Mechanical engineering,http://scimet.sbu.ac.ir/Shahram_Bahrami,https://scholar.google.com/citations?user=TuLpFIsAAAAJ&hl=en,61,1
-327,Ehsan Bahrami Samani,Chemistry,http://scimet.sbu.ac.ir/Ehsan_BahramiSamani,https://scholar.google.com/citations?user=ymWkdMYAAAAJ&hl=en,62,1
-485,Kaveh Bahrami,Chemistry,http://scimet.sbu.ac.ir/Kaveh_Bahrami,https://scholar.google.com/citations?user=9dU62Z4AAAAJ&hl=en,64,1
-53,Mehrdad Behzadi,Mechanical engineering,http://scimet.sbu.ac.ir/Mehrdad_Behzadi,https://scholar.google.com/citations?user=JOjT46IAAAAJ&hl=en,0,0
-837,Mokhtar Bidi,Mechanical engineering,http://scimet.sbu.ac.ir/Mokhtar_Bidi,https://scholar.google.com/citations?user=JieAeMwAAAAJ&hl=en,66,1
-300,Mohammad Reza Bigdeli,Mechanical engineering,http://scimet.sbu.ac.ir/MohammadReza_Bigdeli,https://scholar.google.com/citations?user=MH9SnisAAAAJ&hl=en,68,1
-755,Gholam Mohammad Parsanasab,Mechanical engineering,http://scimet.sbu.ac.ir/GholamMohammad_Parsanasab,https://scholar.google.com/citations?user=ta8Rx-cAAAAJ&hl=en,70,1
-100,Jamileh Pazooki,Mechanical engineering,http://scimet.sbu.ac.ir/Jamileh_Pazooki,https://scholar.google.com/citations?user=SmYsQjcAAAAJ&hl=en,71,1
-78,Shahrokh Pashaei-Rad,Mechanical engineering,http://scimet.sbu.ac.ir/Shahrokh_PashaeiRad,https://scholar.google.com/citations?user=NX7Co0QAAAAJ&hl=en,72,1
-304,Amir Teimour Payandeh Najafabadi,Mechanical engineering,http://scimet.sbu.ac.ir/AmirTeimour_PayandehNajafabadi,https://scholar.google.com/citations?user=Ghg08WgAAAAJ&hl=en,73,1
-682,Ali Partovinia,Electrical engineering,http://scimet.sbu.ac.ir/Ali_Partovinia,https://scholar.google.com/citations?user=4z6uTgcAAAAJ&hl=en,74,1
-289,Kourosh Parand,Economics,http://scimet.sbu.ac.ir/Kourosh_Parand,https://scholar.google.com/citations?user=44wzW2AAAAAJ&hl=en,75,1
-274,Leili Panaghi,Chemistry,http://scimet.sbu.ac.ir/Leili_Panaghi,https://scholar.google.com/citations?user=xbZyzeMAAAAJ&hl=en,76,1
-299,Taghi Pourebrahim,Chemistry,http://scimet.sbu.ac.ir/Taghi_Pourebrahim,https://scholar.google.com/citations?user=R8rPpIwAAAAJ&hl=en,77,1
-175,Hamidreza Pouretemad,Chemistry,http://scimet.sbu.ac.ir/Hamidreza_Pouretemad,https://scholar.google.com/citations?user=D9xz7u0AAAAJ&hl=en,78,1
-263,Mehdi Pourbarat,Mathematics,http://scimet.sbu.ac.ir/Mehdi_Pourbarat,https://scholar.google.com/citations?user=CBHOgoIAAAAJ&hl=en,0,0
-787,Mahdi Pourgholi,Electrical engineering,http://scimet.sbu.ac.ir/Mahdi_Pourgholi,https://scholar.google.com/citations?user=Hywi9YgAAAAJ&hl=en,79,1
-781,Abolfazl Pirayesh,Electrical engineering,http://scimet.sbu.ac.ir/Abolfazl_Pirayesh,https://scholar.google.com/citations?user=yRwVQZYAAAAJ&hl=en,80,1
-42,Mohammad Hassan Peyrovi,Electrical engineering,http://scimet.sbu.ac.ir/MohammadHassan_Peyrovi,https://scholar.google.com/citations?user=ZZSpaVUAAAAJ&hl=en,81,1
-785,Abbas P. Pirhadi,Electrical engineering,http://scimet.sbu.ac.ir/AbbasP_Pirhadi,https://scholar.google.com/citations?user=3piHd5MAAAAJ&hl=en,0,0
-708,Khosro Piri,Mathematics,http://scimet.sbu.ac.ir/Khosro_Piri,https://scholar.google.com/citations?hl=en&user=2E316UMAAAAJ&view_op,82,1
-456,Mohammad Tahsildoost,Civil engineering,http://scimet.sbu.ac.ir/Mohammad_Tahsildoost,https://scholar.google.com/citations?user=kuj2uv8AAAAJ&hl=en,83,1
-825,Mohammad Torabi,Biology,http://scimet.sbu.ac.ir/Mohammad_Torabi,https://scholar.google.com/citations?user=4pmq3ZwAAAAJ&hl=en,85,1
-829,Hossein Torkaman,Geography,http://scimet.sbu.ac.ir/Hossein_Torkaman,https://scholar.google.com/citations?user=6lCvwiQAAAAJ&hl=en,90,1
-831,Farah Torkamani Azar,Geology,http://scimet.sbu.ac.ir/Farah_TorkamaniAzar,https://scholar.google.com/citations?user=M16nthYAAAAJ&hl=en,91,1
-417,Mahboubeh Tasviri,Mechanical engineering,http://scimet.sbu.ac.ir/Mahboubeh_Tasviri,https://scholar.google.com/citations?user=L-qOjysAAAAJ&hl=en,92,1
-85,Seyed Hassan Taghvaei,Electrical engineering,http://scimet.sbu.ac.ir/Seyedhassan_Taghvaei,https://scholar.google.com/citations?user=vt9Ph4kAAAAJ&hl=en,93,1
-815,Mostafa Taghizadeh,Computer science,http://scimet.sbu.ac.ir/Mostafa_Taghizadeh,https://scholar.google.com/citations?user=7KK3WjQAAAAJ&hl=en,0,0
-628,Mahmood Talkhabi,Computer science,http://scimet.sbu.ac.ir/Mahmood_Talkhabi,https://scholar.google.com/citations?user=mUs3ySIAAAAJ&hl=en&oi=ao,0,0
-567,Masoud Tohidfar,Computer science,http://scimet.sbu.ac.ir/Masoud_Tohidfar,https://scholar.google.com/citations?user=utEjprYAAAAJ&hl=en,96,1
-215,Seyed Hassan Tavassoli,Computer science,http://scimet.sbu.ac.ir/SeyedHassan_Tavassoli,https://scholar.google.com/citations?user=sy-GLVkAAAAJ&hl=en,97,1
-45,Jamileh Tavakoli Nia,Computer science,http://scimet.sbu.ac.ir/Jamileh_Tavakolinia,https://scholar.google.com/citations?user=X2aE_T4AAAAJ&hl=en,0,0
-828,Mostafa Tizghadam,Mechanical engineering,http://scimet.sbu.ac.ir/Mostafa_Tizghadam,https://scholar.google.com/citations?user=I7T8zA0AAAAJ&hl=en,98,1
-820,Somayeh Timarchi,Mathematics,http://scimet.sbu.ac.ir/Somayeh_Timarchi,https://scholar.google.com/citations?user=B33hpiUAAAAJ&hl=en,99,1
-28,Ghassem Jaberipur,Geography,http://scimet.sbu.ac.ir/Ghassem_Jaberipur,https://scholar.google.com/citations?user=q9EkcAQAAAAJ&hl=en,100,1
-836,Hamid Jannesari,Mathematics,http://scimet.sbu.ac.ir/Hamid_Jannesari,https://scholar.google.com/citations?user=eliVchgAAAAJ&hl=en,101,1
-842,Fatemeh Joda,Mathematics,http://scimet.sbu.ac.ir/Fatemeh_Joda,https://scholar.google.com/citations?user=ZuT7T3cAAAAJ&hl=en,102,1
-23,Khosrow Jadidi,Mathematics,http://scimet.sbu.ac.ir/Khosrow_Jadidi,https://scholar.google.com/citations?user=rz7vxj0AAAAJ&hl=en,103,1
-230,Gholamreza Jafari,Mathematics,http://scimet.sbu.ac.ir/Gholamreza_Jafari,https://scholar.google.com/citations?user=GrbUYKMAAAAJ&hl=en,0,0
-720,Afshar Jafari,Computer science,http://scimet.sbu.ac.ir/Afshar_Jafari,https://scholar.google.com/citations?user=2Vi5IxIAAAAJ&hl=en,105,1
-687,Seyed Mohammad Jafari,Electrical engineering,http://scimet.sbu.ac.ir/SeyedMohammad_Jafari,https://scholar.google.com/citations?user=cvUR9tIAAAAJ&hl=en,107,1
-488,Seyed Rahman Djafari Petroudy,Medicine,http://scimet.sbu.ac.ir/SeyedRahman_DjafariPetroudy,https://scholar.google.com/citations?user=jVIUh-kAAAAJ&hl=en,0,0
-531,Kian Jafari,Mathematics,http://scimet.sbu.ac.ir/Kian_Jafari,https://scholar.google.com/citations?user=pm9Oh8sAAAAJ&hl=en,114,1
-545,Ali Akbar Jalali,Mechanical engineering,http://scimet.sbu.ac.ir/AliAkbar_Jalali,https://scholar.google.com/citations?user=mIo31DsAAAAJ&hl=en,0,0
-375,Hossein T. Jalali,Economics,http://scimet.sbu.ac.ir/HosseinT_Jalali,https://scholar.google.com/citations?user=_6suG4EAAAAJ&hl=en,0,0
-821,Mohammadreza Jalili Ghazizadeh,Chemistry,http://scimet.sbu.ac.ir/Mohammadreza_JaliliGhazizadeh,https://scholar.google.com/citations?user=AV8UGhl_Y74C&hl=en,0,0
-495,Mahdi Jalili Ghazizade,Chemistry,http://scimet.sbu.ac.ir/Mahdi_JaliliGhazizade,https://scholar.google.com/citations?user=yTeRqNYAAAAJ&hl=en,115,1
-407,Fazel Jahangiri,Economics,http://scimet.sbu.ac.ir/Fazel_Jahangiri,https://scholar.google.com/citations?user=2s2hLTUAAAAJ&hl=en,116,1
-620,A. Jahangiri,Economics,http://scimet.sbu.ac.ir/A_Jahangiri,https://scholar.google.com/citations?user=1CPrnDcAAAAJ&hl=en,0,0
-535,Fatemeh Jahangiri,Materials science,http://scimet.sbu.ac.ir/Fatemeh_Jahangiri,https://scholar.google.com/citations?user=I578Gh0AAAAJ&hl=en,139,1
-331,Ali Jahanian,Chemistry,http://scimet.sbu.ac.ir/Ali_Jahanian,https://scholar.google.com/citations?user=EA0uE3kAAAAJ&hl=en,0,0
-662,Mona Cheraghi,Economics,http://scimet.sbu.ac.ir/Mona_Cheraghi,https://scholar.google.com/citations?user=UUIeXSkAAAAJ&hl=en,144,1
-180,Hossein Hajiabolhassan,Biology,http://scimet.sbu.ac.ir/Hossein_Hajiabolhassan,https://scholar.google.com/citations?user=-EQNXpMAAAAJ&hl=en,145,1
-430,Bahman Hajipour,Chemistry,http://scimet.sbu.ac.ir/Bahman_Hajipour,https://scholar.google.com/citations?user=V1--b4kAAAAJ&hl=en,146,1
-510,Mohsen Haji Zeinolabedini,Computer science,http://scimet.sbu.ac.ir/Mohsen_HajiZeinolabedini,https://scholar.google.com/citations?user=wfIkj5AAAAAJ&hl=en,147,1
-586,Sepideh Hamedi,Chemistry,http://scimet.sbu.ac.ir/Sepideh_Hamedi,https://scholar.google.com/citations?user=p3rQ2aIAAAAJ&hl=en,148,1
-15,Zohreh Habibi,Civil engineering,http://scimet.sbu.ac.ir/Zohreh_Habibi,https://scholar.google.com/citations?user=_1P7Mo8AAAAJ&hl=en,149,1
-386,Masoud Hajarian,Chemistry,http://scimet.sbu.ac.ir/Masoud_Hajarian,https://scholar.google.com/citations?user=F2hPjosAAAAJ&hl=en,152,1
-468,Alireza Hassanzadeh,Chemistry,http://scimet.sbu.ac.ir/Alireza_Hassanzadeh,https://scholar.google.com/citations?user=q8ayQW0AAAAJ&hl=en,154,1
-354,Amin Hassan Zadeh,Chemistry,http://scimet.sbu.ac.ir/Amin_HassanZadeh,https://scholar.google.com/citations?user=IRQZGW0AAAAJ&hl=en,157,1
-744,Hamidollah Hassanlouei,Biology,http://scimet.sbu.ac.ir/Hamidollah_Hassanlouei,https://scholar.google.com/citations?user=3OSU1NcAAAAJ&hl=en,158,1
-805,Nemat Hassani,Biology,http://scimet.sbu.ac.ir/Nemat_Hassani,https://scholar.google.com/citations?user=Z110-8IAAAAJ&hl=en,159,1
-653,Seyedeh Batool Hassani,Electrical engineering,http://scimet.sbu.ac.ir/SeyedehBatool_Hassani,https://scholar.google.com/citations?user=YJTSxzwAAAAJ&hl=en,160,1
-284,Mohammad Mahdi Hosseinzadeh,Mechanical engineering,http://scimet.sbu.ac.ir/MohammadMahdi_Hosseinzadeh,https://scholar.google.com/citations?user=b-0ZkygAAAAJ&hl=en,161,1
-465,Ali Hosseiny,Mechanical engineering,http://scimet.sbu.ac.ir/Ali_Hosseiny,https://scholar.google.com/citations?user=Zb-8angAAAAJ&hl=en,162,1
-213,Mahboubeh Hosseini-Barzi,Mechanical engineering,http://scimet.sbu.ac.ir/Mahboubeh_HosseiniBarzi,https://scholar.google.com/citations?user=kF68J2IAAAAJ&hl=en,163,1
-654,Asal Hosseini Monazzah,Biology,http://scimet.sbu.ac.ir/Asal_HosseiniMonazzah,https://scholar.google.com/citations?user=rAc0iAkAAAAJ&hl=en,164,1
-429,Farhad Haghjoo,Mathematics,http://scimet.sbu.ac.ir/Farhad_Haghjoo,https://scholar.google.com/citations?user=L_xB23sAAAAJ&hl=en,165,1
-738,Mohamad Reza Haghjoo,Chemistry,http://scimet.sbu.ac.ir/MohamadReza_Haghjoo,https://scholar.google.com/citations?user=mFBwbJMAAAAJ&hl=en,0,0
-337,Hassan Haghighi,Electrical engineering,http://scimet.sbu.ac.ir/Hassan_Haghighi,https://scholar.google.com/citations?user=rVA_FtIAAAAJ&hl=en,166,1
-818,Ramin Haghighi-Khoshkhoo,Civil engineering,http://scimet.sbu.ac.ir/Ramin_HaghighiKhoshkhoo,https://scholar.google.com/citations?user=w6HEq-4AAAAJ&hl=en,171,1
-505,Elham Hakimirad,Electrical engineering,http://scimet.sbu.ac.ir/Elham_Hakimirad,https://scholar.google.com/citations?user=qlN53voAAAAJ&hl=en,172,1
-559,Pantea Hakimian,Chemistry,http://scimet.sbu.ac.ir/Pantea_Hakimian,https://scholar.google.com/citations?user=6Kwb6rYAAAAJ&hl=en,173,1
-59,Mohammadreza Hamidizadeh,Chemistry,http://scimet.sbu.ac.ir/Mohammadreza_Hamidizadeh,https://scholar.google.com/citations?user=ZPEWOWgAAAAJ&hl=en,0,0
-364,Seyedeh Mehri Hamidi,Chemistry,http://scimet.sbu.ac.ir/SeyedehMehri_Hamidi,https://scholar.google.com/citations?user=g9rke6YAAAAJ&hl=en,174,1
-82,Mahmood Heidari,Electrical engineering,http://scimet.sbu.ac.ir/Mahmood_Heidari,https://scholar.google.com/citations?user=hAvACcwAAAAJ&hl=en,175,1
-752,Saghar Heidari,Mechanical engineering,http://scimet.sbu.ac.ir/Saghar_Heidari,https://scholar.google.com/citations?user=IZry-j8AAAAJ&hl=en,177,1
-579,Somaiyeh Khaleghi,Biology,http://scimet.sbu.ac.ir/Somaiyeh_Khaleghi,https://scholar.google.com/citations?user=gdb-y7MAAAAJ&hl=en,178,1
-647,Mohammad Reza Khani,Biology,http://scimet.sbu.ac.ir/MohammadReza_Khani,https://scholar.google.com/citations?user=TMquu0wAAAAJ&hl=en,0,0
-444,Mohammad Khodabakhshi,Biology,http://scimet.sbu.ac.ir/Mohammad_Khodabakhshi,https://scholar.google.com/citations?user=9WBiN1IAAAAJ&hl=en,182,1
-341,Abasalt Khorasani,Biology,http://scimet.sbu.ac.ir/Abasalt_Khorasani,https://scholar.google.com/citations?user=WrkGWdAAAAAJ&hl=en,186,1
-740,Saeed Reza Kheradpisheh,Biology,http://scimet.sbu.ac.ir/SaeedReza_Kheradpisheh,https://scholar.google.com/citations?user=ZisNRVMAAAAJ&hl=en,187,1
-597,Morteza Kheradmandi,Computer science,http://scimet.sbu.ac.ir/Morteza_Kheradmandi,https://scholar.google.com/citations?user=Z0m4JHIAAAAJ&hl=en,188,1
-845,I. Khazaee,Computer science,http://scimet.sbu.ac.ir/I_Khazaee,https://scholar.google.com/citations?user=3UEun9gAAAAJ&hl=en,0,0
-199,Homayoun Khazali,Mechanical engineering,http://scimet.sbu.ac.ir/Homayoun_Khazali,https://scholar.google.com/citations?user=dLrIUhQAAAAJ&hl=en,189,1
-566,Reza Khosrowabadi,Biology,http://scimet.sbu.ac.ir/Reza_Khosrowabadi,https://scholar.google.com/citations?user=-FiQKqQAAAAJ&hl=en,190,1
-362,Nima Khosravi,Biology,http://scimet.sbu.ac.ir/Nima_Khosravi,https://scholar.google.com/citations?user=vbx39IEAAAAJ&hl=en,191,1
-20,Farhad Khellat,Mechanical engineering,http://scimet.sbu.ac.ir/Farhad_Khellat,https://scholar.google.com/citations?user=SBrC5FsAAAAJ&hl=en,192,1
-241,Hamid Reza Khavasi,Chemistry,http://scimet.sbu.ac.ir/HamidReza_Khavasi,https://scholar.google.com/citations?user=1YWs2QYAAAAJ&hl=en,0,0
-154,Korous Khoshbakht,Computer science,http://scimet.sbu.ac.ir/Korous_Khoshbakht,https://scholar.google.com/citations?user=cYPCtxUAAAAJ&hl=en,193,1
-766,Zahra Daneshjoo,Mathematics,http://scimet.sbu.ac.ir/NA_NA6,https://scholar.google.com/citations?user=HiQeCPQAAAAJ&hl=enJ&hl=en,194,1
-2,Parviz Davoodi,Biology,http://scimet.sbu.ac.ir/Parviz_Davoodi,https://scholar.google.com/citations?user=aYURIh0AAAAJ&hl=en,195,1
-309,Negar Davari Ardakani,Economics,http://scimet.sbu.ac.ir/NegarDavari_Ardakani,https://scholar.google.com/citations?user=glRSA9cAAAAJ&hl=en,0,0
-16,Minoo Dabiri,Mathematics,http://scimet.sbu.ac.ir/Minoo_Dabiri,https://scholar.google.com/citations?user=-eTIrGIAAAAJ&hl=en,199,1
-54,Hassan Dargahi,Chemistry,http://scimet.sbu.ac.ir/Hassan_Dargahi,https://scholar.google.com/citations?user=eSapCSYAAAAJ&hl=en,201,1
-14,Behrouz Dorri,Chemistry,http://scimet.sbu.ac.ir/Behrouz_Dorri,https://scholar.google.com/citations?user=lAgmB98AAAAJ&hl=en,202,1
-347,Masoomeh Dashtdar,Geography,http://scimet.sbu.ac.ir/Masoomeh_Dashtdar,https://scholar.google.com/citations?user=BwTGLU4AAAAJ&hl=en,203,1
-593,Ali Dalafi,Sociology,http://scimet.sbu.ac.ir/Ali_Dalafi,https://scholar.google.com/citations?user=EJH3gakAAAAJ&hl=en,204,1
-719,Ehsan Dehyadegari,Biology,http://scimet.sbu.ac.ir/Ehsan_Dehyadegari,https://scholar.google.com/citations?user=eElIo8AAAAAJ&hl=en,205,1
-232,Mohsen Dehghani,Biology,http://scimet.sbu.ac.ir/Mohsen_Dehghani,https://scholar.google.com/citations?user=SuOvmQUAAAAJ&hl=en,208,1
-259,Reza Deihimfard,Computer science,http://scimet.sbu.ac.ir/Reza_Deihimfard,https://scholar.google.com/citations?user=RdbKWJgAAAAJ&hl=en,216,1
-248,Ahmad Reza Rastkar,Computer science,http://scimet.sbu.ac.ir/AhmadReza_Rastkar,https://scholar.google.com/citations?user=PQwansYAAAAJ&hl=en,217,1
-313,Farhad Raofie,Civil engineering,http://scimet.sbu.ac.ir/Farhad_Raofie,https://scholar.google.com/citations?user=GMGg7RkAAAAJ&hl=en,218,1
-455,Masood Rabieh,Chemistry,http://scimet.sbu.ac.ir/Masood_Rabieh,https://scholar.google.com/citations?user=RPdjU_RV6GoC&hl=en,219,1
-336,Hassan Rajabi-Maham,Biology,http://scimet.sbu.ac.ir/Hassan_RajabiMaham,https://scholar.google.com/citations?user=-12okloAAAAJ&hl=en,220,1
-632,Moones Rahmandoust,Electrical engineering,http://scimet.sbu.ac.ir/Moones_Rahmandoust,https://scholar.google.com/citations?user=A1tTBHMAAAAJ&hl=en,221,1
-798,Kh Rahmani,Civil engineering,http://scimet.sbu.ac.ir/Kh_Rahmani,https://scholar.google.com/citations?user=N_O3qMQAAAAJ&hl=en,0,0
-463,Ali Rahmatpour,Civil engineering,http://scimet.sbu.ac.ir/Ali_Rahmatpour,https://scholar.google.com/citations?user=SywFmMcAAAAJ&hl=en,222,1
-758,Dara Rahmati,Civil engineering,http://scimet.sbu.ac.ir/Dara_Rahmati,https://scholar.google.com/citations?user=xwJgOl0AAAAJ&hl=en,223,1
-702,Amin Rasam,Civil engineering,http://scimet.sbu.ac.ir/Amin_Rasam,https://scholar.google.com/citations?user=F5E5BYIAAAAJ&hl=en,224,1
-378,Esmaeil Rasooly Garmaroody,Civil engineering,http://scimet.sbu.ac.ir/Esmaeil_RasoolyGarmaroody,https://scholar.google.com/citations?user=rk0eNNYAAAAJ&hl=en,225,1
-536,Yousef Rashidi,Civil engineering,http://scimet.sbu.ac.ir/Yousef_Rashidi,https://scholar.google.com/citations?user=2-c5NncAAAAJ&hl=en,226,1
-810,Abdollah Rashidi Mehrabadi,Civil engineering,http://scimet.sbu.ac.ir/Abdollah_RashidiMehrabadi,https://scholar.google.com/citations?user=hMdCWNg-it8C&hl=en,227,1
-438,Hassan Rezadoost,Civil engineering,http://scimet.sbu.ac.ir/Hassan_Rezadoost,https://scholar.google.com/citations?user=K2wkKtwAAAAJ&hl=en,228,1
-558,Morteza RezaeiZadeh,Chemistry,http://scimet.sbu.ac.ir/Morteza_RezaeiZadeh,https://scholar.google.com/citations?user=eWBk4ssAAAAJ&hl=en,0,0
-790,Alireza Reza Rezazade,Chemistry,http://scimet.sbu.ac.ir/AlirezaReza_Rezazade,https://scholar.google.com/citations?user=zZHU7sMAAAAJ&hl=en,0,0
-673,Abbas Rezaee Shirin-Abadi,Chemistry,http://scimet.sbu.ac.ir/Abbas_RezaeeShirinAbadi,https://scholar.google.com/citations?user=uOCggSsAAAAJ&hl=en,230,1
-317,Niloofar Razavi,Electrical engineering,http://scimet.sbu.ac.ir/Niloofar_Razavi,https://scholar.google.com/citations?user=gYuVQIsAAAAJ&hl=en,232,1
-308,Seyed Omid Ranaei-Siadat,Electrical engineering,http://scimet.sbu.ac.ir/SeyedOmid_RanaeiSiadat,https://scholar.google.com/citations?user=1wBvTiIAAAAJ&hl=en,233,1
-206,Hasan Rafati,Computer science,http://scimet.sbu.ac.ir/Hasan_Rafati,https://scholar.google.com/citations?user=DPAVipwAAAAJ&hl=en,234,1
-788,Mansour Rafiee,Civil engineering,http://scimet.sbu.ac.ir/Mansour_Rafiee,https://scholar.google.com/citations?user=_St2988AAAAJ&hl=en,236,1
-332,Omid Ramezani,Civil engineering,http://scimet.sbu.ac.ir/Omid_Ramezani,https://scholar.google.com/citations?user=rDjurHoAAAAJ&hl=en,237,1
-843,Abbas Rohani Bastami,Civil engineering,http://scimet.sbu.ac.ir/Abbas_RohaniBastami,https://scholar.google.com/citations?user=YtyojdAAAAAJ&hl=en,238,1
-476,Hamidreza Rudi,Economics,http://scimet.sbu.ac.ir/Hamidreza_Rudi,https://scholar.google.com/citations?user=j3zkbssAAAAJ&hl=en,239,1
-839,Abbas Rahi,Civil engineering,http://scimet.sbu.ac.ir/Abbas_Rahi,https://scholar.google.com/citations?user=5JzTZZ4AAAAJ&hl=en,240,1
-88,Hossein Riahi,Economics,http://scimet.sbu.ac.ir/Hossein_Riahi,https://scholar.google.com/citations?user=RULNxhEAAAAJ&hl=en,242,1
-420,Nematollah Riazi,Mathematics,http://scimet.sbu.ac.ir/Nematollah_Riazi,https://scholar.google.com/citations?user=XFhAeswAAAAJ&hl=en,244,1
-314,Firoozeh Rivaz,Computer science,http://scimet.sbu.ac.ir/Firoozeh_Rivaz,https://scholar.google.com/citations?user=gR9rwgQAAAAJ&hl=en,245,1
-197,Ali ZadehMohammadi,Economics,http://scimet.sbu.ac.ir/Ali_ZadehMohammadi,https://scholar.google.com/citations?user=qZAatY8AAAAJ&hl=en,0,0
-648,Mojtaba Zarei,Computer science,http://scimet.sbu.ac.ir/Mojtaba_Zarei,https://scholar.google.com/citations?user=Z7MpoWAAAAAJ&hl=en,246,1
-453,Mostafa Zarei,Mathematics,http://scimet.sbu.ac.ir/Mostafa_Zarei,https://scholar.google.com/citations?user=CoS7UakAAAAJ&hl=en,250,1
-64,Mansour Zahedi,Chemistry,http://scimet.sbu.ac.ir/Mansour_Zahedi,https://scholar.google.com/citations?user=F1AHi_IAAAAJ&hl=en,251,1
-439,Fariba Zarani,Chemistry,http://scimet.sbu.ac.ir/Fariba_Zarani,https://scholar.google.com/citations?user=Q91ZGQwAAAAJ&hl=en,252,1
-554,Mostafa Zamanian,Electrical engineering,http://scimet.sbu.ac.ir/Mostafa_Zamanian,https://scholar.google.com/citations?user=gYp4EPYAAAAJ&hl=en,0,0
-714,Zahra Sadat Zomorodian,Electrical engineering,http://scimet.sbu.ac.ir/ZahraSadat_Zomorodian,https://scholar.google.com/citations?user=n4hTOuQAAAAJ&hl=en,0,0
-324,Majid Zandi,Electrical engineering,http://scimet.sbu.ac.ir/Majid_Zandi,https://scholar.google.com/citations?user=oe7hbmMAAAAJ&hl=en,255,1
-276,Mostafa Zandieh,Electrical engineering,http://scimet.sbu.ac.ir/Mostafa_Zandieh,https://scholar.google.com/citations?user=B7sh5ecAAAAJ&hl=en,256,1
-410,Mohammad Ismail Zibaii,Electrical engineering,http://scimet.sbu.ac.ir/MohammadIsmail_Zibaii,https://scholar.google.com/citations?user=HHmGVrkAAAAJ&hl=en,257,1
-31,Siamak S. Gousheh,Civil engineering,http://scimet.sbu.ac.ir/SiamakS_Gousheh,https://scholar.google.com/citations?user=rAghMMYAAAAJ&hl=en,258,1
-615,Amir Saedi-Daryan,Mechanical engineering,http://scimet.sbu.ac.ir/Amir_SaediDaryan,https://scholar.google.com/citations?user=pyld0x0AAAAJ&hl=en,259,1
-809,Ahmad Salemnia,Mechanical engineering,http://scimet.sbu.ac.ir/Ahmad_Salemnia,https://scholar.google.com/citations?user=h5G0CjUAAAAJ&hl=en,260,1
-283,Amir Salemi,Mechanical engineering,http://scimet.sbu.ac.ir/Amir_Salemi,https://scholar.google.com/citations?user=hSlsjy4AAAAJ&hl=en,261,1
-812,Mohammad Sadegh Sepasian,Mechanical engineering,http://scimet.sbu.ac.ir/MohammadSadegh_Sepasian,https://scholar.google.com/citations?user=olqnjFkAAAAJ&hl=en,264,1
-60,Hamid Reza Sepangi,Mechanical engineering,http://scimet.sbu.ac.ir/HamidReza_Sepangi,https://scholar.google.com/citations?user=Q6RZJM0AAAAJ&hl=en,265,1
-656,Roohollah Sarfaraz,Mechanical engineering,http://scimet.sbu.ac.ir/Roohollah_Sarfaraz,https://scholar.google.com/citations?user=dnEAGj0AAAAJ&hl=en,266,1
-270,Abbas Saidi,Electrical engineering,http://scimet.sbu.ac.ir/Abbas_Saidi,https://scholar.google.com/citations?user=dE4uVGUAAAAJ&hl=en,267,1
-563,Yahya Sefidbakht,Electrical engineering,http://scimet.sbu.ac.ir/Yahya_Sefidbakht,https://scholar.google.com/citations?user=_txoZKkAAAAJ&hl=en,268,1
-572,Neda Soleimani,Civil engineering,http://scimet.sbu.ac.ir/Neda_Soleimani,https://scholar.google.com/citations?user=Gry5G7gAAAAJ&hl=en,269,1
-576,Hadi Soleimany,Civil engineering,http://scimet.sbu.ac.ir/Hadi_Soleimany,https://scholar.google.com/citations?user=AfBHVmcAAAAJ&hl=en,273,1
-762,Armin Salimi-Badr,Civil engineering,http://scimet.sbu.ac.ir/Armin_SalimiBadr,https://scholar.google.com/citations?user=akmKmMQAAAAJ&hl=en,274,1
-540,Negar Sammaknejad,Civil engineering,http://scimet.sbu.ac.ir/Negar_Sammaknejad,https://scholar.google.com/citations?user=kRtFl5UAAAAJ&hl=en,275,1
-841,Mahmood Sameezadeh,Civil engineering,http://scimet.sbu.ac.ir/Mahmood_Sameezadeh,https://scholar.google.com/citations?user=Ww6BY4gAAAAJ&hl=en,276,1
-170,Ali Sonboli,Civil engineering,http://scimet.sbu.ac.ir/Ali_Sonboli,https://scholar.google.com/citations?user=5_jA9yUAAAAJ&hl=en,277,1
-562,Mohammad Hossein Soorgee,Civil engineering,http://scimet.sbu.ac.ir/MohammadHossein_Soorgee,https://scholar.google.com/citations?user=yy2KMB8AAAAJ&hl=en,279,1
-89,Saied Saeed Hosseiny Davarani,Civil engineering,http://scimet.sbu.ac.ir/SaiedSaeed_HosseinyDavarani,https://scholar.google.com/citations?user=YS2GBkUAAAAJ&hl=en,280,1
-474,Parisa Sadat Seyed Mousavi,Civil engineering,http://scimet.sbu.ac.ir/ParisaSadatSeyed_Mousavi,https://scholar.google.com/citations?user=f9bQ7CwAAAAJ&hl=en,281,1
-527,Hossein Simayi Sarraf,Civil engineering,http://scimet.sbu.ac.ir/HosseinSimayi_Sarraf,https://scholar.google.com/citations?user=6GH4hHcAAAAJ&hl=en,0,0
-667,Alireza Shameli-Sendi,Civil engineering,http://scimet.sbu.ac.ir/Alireza_ShameliSendi,https://scholar.google.com/citations?user=4LpwekoAAAAJ&hl=en,282,1
-422,M. S. Shahrokhi-Dehkordi,Civil engineering,http://scimet.sbu.ac.ir/MS_ShahrokhiDehkordi,https://scholar.google.com/citations?user=h7K1YdIAAAAJ&hl=en,283,1
-613,Hosein Shahsavarani,Civil engineering,http://scimet.sbu.ac.ir/Hosein_Shahsavarani,https://scholar.google.com/citations?user=L1M3xbcAAAAJ&hl=en,284,1
-282,Hossein Shojaie,Civil engineering,http://scimet.sbu.ac.ir/Hossein_Shojaie,https://scholar.google.com/citations?user=om3mMtYAAAAJ&hl=en,285,1
-608,Mohsen Shariatinia,Economics,http://scimet.sbu.ac.ir/Mohsen_Shariatinia,https://scholar.google.com/citations?user=7wHRC3wAAAAJ&hl=en,286,1
-48,Mohammad Hossein Sharifzadegan,Economics,http://scimet.sbu.ac.ir/MohammadHossein_Sharifzadegan,https://scholar.google.com/citations?user=ztIZcY0AAAAJ&hl=en,287,1
-32,Masood Sharifi,Economics,http://scimet.sbu.ac.ir/Masood_Sharifi,https://scholar.google.com/citations?user=Lj1XgrQAAAAJ&hl=en,0,0
-661,Shirin Shoaee,Economics,http://scimet.sbu.ac.ir/Shirin_Shoaee,https://scholar.google.com/citations?user=hSe_uz4AAAAJ&hl=en,288,1
-76,Ahmad Shaabani,Economics,http://scimet.sbu.ac.ir/Ahmad_Shaabani,https://scholar.google.com/citations?user=rcpRgmcAAAAJ&hl=en,289,1
-660,Javad Shabani Shayeh,Economics,http://scimet.sbu.ac.ir/Javad_ShabaniShayeh,https://scholar.google.com/citations?user=Z7jAeVUAAAAJ&hl=en,290,1
-405,Naser Shafiei Sabet,Economics,http://scimet.sbu.ac.ir/Naser_ShafieiSabet,https://scholar.google.com/citations?user=wkgB0sIAAAAJ&hl=en,291,1
-388,Ahmad Shekarchi,Economics,http://scimet.sbu.ac.ir/Ahmad_Shekarchi,https://scholar.google.com/citations?user=7GHzPAEAAAAJ&hl=en,293,1
-115,Babak Shokri,Economics,http://scimet.sbu.ac.ir/Babak_Shokri,https://scholar.google.com/citations?user=nReZzkgAAAAJ&hl=en,294,1
-325,Mohammad Reza Shokri,Economics,http://scimet.sbu.ac.ir/MohammadReza_Shokri,https://scholar.google.com/citations?user=eDHRrNoAAAAJ&hl=en,295,1
-609,Yasser Shekofteh,Economics,http://scimet.sbu.ac.ir/Yasser_Shekofteh,https://scholar.google.com/citations?user=9iMasqcAAAAJ&hl=en,297,1
-503,Sajjad Shokouhyar,Economics,http://scimet.sbu.ac.ir/Sajjad_Shokouhyar,https://scholar.google.com/citations?user=HcBRd18AAAAJ&hl=en,298,1
-323,Gholamreza Shams,Economics,http://scimet.sbu.ac.ir/Gholamreza_Shams,https://scholar.google.com/citations?user=qii5bzMAAAAJ&hl=en,299,1
-260,Fereidoon Shams Aliee,Biology,http://scimet.sbu.ac.ir/Fereidoon_ShamsAliee,https://scholar.google.com/citations?user=WacQk64AAAAJ&hl=en,301,1
-212,Mehrnoush Shamsfard,Biology,http://scimet.sbu.ac.ir/Mehrnoush_Shamsfard,https://scholar.google.com/citations?user=BVAsKDsAAAAJ&hl=en,302,1
-832,Mojtaba Shourian,Biology,http://scimet.sbu.ac.ir/Mojtaba_Shourian,https://scholar.google.com/citations?user=gnNGeRgAAAAJ&hl=en,303,1
-403,Afsaneh Shahbazi,Computer science,http://scimet.sbu.ac.ir/Afsaneh_Shahbazi,https://scholar.google.com/citations?user=CnTMQQ4AAAAJ&hl=en,304,1
-279,Shant Shahbazian,Economics,http://scimet.sbu.ac.ir/Shant_Shahbazian,https://scholar.google.com/citations?user=R88Zz30AAAAJ&hl=en,305,1
-62,Shahriar Shahidi,Economics,http://scimet.sbu.ac.ir/Shahriar_Shahidi,https://scholar.google.com/citations?user=p6_8xTEAAAAJ&hl=en,306,1
-8,Masoud Sheidai,Economics,http://scimet.sbu.ac.ir/Masoud_Sheidai,https://scholar.google.com/citations?user=oUaqB84AAAAJ&hl=en,0,0
-840,Mahmoud Reza Shiravand,Biology,http://scimet.sbu.ac.ir/MahmoudReza_Shiravand,https://scholar.google.com/citations?user=a0y0ul4AAAAJ&hl=en,0,0
-659,Zeinab Shirvani Farsani,Biology,http://scimet.sbu.ac.ir/Zeinab_ShirvaniFarsani,https://scholar.google.com/citations?user=hMaezfUAAAAJ&hl=en,308,1
-791,Arash Sadeghzadeh,Biology,http://scimet.sbu.ac.ir/Arash_Sadeghzadeh,https://scholar.google.com/citations?user=R0fIejYAAAAJ&hl=en,309,1
-541,Ali Sadeghi,Biology,http://scimet.sbu.ac.ir/Ali_Sadeghi,https://scholar.google.com/citations?user=nHrTjV4AAAAJ&hl=en,313,1
-858,Saeid Sadeghi,Biology,http://scimet.sbu.ac.ir/Saeid_Sadeghi,https://scholar.google.com/citations?user=dOZR8yAAAAAJ&hl=en,345,1
-371,Mansoureh Sadat Sadeghi,Biology,http://scimet.sbu.ac.ir/MansourehSadat_Sadeghi,https://scholar.google.com/citations?user=3PYB2isAAAAJ&hl=en,348,1
-819,Mohammad Safi,Biology,http://scimet.sbu.ac.ir/Mohammad_Safi,https://scholar.google.com/citations?user=Qoe_35kAAAAJ&hl=en,358,1
-146,Peyman Salehi,Biology,http://scimet.sbu.ac.ir/Peyman_Salehi,https://scholar.google.com/citations?user=E8BWXvkAAAAJ&hl=en,359,1
-522,Roya Sedghi,Computer science,http://scimet.sbu.ac.ir/Roya_Sedghi,https://scholar.google.com/citations?user=xHnuvYkAAAAJ&hl=en,362,1
-794,Seyed Mohammad Sajad Sadough,Biology,http://scimet.sbu.ac.ir/SeyedMohammadSajad_Sadough,https://scholar.google.com/citations?user=vcorxAMAAAAJ&hl=en,363,1
-811,Mostafa Sedighizadeh,Computer science,http://scimet.sbu.ac.ir/Mostafa_Sedighizadeh,https://scholar.google.com/citations?user=p5EhHCkAAAAJ&hl=en,364,1
-9,Mozaffar Sarrafi,Civil engineering,http://scimet.sbu.ac.ir/Mozaffar_Sarrafi,https://scholar.google.com/citations?user=RVTOLwIAAAAJ&hl=en,366,1
-311,Farshad Safaei,Economics,http://scimet.sbu.ac.ir/Farshad_Safaei,https://scholar.google.com/citations?user=RyYg7HcAAAAJ&hl=en,367,1
-846,Hamid Saffari,Electrical engineering,http://scimet.sbu.ac.ir/Hamid_Saffari,https://scholar.google.com/citations?user=3VqFm5MAAAAJ&hl=en,369,1
-441,Mohammad Hossein Safarzadeh,Mechanical engineering,http://scimet.sbu.ac.ir/MohammadHossein_Safarzadeh,https://scholar.google.com/citations?user=aUiu6jEAAAAJ&hl=en,371,1
-74,Nasser Safari,Chemistry,http://scimet.sbu.ac.ir/Nasser_Safari,https://scholar.google.com/citations?user=5ZvyvQ0AAAAJ&hl=en,372,1
-748,Kianoosh Samimi,Mathematics,http://scimet.sbu.ac.ir/Kianoosh_Samimi,https://scholar.google.com/citations?user=chSBqzgAAAAJ&hl=en,373,1
-658,Parastoo Saniee,Mathematics,http://scimet.sbu.ac.ir/Parastoo_Saniee,https://scholar.google.com/citations?user=lJPGGg4AAAAJ&hl=en,374,1
-255,Alireza R. Talebpour,Mathematics,http://scimet.sbu.ac.ir/AlirezaR_Talebpour,https://scholar.google.com/citations?user=YbivTTUAAAAJ&hl=en,0,0
-92,Mansoureh Tahbaz,Mathematics,http://scimet.sbu.ac.ir/Mansoureh_Tahbaz,https://scholar.google.com/citations?user=8ga3pFQAAAAJ&hl=en,375,1
-344,Ali Reza Taheriyoun,Biology,http://scimet.sbu.ac.ir/AliReza_Taheriyoun,https://scholar.google.com/citations?user=eG0NO0IAAAAJ&hl=en,376,1
-849,Hadi Tabatabaee Malazi,Biology,http://scimet.sbu.ac.ir/Hadi_TabatabaeeMalazi,https://scholar.google.com/citations?user=QK5XARsAAAAJ&hl=en,377,1
-102,Gholam Ali Tabarsa,Biology,http://scimet.sbu.ac.ir/GholamAli_Tabarsa,https://scholar.google.com/citations?user=C4dmDM4AAAAJ&hl=en,378,1
-716,Shima Tabibian,Computer science,http://scimet.sbu.ac.ir/Shima_Tabibian,https://scholar.google.com/citations?user=g923zsoAAAAJ&hl=en,379,1
-229,A. S. Toloei,Chemistry,http://scimet.sbu.ac.ir/AS_Toloei,https://scholar.google.com/citations?user=dYN1BSsAAAAJ&hl=en,0,0
-101,Mohammad Mehdi Tehranchi,Electrical engineering,http://scimet.sbu.ac.ir/MohammadMehdi_Tehranchi,https://scholar.google.com/citations?user=fIcctdAAAAAJ&hl=en,380,1
-363,Maryam Tahmasbi,Electrical engineering,http://scimet.sbu.ac.ir/Maryam_Tahmasbi,https://scholar.google.com/citations?user=GAmey8oAAAAJ&hl=en,381,1
-665,Masoud Tahmasian,Electrical engineering,http://scimet.sbu.ac.ir/Masoud_Tahmasian,https://scholar.google.com/citations?user=nOke9lkAAAAJ&hl=en,382,1
-721,Mahdi Zarif,Biology,http://scimet.sbu.ac.ir/Mahdi_Zarif,https://scholar.google.com/citations?user=vgRa3hEAAAAJ&hl=en,384,1
-1,Kambiz Abedi,Biology,http://scimet.sbu.ac.ir/Kambiz_Abedi,https://scholar.google.com/citations?user=RJ_tFn0AAAAJ&hl=en,385,1
-22,Mostafa Abedi,Electrical engineering,http://scimet.sbu.ac.ir/Mostafa_Abedi,https://scholar.google.com/citations?user=wN8O-AIAAAAJ&hl=en,386,1
-765,NA NA,Electrical engineering,http://scimet.sbu.ac.ir/NA_NA5,https://scholar.google.com/citations?user=qMjlmOQAAAAJ&hl=en&oi=ao,0,0
-77,Mahboobeh Arefi,Mathematics,http://scimet.sbu.ac.ir/Mahboobeh_Arefi,https://scholar.google.com/citations?user=0_ShO58AAAAJ&hl=en,2047,1
-234,Davoud Ashourloo,Electrical engineering,http://scimet.sbu.ac.ir/Davoud_Ashourloo,https://scholar.google.com/citations?user=mDcBA3oAAAAJ&hl=en,2048,1
-41,Akbar Alemtabriz,Chemistry,http://scimet.sbu.ac.ir/Akbar_Alemtabriz,https://scholar.google.com/citations?user=CTKR1lsAAAAJ&hl=en,0,0
-783,Mohammad Ameri,Chemistry,http://scimet.sbu.ac.ir/Mohammad_Ameri,https://scholar.google.com/citations?user=l9zSjhgAAAAJ&hl=en,2049,1
-287,Mohammad Taghi Ameli,Mathematics,http://scimet.sbu.ac.ir/MohammadTaghi_Ameli,https://scholar.google.com/citations?user=vthQ4Z4AAAAJ&hl=en,2056,1
-250,Maghsoud Abbaspour,Mathematics,http://scimet.sbu.ac.ir/Maghsoud_Abbaspour,https://scholar.google.com/citations?user=vLIFw30AAAAJ&hl=en,2057,1
-624,Maryam Abbasi,Electrical engineering,http://scimet.sbu.ac.ir/Maryam_Abbasi,https://scholar.google.com/citations?user=H2oN1vEAAAAJ&hl=en,2058,1
-751,Shehu S AbdusSalam,Civil engineering,http://scimet.sbu.ac.ir/ShehuS_AbdusSalam,https://scholar.google.com/citations?user=FXV4ymAAAAAJ&hl=en,2074,1
-470,Ali Abdollahi,Mechanical engineering,http://scimet.sbu.ac.ir/Ali_Abdollahi,https://scholar.google.com/citations?user=dBSIQssAAAAJ&hl=en,2079,1
-732,Zahra Abdekhodaie,Biology,http://scimet.sbu.ac.ir/Zahra_Abdekhodaie,https://scholar.google.com/citations?user=pwCgYdIAAAAJ&hl=en,2091,1
-247,Asghar Abdoli,Mechanical engineering,http://scimet.sbu.ac.ir/Asghar_Abdoli,https://scholar.google.com/citations?user=5nCLhXYAAAAJ&hl=en,2093,1
-65,Behrouz Abdoli,Mechanical engineering,http://scimet.sbu.ac.ir/Behrouz_Abdoli,https://scholar.google.com/citations?user=C9EnqIMAAAAJ&hl=en,2095,1
-529,Monireh Abdoos,Civil engineering,http://scimet.sbu.ac.ir/Monireh_Abdoos,https://scholar.google.com/citations?user=SxxCUagAAAAJ&hl=en,2096,1
-83,Ali Akbar Arabmaazar,Mechanical engineering,http://scimet.sbu.ac.ir/AliAkbar_Arabmaazar,https://scholar.google.com/citations?user=v-yhXc8AAAAJ&hl=en,0,0
-4,Mohammad Arabmazar Yazdi,Mechanical engineering,http://scimet.sbu.ac.ir/Mohammad_ArabmazarYazdi,https://scholar.google.com/citations?user=0CxVz-MAAAAJ&hl=en,2349,1
-526,Atoosa Sadat Arabaniàn,Mathematics,http://scimet.sbu.ac.ir/AtoosaSadat_Arabanin,https://scholar.google.com/citations?user=1Zr8YLQAAAAJ&hl=en,0,0
-650,Eslam Ezzatneshan,Computer science,http://scimet.sbu.ac.ir/Eslam_Ezzatneshan,https://scholar.google.com/citations?user=cH4cCxIAAAAJ&hl=en,2098,1
-345,Shahriar Azizi,Civil engineering,http://scimet.sbu.ac.ir/Shahriar_Azizi,https://scholar.google.com/citations?user=Wfth8asAAAAJ&hl=en,2099,1
-339,Vahid Azizi,Civil engineering,http://scimet.sbu.ac.ir/Vahid_Azizi,https://scholar.google.com/citations?user=6Cr-R-kAAAAJ&hl=en,2103,1
-320,Hossein Askari,Civil engineering,http://scimet.sbu.ac.ir/Hossein_Askari,https://scholar.google.com/citations?user=6BEr_OoAAAAJ&hl=en,2105,1
-638,Seyed Hosein Attarzadeh-Niaki,Civil engineering,http://scimet.sbu.ac.ir/SeyedHosein_AttarzadehNiaki,https://scholar.google.com/citations?user=C51ASWgAAAAJ&hl=en,2110,1
-617,Hossein Aghighi,Civil engineering,http://scimet.sbu.ac.ir/Hossein_Aghighi,https://scholar.google.com/citations?user=pzLrAYIAAAAJ&hl=en,2111,1
-569,Matin Alaghmandan,Civil engineering,http://scimet.sbu.ac.ir/Matin_Alaghmandan,https://scholar.google.com/citations?user=LfXlrK8AAAAJ&hl=en,2112,1
-419,Atousa Aliahmadi,Civil engineering,http://scimet.sbu.ac.ir/Atousa_Aliahmadi,https://scholar.google.com/citations?user=3v57rX0AAAAJ&hl=en,2113,1
-498,Mohammad Ali-Akbari,Civil engineering,http://scimet.sbu.ac.ir/Mohammad_AliAkbari,https://scholar.google.com/citations?user=44lqUlsAAAAJ&hl=en,2114,1
-621,Sadegh Aliakbary,Biology,http://scimet.sbu.ac.ir/Sadegh_Aliakbary,https://scholar.google.com/citations?user=BOt4e6UAAAAJ&hl=en,2116,1
-442,Farshad Alijani,Economics,http://scimet.sbu.ac.ir/Farshad_Alijani,https://scholar.google.com/citations?user=BC_eymIAAAAJ&hl=en,2117,1
-822,Saeed Alimohammadi,Mechanical engineering,http://scimet.sbu.ac.ir/Saeed_Alimohammadi,https://scholar.google.com/citations?user=TUPpHRgAAAAJ&hl=en,2118,1
-187,Saeed Alirezaei,Electrical engineering,http://scimet.sbu.ac.ir/Saeed_Alirezaei,https://scholar.google.com/citations?user=D2jOcksAAAAJ&hl=en,2119,1
-590,Ebrahim Alizadeh,Civil engineering,http://scimet.sbu.ac.ir/Ebrahim_Alizadeh,https://scholar.google.com/citations?user=RLaNGFkAAAAJ&hl=en,2124,1
-262,Mohammad Reza Anani Sarab,Mathematics,http://scimet.sbu.ac.ir/MohammadReza_AnaniSarab,https://scholar.google.com/citations?user=hRlkfmIAAAAJ&hl=en,2126,1
-686,Ashkan Ayough,Computer science,http://scimet.sbu.ac.ir/Ashkan_Ayough,https://scholar.google.com/citations?user=sNQ_CnMAAAAJ&hl=en,2127,1
-369,Davood Gharavian,Electrical engineering,http://scimet.sbu.ac.ir/Davood_Gharavian,https://scholar.google.com/citations?user=dC2EmS8AAAAJ&hl=en,2128,1
-736,Shahriar Gharibzadeh,Biology,http://scimet.sbu.ac.ir/Shahriar_Gharibzadeh,https://scholar.google.com/citations?user=A7Yo9AIAAAAJ&hl=en,2129,1
-326,Alireza Farsi,Biology,http://scimet.sbu.ac.ir/Alireza_Farsi,https://scholar.google.com/citations?user=WJnS2sIAAAAJ&hl=en,2130,1
-110,Hassan Farsijani,Biology,http://scimet.sbu.ac.ir/Hassan_Farsijani,https://scholar.google.com/citations?user=TPMnymUAAAAJ&hl=en,0,0
-501,Reza Fareghbal,Biology,http://scimet.sbu.ac.ir/Reza_Fareghbal,https://scholar.google.com/citations?user=GugaYn4AAAAJ&hl=en,2131,1
-583,Fataneh Fatemi,Mathematics,http://scimet.sbu.ac.ir/Fataneh_Fatemi,https://scholar.google.com/citations?user=bEc6s7MAAAAJ&hl=en,2132,1
-303,Jalil Fathabadi,Electrical engineering,http://scimet.sbu.ac.ir/Jalil_Fathabadi,https://scholar.google.com/citations?user=LbtqJ6wAAAAJ&hl=en,2133,1
-119,Kourosh Fathi Vajargah,Civil engineering,http://scimet.sbu.ac.ir/Kourosh_FathiVajargah,https://scholar.google.com/citations?user=2r-vLl8AAAAJ&hl=en,2134,1
-561,Vahid Fakhari,Chemistry,http://scimet.sbu.ac.ir/Vahid_Fakhari,https://scholar.google.com/citations?user=OmlTXk0AAAAJ&hl=en,2135,1
-105,Ali Reza Fakhari,Chemistry,http://scimet.sbu.ac.ir/AliReza_Fakhari,https://scholar.google.com/citations?user=RD84ElMAAAAJ&hl=en,2136,1
-406,Hadi Farahani,Biology,http://scimet.sbu.ac.ir/Hadi_Farahani,https://scholar.google.com/citations?user=N4TgzzoAAAAJ&hl=en,2138,1
-575,Naser Farrokhi,Economics,http://scimet.sbu.ac.ir/Naser_Farrokhi,https://scholar.google.com/citations?user=ioUXQlUAAAAJ&hl=en,2141,1
-384,Mohsen Farzaneh,Chemistry,http://scimet.sbu.ac.ir/Mohsen_Farzaneh,https://scholar.google.com/citations?user=fn1gEsQAAAAJ&hl=en,2144,1
-543,Marzieh Farhang,Chemistry,http://scimet.sbu.ac.ir/Marzieh_Farhang,https://scholar.google.com/citations?user=bSwfd5oAAAAJ&hl=en,2145,1
-5,Mehrdad Farhoudi,Electrical engineering,http://scimet.sbu.ac.ir/Mehrdad_Farhoudi,https://scholar.google.com/citations?user=z11OaH4AAAAJ&hl=en,2146,1
-228,Mohammad Reza Farid-Rohani,Computer science,http://scimet.sbu.ac.ir/MohammadReza_FaridRohani,https://scholar.google.com/citations?user=pJpU1gUAAAAJ&hl=en,0,0
-242,Shirin Farivar,Mechanical engineering,http://scimet.sbu.ac.ir/Shirin_Farivar,https://scholar.google.com/citations?user=7dRJeL4AAAAJ&hl=en,0,0
-627,Mohamad Fashi,Biology,http://scimet.sbu.ac.ir/Mohamad_Fashi,https://scholar.google.com/citations?user=pqMYyBwAAAAJ&hl=en,0,0
-404,Mahmood Fazlali,Mathematics,http://scimet.sbu.ac.ir/Mahmood_Fazlali,https://scholar.google.com/citations?user=rFMuExEAAAAJ&hl=en,2149,1
-174,Mohammad Reza Faghihi,Computer science,http://scimet.sbu.ac.ir/MohammadReza_Faghihi,https://scholar.google.com/citations?user=P4rfBmEAAAAJ&hl=en,0,0
-709,Alireza Fallahi,Chemistry,http://scimet.sbu.ac.ir/Alireza_Fallahi,https://scholar.google.com/citations?user=4jAME1oAAAAJ&hl=en,2151,1
-130,Zohreh Fanni,Chemistry,http://scimet.sbu.ac.ir/Zohreh_Fanni,https://scholar.google.com/citations?user=Fj6cQgcAAAAJ&hl=en,2158,1
-391,Raana Fayaz Millani,Electrical engineering,http://scimet.sbu.ac.ir/Raana_Fayazmillani,https://scholar.google.com/citations?user=Pn7wF5QAAAAJ&hl=en,0,0
-433,Masumeh Ghasemkhani,Biology,http://scimet.sbu.ac.ir/Masumeh_Ghasemkhani,https://scholar.google.com/citations?user=N3X5G9gAAAAJ&hl=en,0,0
-149,Alireza Ghassempour,Biology,http://scimet.sbu.ac.ir/Alireza_Ghassempour,https://scholar.google.com/citations?user=ZiePVXIAAAAJ&hl=en,2159,1
-477,Rouhallah Ghasemi,Mechanical engineering,http://scimet.sbu.ac.ir/Rouhallah_Ghasemi,https://scholar.google.com/citations?user=HvDjnT8AAAAJ&hl=en,0,0
-412,Mohammad Sadegh Ghazizadeh,Computer science,http://scimet.sbu.ac.ir/MohammadSadegh_Ghazizadeh,https://scholar.google.com/citations?user=XAYhjzoAAAAJ&hl=en,2160,1
-728,Payam Ghorbannezhad,Economics,http://scimet.sbu.ac.ir/Payam_Ghorbannezhad,https://scholar.google.com/citations?user=ZG3Une4AAAAJ&hl=en,2161,1
-500,Mohammad Ghorbanalilu,Civil engineering,http://scimet.sbu.ac.ir/Mohammad_Ghorbanalilu,https://scholar.google.com/citations?user=K1QSHB0AAAAJ&hl=en,2162,1
-150,Mansour Ghorbani,Electrical engineering,http://scimet.sbu.ac.ir/Mansour_Ghorbani,https://scholar.google.com/citations?user=NiUR0gwAAAAJ&hl=en,2163,1
-424,Seyed Ali Ghorashi,Electrical engineering,http://scimet.sbu.ac.ir/SeyedAli_Ghorashi,https://scholar.google.com/citations?user=5aUmAGYAAAAJ&hl=en,2165,1
-689,Ali Akbar Ghotbi-Ravandi,Mechanical engineering,http://scimet.sbu.ac.ir/AliAkbar_GhotbiRavandi,https://scholar.google.com/citations?user=KmVDMVgAAAAJ&hl=en,2167,1
-421,Mohammad Reza Ghalamboran,Electrical engineering,http://scimet.sbu.ac.ir/MohammadReza_Ghalamboran,https://scholar.google.com/citations?user=PeoytG4AAAAJ&hl=en,2168,1
-413,Alireza R. Gholipour,Civil engineering,http://scimet.sbu.ac.ir/AlirezaR_Gholipour,https://scholar.google.com/citations?user=bgAAP3wAAAAJ&hl=en,2169,1
-222,Hamidreza Ghomi Marzdashti,Civil engineering,http://scimet.sbu.ac.ir/Hamidreza_GhomiMarzdashti,https://scholar.google.com/citations?user=AoDMCigAAAAJ&hl=en,0,0
-329,S. A.M. Ghannadpour,Electrical engineering,http://scimet.sbu.ac.ir/SAM_Ghannadpour,https://scholar.google.com/citations?user=_QJ2OMYAAAAJ&hl=en,0,0
-181,Majid Ghanaatshoar,Civil engineering,http://scimet.sbu.ac.ir/Majid_Ghanaatshoar,https://scholar.google.com/citations?user=INMBcc8AAAAJ&hl=en,2170,1
-399,Saeed Ghanbari,Mathematics,http://scimet.sbu.ac.ir/Saeed_Ghanbari,https://scholar.google.com/citations?user=PIYncFoAAAAJ&hl=en,2172,1
-161,Ramak Ghavamizadeh Meibodi,,http://scimet.sbu.ac.ir/Ramak_GhavamizadehMeibodi,https://scholar.google.com/citations?user=3tPIa4cAAAAJ&hl=en,0,0
-537,Morteza Ghourchi,,http://scimet.sbu.ac.ir/Morteza_Ghourchi,https://scholar.google.com/citations?user=5_eCsm0AAAAJ&hl=en,2178,1
-340,Manijeh Ghahroudi Tali,,http://scimet.sbu.ac.ir/Manijeh_GhahroudiTali,https://scholar.google.com/citations?user=95pEkeYAAAAJ&hl=en,0,0
-696,Mahdi Gheitasi,,http://scimet.sbu.ac.ir/Mahdi_Gheitasi,https://scholar.google.com/citations?user=8Zm1V8EAAAAJ&hl=en,0,0
-585,Hossein Kazemi Karegar,,http://scimet.sbu.ac.ir/Hossein_KazemiKaregar,https://scholar.google.com/citations?user=zK5r7_oAAAAJ&hl=en,2180,1
-236,Jafar Kambouzia,,http://scimet.sbu.ac.ir/Jafar_Kambouzia,https://scholar.google.com/citations?user=yJIJMdwAAAAJ&hl=en,2181,1
-697,Maryam Kavyani,,http://scimet.sbu.ac.ir/Maryam_Kavyani,https://scholar.google.com/citations?user=6xri4woAAAAJ&hl=en,2182,1
-361,Ali Katanforoush,,http://scimet.sbu.ac.ir/Ali_Katanforoush,https://scholar.google.com/citations?user=Z_z5rwcAAAAJ&hl=en,2183,1
-196,Hossein Kermanian,,http://scimet.sbu.ac.ir/Hossein_Kermanian,https://scholar.google.com/citations?user=x6XWh40AAAAJ&hl=en,2184,1
-356,Rouhollah Karimzadeh,,http://scimet.sbu.ac.ir/Rouhollah_Karimzadeh,https://scholar.google.com/citations?user=dECclNIAAAAJ&hl=en,2185,1
-546,Shokrollah Karimian,,http://scimet.sbu.ac.ir/Shokrollah_Karimian,https://scholar.google.com/citations?user=yjLqM7QAAAAJ&hl=en,2186,1
-729,Hamid Keshavarz,,http://scimet.sbu.ac.ir/Hamid_Keshavarz,https://scholar.google.com/citations?user=2EUf0-YAAAAJ&hl=en,2187,1
-725,Mohsen Kalantari,,http://scimet.sbu.ac.ir/Mohsen_Kalantari,https://scholar.google.com/citations?user=8ZDNeecAAAAJ&hl=en,2191,1
-582,Hasan Kouchakzadeh,,http://scimet.sbu.ac.ir/Hasan_Kouchakzadeh,https://scholar.google.com/citations?user=VO_HT-cAAAAJ&hl=en,2194,1
-619,Mojtaba Koosha,,http://scimet.sbu.ac.ir/Mojtaba_Koosha,https://scholar.google.com/citations?user=55tpe-YAAAAJ&hl=en,2195,1
-767,Fahimeh Koohdar,,http://scimet.sbu.ac.ir/Fahimeh_Koohdar,https://scholar.google.com/citations?user=f6qChk0AAAAJ&hl=en,0,0
-293,Qhasem Keikhosravi,,http://scimet.sbu.ac.ir/Qhasem_Keikhosravi,https://scholar.google.com/citations?user=-9nQYCQAAAAJ&hl=en,0,0
-550,Mohsen Golbon Haghighi,,http://scimet.sbu.ac.ir/Mohsen_GolbonHaghighi,https://scholar.google.com/citations?user=wEybZ0kAAAAJ&hl=en,2196,1
-61,Mojtaba Ganjali,,http://scimet.sbu.ac.ir/Mojtaba_Ganjali,https://scholar.google.com/citations?user=GPd4BtEAAAAJ&hl=en,2197,1
-639,Roghayeh Gavagsaz-Ghoachani,,http://scimet.sbu.ac.ir/Roghayeh_GavagsazGhoachani,https://scholar.google.com/citations?user=6Z9fVXoAAAAJ&hl=en,2199,1
-75,Hassan Lashkari,,http://scimet.sbu.ac.ir/Hassan_Lashkari,https://scholar.google.com/citations?user=jpJQazAAAAAJ&hl=en,2200,1
-36,Anoshiravan Lotfali Kani,,http://scimet.sbu.ac.ir/Anoshiravan_LotfaliKani,https://scholar.google.com/citations?user=B1HFuh0AAAAJ&hl=en,0,0
-24,Hamid Latifi,,http://scimet.sbu.ac.ir/Hamid_Latifi,https://scholar.google.com/citations?user=HsMMUgIAAAAJ&hl=en,2201,1
-517,Azadeh Lak,,http://scimet.sbu.ac.ir/Azadeh_Lak,https://scholar.google.com/citations?user=Bgm4vDUAAAAJ&hl=en,2203,1
-151,Houman Liaghati,,http://scimet.sbu.ac.ir/Houman_Liaghati,https://scholar.google.com/citations?user=53cljbMAAAAJ&hl=en,2204,1
-739,Alireza Mahpour,,http://scimet.sbu.ac.ir/Alireza_Mahpour,https://scholar.google.com/citations?user=5RWpYA8AAAAJ&hl=en,2205,1
-335,Naghmeh Mobarghaee Dinan,,http://scimet.sbu.ac.ir/Naghmeh_MobarghaeeDinan,https://scholar.google.com/citations?user=WnzFoIIAAAAJ&hl=en,2206,1
-544,Mohammad Mojaddam,,http://scimet.sbu.ac.ir/Mohammad_Mojaddam,https://scholar.google.com/citations?user=-OQV_T8AAAAJ&hl=en,2207,1
-398,Ahmad Reza Mehrabian,,http://scimet.sbu.ac.ir/AhmadReza_Mehrabian,https://scholar.google.com/citations?user=d3o_bG4AAAAJ&hl=en,2208,1
-844,Arman Mohseni,,http://scimet.sbu.ac.ir/Arman_Mohseni,https://scholar.google.com/citations?user=P48E3hAAAAAJ&hl=en,2209,1
-833,Reza Mosavi Mohseni,,http://scimet.sbu.ac.ir/RezaMoosavi_Mohseni,https://scholar.google.com/citations?user=cT3MZzkAAAAJ&hl=en,0,0
-208,Seyed Majid Mohseni,,http://scimet.sbu.ac.ir/Seyed_MajidMohseni,https://scholar.google.com/citations?user=HTqfi34AAAAJ&hl=en,0,0
-570,Marzieh Mohases,,http://scimet.sbu.ac.ir/Marzieh_Mohases,https://scholar.google.com/citations?user=HL14pxUAAAAJ&hl=en,2211,1
-147,M Mohammadpour Amini,,http://scimet.sbu.ac.ir/M_MohammadpourAmini,https://scholar.google.com/citations?user=30L692gAAAAJ&hl=en,0,0
-644,Kourosh Mohammadkhani,,http://scimet.sbu.ac.ir/Kourosh_Mohammadkhani,https://scholar.google.com/citations?user=Jhdu0IsAAAAJ&hl=en,2212,1
-760,HAMID MOHAMMADNEZHAD,,http://scimet.sbu.ac.ir/HAMID_MOHAMMADNEZHAD,https://scholar.google.com/citations?user=a-Nta_sAAAAJ&hl=en,2213,1
-695,Reza Mohammadi Chabanloo,,http://scimet.sbu.ac.ir/Reza_MohammadiChabanloo,https://scholar.google.com/citations?user=697SFhUAAAAJ&hl=en,0,0
-607,Saeed Mahmoudkhani,,http://scimet.sbu.ac.ir/Saeed_Mahmoudkhani,https://scholar.google.com/citations?user=3jdP7osAAAAJ&hl=en,2215,1
-830,Mohammad Javad Mahmoodi,,http://scimet.sbu.ac.ir/MohammadJavad_Mahmoodi,https://scholar.google.com/citations?user=cDT2lX0AAAAJ&hl=en,2216,1
-193,Hossein Mahmoudi,,http://scimet.sbu.ac.ir/Hossein_Mahmoudi,https://scholar.google.com/citations?user=BTbZbDAAAAAJ&hl=en,2219,1
-70,Mojgan Mahmoudi,,http://scimet.sbu.ac.ir/Mojgan_Mahmoudi,https://scholar.google.com/citations?user=npCEch0AAAAJ&hl=en,2223,1
-383,Ahmad Mahmoudi-Aznaveh,,http://scimet.sbu.ac.ir/Ahmad_MahmoudiAznaveh,https://scholar.google.com/citations?user=HlT_NN4AAAAJ&hl=en,2224,1
-675,Setareh Mokhtari,,http://scimet.sbu.ac.ir/Setareh_Mokhtari,https://scholar.google.com/citations?user=iVzsuXQAAAAJ&hl=en,2225,1
-462,Mahmoud Mokhtari,,http://scimet.sbu.ac.ir/Mahmoud_Mokhtari,https://scholar.google.com/citations?user=f-EAYhMAAAAJ&hl=en,2227,1
-807,Ali A. Mortazavi,,http://scimet.sbu.ac.ir/AliA_Mortazavi,https://scholar.google.com/citations?user=z4ZFEbQAAAAJ&hl=en,2231,1
-578,Pegah Moridsadat,,http://scimet.sbu.ac.ir/Pegah_Moridsadat,https://scholar.google.com/citations?user=VooeXQ0AAAAJ&hl=en,2234,1
-604,Ali Moridi,,http://scimet.sbu.ac.ir/Ali_Moridi,https://scholar.google.com/citations?user=pbA0WggAAAAJ&hl=en,2235,1
-342,Mahdi Moridi Farimani,,http://scimet.sbu.ac.ir/Mahdi_MoridiFarimani,https://scholar.google.com/citations?user=EHEa1uwAAAAJ&hl=en,2237,1
-131,Reza Massudi,,http://scimet.sbu.ac.ir/Reza_Massudi,https://scholar.google.com/citations?user=QK3lEdAAAAAJ&hl=en,0,0
-306,Fariborz Masoudi,,http://scimet.sbu.ac.ir/Fariborz_Masoudi,https://scholar.google.com/citations?user=L0gajh4AAAAJ&hl=en,2238,1
-623,Heidarali Masoudi,,http://scimet.sbu.ac.ir/Heidarali_Masoudi,https://scholar.google.com/citations?user=uGJxW8gAAAAJ&hl=en,2239,1
-157,Maryam Musharraf,,http://scimet.sbu.ac.ir/Maryam_Musharraf,https://scholar.google.com/citations?user=HWDTNZsAAAAJ&hl=en,2240,1
-700,Mohammad Ali Mostafaei,,http://scimet.sbu.ac.ir/MohammadAli_Mostafaei,https://scholar.google.com/citations?user=ID5e_FoAAAAJ&hl=en,2241,1
-754,Ali Mosallanejad,,http://scimet.sbu.ac.ir/Ali_Mosallanejad,https://scholar.google.com/citations?user=F2UDw4EAAAAJ&hl=en,2242,1
-782,Homayoun Motiee,,http://scimet.sbu.ac.ir/Homayoun_Motiee,https://scholar.google.com/citations?user=T2pwMiEAAAAJ&hl=en,2244,1
-142,Mohammad Ali Mazaheri,,http://scimet.sbu.ac.ir/MohammadAli_Mazaheri,https://scholar.google.com/citations?user=5ak7DGAAAAAJ&hl=en,0,0
-480,Farokhlagha Moazami,,http://scimet.sbu.ac.ir/Farokhlagha_Moazami,https://scholar.google.com/citations?user=4v4v5r0AAAAJ&hl=en,2245,1
-681,Mohammad Hossein Moaiyeri,,http://scimet.sbu.ac.ir/MohammadHossein_Moaiyeri,https://scholar.google.com/citations?user=VzPbMOoAAAAJ&hl=en,2246,1
-663,Masoud Meghdadi,,http://scimet.sbu.ac.ir/Masoud_Meghdadi,https://scholar.google.com/citations?user=kRBx6a0AAAAJ&hl=en,2247,1
-519,Hamidreza Mollasalehi,,http://scimet.sbu.ac.ir/Hamidreza_Mollasalehi,https://scholar.google.com/citations?user=eBONeEYAAAAJ&hl=en,2248,1
-690,Behzad Malekpourasl,,http://scimet.sbu.ac.ir/Behzad_Malekpourasl,https://scholar.google.com/citations?user=WCt3szEAAAAJ&hl=en,2249,1
-548,Hadi Maleki,,http://scimet.sbu.ac.ir/Hadi_Maleki,https://scholar.google.com/citations?user=KeJ5-doAAAAJ&hl=en,2251,1
-730,Mohsen H. Montazeri,,http://scimet.sbu.ac.ir/MohsenH_Montazeri,https://scholar.google.com/citations?user=0DALQzsAAAAJ&hl=en,0,0
-547,Shahriyar Mansouri,,http://scimet.sbu.ac.ir/Shahriyar_Mansouri,https://scholar.google.com/citations?user=bvEGupkAAAAJ&hl=en,2255,1
-185,Morteza Moniri,,http://scimet.sbu.ac.ir/Morteza_Moniri,https://scholar.google.com/citations?user=8TbbUMEAAAAJ&hl=en,2256,1
-275,Fereshteh Mootabi,,http://scimet.sbu.ac.ir/Fereshteh_Mootabi,https://scholar.google.com/citations?user=1r5L3y4AAAAJ&hl=en,2257,1
-294,S MS Movahed,,http://scimet.sbu.ac.ir/SMS_Movahed,https://scholar.google.com/citations?user=uhy9JDAAAAAJ&hl=en,0,0
-780,S. Saeid Mousavi Nadoushani,,http://scimet.sbu.ac.ir/SSaeid_MousaviNadoushani,https://scholar.google.com/citations?user=x5g0ybEAAAAJ&hl=en,0,0
-184,Ezeddin Mohajerani,,http://scimet.sbu.ac.ir/Ezeddin_Mohajerani,https://scholar.google.com/citations?user=mW-eOmYAAAAJ&hl=en,2259,1
-249,Abdolmajid Mahdavi-Damghani,,http://scimet.sbu.ac.ir/Abdolmajid_MahdaviDamghani,https://scholar.google.com/citations?user=i5AlLKoAAAAJ&hl=en,2260,1
-827,Hamid Reza Mahdiani,,http://scimet.sbu.ac.ir/HamidReza_Mahdiani,https://scholar.google.com/citations?user=oCxA7B0AAAAJ&hl=en,2261,1
-799,Maryam Mirabi,,http://scimet.sbu.ac.ir/Maryam_Mirabi,https://scholar.google.com/citations?user=q3WxSIcAAAAJ&hl=en,2262,1
-167,Mohammad Hossein Mirjalili,,http://scimet.sbu.ac.ir/MohammadHossein_Mirjalili,https://scholar.google.com/citations?user=Y2x_J6QAAAAJ&hl=en,2263,1
-235,Mahinnaz Mirdehghan,,http://scimet.sbu.ac.ir/Mahinnaz_Mirdehghan,https://scholar.google.com/citations?user=H_OQnf4AAAAJ&hl=en,2264,1
-219,Peiman Mirzaei,,http://scimet.sbu.ac.ir/Peiman_Mirzaei,https://scholar.google.com/citations?user=R3JT7LkAAAAJ&hl=en,2265,1
-612,Seyed Mojtaba Mirfendereski,,http://scimet.sbu.ac.ir/SeyedMojtaba_Mirfendereski,https://scholar.google.com/citations?user=Gs33WRsAAAAJ&hl=en,2266,1
-221,Dariush Minai-Tehrani,,http://scimet.sbu.ac.ir/Dariush_MinaiTehrani,https://scholar.google.com/citations?user=aQLPrvEAAAAJ&hl=en,2267,1
-469,Mohammad Javad Naeiji,,http://scimet.sbu.ac.ir/MohammadJavad_Naeiji,https://scholar.google.com/citations?user=rytnsaIAAAAJ&hl=en,2268,1
-227,Soheila Naderi,,http://scimet.sbu.ac.ir/Soheila_Naderi,https://scholar.google.com/citations?user=EM1vu38AAAAJ&hl=en,2269,1
-481,Ali Nadian-Ghomsheh,,http://scimet.sbu.ac.ir/Ali_NadianGhomsheh,https://scholar.google.com/citations?user=RfRhW8QAAAAJ&hl=en,2271,1
-602,Morteza Nazerian,,http://scimet.sbu.ac.ir/Morteza_Nazerian,https://scholar.google.com/citations?user=fTOMRuoAAAAJ&hl=en,2272,1
-51,Eslam Nazemi,,http://scimet.sbu.ac.ir/Eslam_Nazemi,https://scholar.google.com/citations?user=0sn-HWgAAAAJ&hl=en,2273,1
-46,Keivan Navi,,http://scimet.sbu.ac.ir/Keivan_Navi,https://scholar.google.com/citations?user=QEs-nLIAAAAJ&hl=en,2274,1
-594,Negar Nabatian,,http://scimet.sbu.ac.ir/Negar_Nabatian,https://scholar.google.com/citations?user=xDIF7jUAAAAJ&hl=en,2275,1
-43,Mohammad Reza Nabid,,http://scimet.sbu.ac.ir/MohammadReza_Nabid,https://scholar.google.com/citations?user=rJO3yzQAAAAJ&hl=en,2276,1
-733,Pegah Nejat,,http://scimet.sbu.ac.ir/Pegah_Nejat,https://scholar.google.com/citations?user=MtW35ZsAAAAJ&hl=en,2277,1
-338,Vahid Nejati,,http://scimet.sbu.ac.ir/Vahid_Nejati,https://scholar.google.com/citations?user=6quJ34QAAAAJ&hl=en,2278,1
-731,Mohammadreza Nakhaei,,http://scimet.sbu.ac.ir/Mohammadreza_Nakhaei,https://scholar.google.com/citations?user=czYpbUEAAAAJ&hl=en,0,0
-560,Sahar Nedae Tousi,,http://scimet.sbu.ac.ir/SaharNedae_Tousi,https://scholar.google.com/citations?user=abVSDhsAAAAJ&hl=en,2282,1
-98,Hamid Nadimi,,http://scimet.sbu.ac.ir/Hamid_Nadimi,https://scholar.google.com/citations?user=EThraDAAAAAJ&hl=en,0,0
-251,Samad Nejad-Ebrahimi,,http://scimet.sbu.ac.ir/Samad_NejadEbrahimi,https://scholar.google.com/citations?user=i9kBp_4AAAAJ&hl=en,2284,1
-452,Moharram N Iradmusa,,http://scimet.sbu.ac.ir/MoharramN_Iradmusa,https://scholar.google.com/citations?user=XhbigoQAAAAJ&hl=en,2285,1
-549,Mahmood Neshati,,http://scimet.sbu.ac.ir/Mahmood_Neshati,https://scholar.google.com/citations?user=drrI9MAAAAAJ&hl=en,2286,1
-408,Ali Heidar Nasrolahi,,http://scimet.sbu.ac.ir/AliHeidar_Nasrolahi,https://scholar.google.com/citations?user=IdnaIOoAAAAJ&hl=en,0,0
-346,Kazem Nosrati,,http://scimet.sbu.ac.ir/Kazem_Nosrati,https://scholar.google.com/citations?user=STdgpoMAAAAJ&hl=en,2287,1
-528,Sadollah Nasiri,,http://scimet.sbu.ac.ir/Sadollah_Nasiri,https://scholar.google.com/citations?user=QE9zQTcAAAAJ&hl=en,2288,1
-397,Navid Nezafati,,http://scimet.sbu.ac.ir/Navid_Nezafati,https://scholar.google.com/citations?user=-OS5klMAAAAJ&hl=en,2289,1
-507,Neda Nazarbol,,http://scimet.sbu.ac.ir/Neda_Nazarbol,https://scholar.google.com/citations?user=XG7bwnkAAAAJ&hl=en,0,0
-177,Ahad Nazari,,http://scimet.sbu.ac.ir/Ahad_Nazari,https://scholar.google.com/citations?user=IWCqqkoAAAAJ&hl=en,2290,1
-722,Shahab Al Din Naghavi,,http://scimet.sbu.ac.ir/ShahabAlDin_Naghavi,https://scholar.google.com/citations?user=xOVFAPMAAAAJ&hl=en,0,0
-402,Behrouz Notash,,http://scimet.sbu.ac.ir/Behrouz_Notash,https://scholar.google.com/citations?user=4zGGcGkAAAAJ&hl=en,2291,1
-377,Saeed Nojavan,,http://scimet.sbu.ac.ir/Saeed_Nojavan,https://scholar.google.com/citations?user=VdQcDEYAAAAJ&hl=en,2292,1
-823,Ali Noorzad,,http://scimet.sbu.ac.ir/Ali_Noorzad,https://scholar.google.com/citations?user=s-S3Fd0AAAAJ&hl=en,0,0
-777,Saman Noorzadeh,,http://scimet.sbu.ac.ir/NA_NA13,https://scholar.google.com/citations?user=UglC2kwAAAAJ&hl=en,2293,1
-198,Maryam Nourshahi,,http://scimet.sbu.ac.ir/Maryam_Nourshahi,https://scholar.google.com/citations?user=VCXdUEUAAAAJ&hl=en,2294,1
-542,Saeid Norouzian-Maleki,,http://scimet.sbu.ac.ir/Saeid_NorouzianMaleki,https://scholar.google.com/citations?user=QyC0AMcAAAAJ&hl=en,2295,1
-264,Omid Noori,,http://scimet.sbu.ac.ir/Omid_Noori,https://scholar.google.com/citations?user=ZHAQLq8AAAAJ&hl=en,2296,1
-606,M. N. Manzar,,http://scimet.sbu.ac.ir/MN_Manzar,https://scholar.google.com/citations?user=xhAOuFkAAAAJ&hl=en,2297,1
-596,Musa Nushi,,http://scimet.sbu.ac.ir/Musa_Nushi,https://scholar.google.com/citations?user=OR7G2qQAAAAJ&hl=en,2298,1
-629,Yaser Nikpeyman,,http://scimet.sbu.ac.ir/Yaser_Nikpeyman,https://scholar.google.com/citations?user=8fCPZdYAAAAJ&hl=en,2299,1
-614,Nader Nikkam,,http://scimet.sbu.ac.ir/Nader_Nikkam,https://scholar.google.com/citations?user=yRXMlh0AAAAJ&hl=en,2300,1
-244,Ali Reza Niknam,,http://scimet.sbu.ac.ir/AliReza_Niknam,https://scholar.google.com/citations?user=PbtNWGAAAAAJ&hl=en,2301,1
-482,Majid Vaseghi,,http://scimet.sbu.ac.ir/Majid_Vaseghi,https://scholar.google.com/citations?user=15MjHnUAAAAJ&hl=en,2302,1
-571,Fatemeh Vojdani,,http://scimet.sbu.ac.ir/Fatemeh_Vojdani,https://scholar.google.com/citations?user=cz23ep4AAAAJ&hl=en,2303,1
-532,Mojtaba Vahidi-Asl,,http://scimet.sbu.ac.ir/Mojtaba_VahidiAsl,https://scholar.google.com/citations?user=Ex_tgAgAAAAJ&hl=en,2304,1
-533,Vida Varahrami,,http://scimet.sbu.ac.ir/Vida_Varahrami,https://scholar.google.com/citations?user=RX9K_y0AAAAJ&hl=en,2305,1
-616,Elham Vatankhah,,http://scimet.sbu.ac.ir/Elham_Vatankhah,https://scholar.google.com/citations?user=QXn45TEAAAAJ&hl=en,2306,1
-204,Taraneh Vazifehshenas,,http://scimet.sbu.ac.ir/Taraneh_Vazifehshenas,https://scholar.google.com/citations?user=bgham0sAAAAJ&hl=en,2307,1
-834,Alireza Vafaeinejad,,http://scimet.sbu.ac.ir/Alireza_Vafaeinejad,https://scholar.google.com/citations?user=1w_C6FUAAAAJ&hl=en,2308,1
-349,Hamid Reza Valipour,,http://scimet.sbu.ac.ir/HamidReza_Valipour,https://scholar.google.com/citations?user=WYEf74wAAAAJ&hl=en,2309,1
-285,Hadi Veisi,,http://scimet.sbu.ac.ir/Hadi_Veisi,https://scholar.google.com/citations?user=F15q0ZUAAAAJ&hl=en,2311,1
-318,Javad Hadian,,http://scimet.sbu.ac.ir/Javad_Hadian,https://scholar.google.com/citations?user=gePhjjUAAAAJ&hl=en,2313,1
-265,Seyed Hossein Hashemi,,http://scimet.sbu.ac.ir/SeyedHossein_Hashemi,https://scholar.google.com/citations?user=kKFKJyAAAAAJ&hl=en,2314,1
-450,Omid Hashemipour,,http://scimet.sbu.ac.ir/Omid_Hashemipour,https://scholar.google.com/citations?user=82XtiaoAAAAJ&hl=en,2318,1
-486,Babak Honarbakhsh,,http://scimet.sbu.ac.ir/Babak_Honarbakhsh,https://scholar.google.com/citations?user=qZy2w30AAAAJ&hl=en,2319,1
-223,Fariborz Hovanloo,,http://scimet.sbu.ac.ir/Fariborz_Hovanloo,https://scholar.google.com/citations?user=yanTG8QAAAAJ&hl=en,2320,1
-12,Mahboubeh Houshiar,,http://scimet.sbu.ac.ir/Mahboubeh_Houshiar,https://scholar.google.com/citations?user=DdTwe7QAAAAJ&hl=en,2321,1
-795,Seyed Majid Yadavar-Nikravesh,,http://scimet.sbu.ac.ir/SeyedMajid_YadavarNikravesh,https://scholar.google.com/citations?user=skMiwqAAAAAJ&hl=en,2322,1
-838,Arash Yazdanpanah-Goharrizi,,http://scimet.sbu.ac.ir/Arash_YazdanpanahGoharrizi,https://scholar.google.com/citations?user=Vp-LzJMAAAAJ&hl=en,2323,1
-514,Mehdi Yazdani,,http://scimet.sbu.ac.ir/Mehdi_Yazdani,https://scholar.google.com/citations?user=Ljnw8AMAAAAJ&hl=en,0,0
-601,Jafar Yazdi,,http://scimet.sbu.ac.ir/Jafar_Yazdi,https://scholar.google.com/citations?user=rDaALqUAAAAJ&hl=en,2329,1
-114,Mohammad Yazdi,,http://scimet.sbu.ac.ir/Mohammad_Yazdi,https://scholar.google.com/citations?user=wm5wxJYAAAAJ&hl=en,2333,1
-848,Alireza Yazdizadeh,,http://scimet.sbu.ac.ir/Alireza_Yazdizadeh,https://scholar.google.com/citations?user=vmyY_5kAAAAJ&hl=en,2362,1
-484,Aboutorab Yaghmaie,,http://scimet.sbu.ac.ir/Aboutorab_Yaghmaie,https://scholar.google.com/citations?user=oH2YkddtjfwC&hl=en,2363,1
-737,Bijan Yeganeh,,http://scimet.sbu.ac.ir/Bijan_Yeganeh,https://scholar.google.com/citations?user=zZ8-9AMAAAAJ&hl=en,2364,1
-240,Sohrabali Yousefi,,http://scimet.sbu.ac.ir/Sohrabali_Yousefi,https://scholar.google.com/citations?user=QpafpxQAAAAJ&hl=en,2365,1
+PersonId,Name,faculty,field,department,ScimetUrl,ScholarUrl,AssignedScholar,ClassType
+587,Ahmad Ali Abin,Engineering,Computer science,"Department of Computer Engineering, Engineering",http://scimet.sbu.ac.ir/AhmadAli_Abin,https://scholar.google.com/citations?user=BrxRchIAAAAJ&hl=en,0,0
+117,Mohammad Hossein Adabi,,Geology,,http://scimet.sbu.ac.ir/MohammadHossein_Adabi,https://scholar.google.com/citations?user=l1LqctQAAAAJ&hl=en,0,0
+233,Hossein Azari,,Mathematics,,http://scimet.sbu.ac.ir/Hossein_Azari,https://scholar.google.com/citations?user=5ZIT5fQAAAAJ&hl=en,1,1
+680,Mohsen Azadbakht,,Root,,http://scimet.sbu.ac.ir/Mohsen_Azadbakht,https://scholar.google.com/citations?user=3fvNKa4AAAAJ&hl=en,3,1
+145,Mohammad Reza Aghamohammadi,,Electrical engineering,,http://scimet.sbu.ac.ir/MohammadReza_Aghamohammadi,https://scholar.google.com/citations?user=Wg6ldcIAAAAJ&hl=en,4,1
+664,Fateme Aghamir,,Geology,,http://scimet.sbu.ac.ir/Fateme_Aghamir,https://scholar.google.com/citations?user=HhoVj-oAAAAJ&hl=en,5,1
+626,Mahdy Ahangar,,Root,,http://scimet.sbu.ac.ir/Mahdy_Ahangar,https://scholar.google.com/citations?user=M3rZIGgAAAAJ&hl=en,6,1
+18,Homeira Ebrahimzadeh,Science,Chemistry,,http://scimet.sbu.ac.ir/Homeira_Ebrahimzadeh,https://scholar.google.com/citations?user=q9jKbvoAAAAJ&hl=en,0,0
+649,Vahide Ebrahimnia,,Root,,http://scimet.sbu.ac.ir/Vahide_Ebrahimnia,https://scholar.google.com/citations?user=vvgPs58AAAAJ&hl=en,8,1
+273,Mohsen Ebrahimi Moghaddam,Engineering,Computer science,"Department of Computer Engineering, Engineering",http://scimet.sbu.ac.ir/Mohsen_EbrahimiMoghaddam,https://scholar.google.com/citations?user=trWxrgcAAAAJ&hl=en,9,1
+267,Behrooz Abtahi,,Biology,,http://scimet.sbu.ac.ir/Behrooz_Abtahi,https://scholar.google.com/citations?user=Y20_kyAAAAAJ&hl=en,10,1
+655,Mohammad Ali Ehteram,,Mechanical engineering,,http://scimet.sbu.ac.ir/MohammadAli_Ehteram,https://scholar.google.com/citations?user=Rw3LlWkAAAAJ&hl=en,11,1
+449,Mohsen Ehteshami-Moinabadi,,Geology,,http://scimet.sbu.ac.ir/Mohsen_EhteshamiMoinabadi,https://scholar.google.com/citations?user=NKIJjdsAAAAJ&hl=en,12,1
+245,Faraham Ahmadzadeh,,Biology,,http://scimet.sbu.ac.ir/Faraham_Ahmadzadeh,https://scholar.google.com/citations?user=tm5u5AsAAAAJ&hl=en,13,1
+376,Abbas Ahmadvand,,Root,,http://scimet.sbu.ac.ir/Abbas_Ahmadvand,https://scholar.google.com/citations?user=Piw8pRIAAAAJ&hl=en,14,1
+580,Sadra Ahmadi,Engineering,Computer science,"Department of Computer Engineering, Engineering",http://scimet.sbu.ac.ir/Sadra_Ahmadi,https://scholar.google.com/citations?user=x4p9AE0AAAAJ&hl=en,15,1
+368,Mahmoud Ahmadi,,Root,,http://scimet.sbu.ac.ir/Mahmoud_Ahmadi,https://scholar.google.com/citations?user=LwzyMt0AAAAJ&hl=en,17,1
+487,Asadollah Ahmadikhah,,Biology,,http://scimet.sbu.ac.ir/Asadollah_Ahmadikhah,https://scholar.google.com/citations?user=u-b0EzYAAAAJ&hl=en,19,1
+319,Sajad Ahmadizad,,Biology,,http://scimet.sbu.ac.ir/Sajad_Ahmadizad,https://scholar.google.com/citations?user=PyUyDI4AAAAJ&hl=en,20,1
+357,Bijan Ahmadi Kakavandi,,Mathematics,,http://scimet.sbu.ac.ir/Bijan_AhmadiKakavandi,https://scholar.google.com/citations?user=g53P9vcAAAAJ&hl=en,0,0
+172,Zahra Ahmadian,,Electrical engineering,,http://scimet.sbu.ac.ir/Zahra_Ahmadian,https://scholar.google.com/citations?user=W9jo6oIAAAAJ&hl=en,21,1
+418,Maryam Akhavan Kharazian,,Business,,http://scimet.sbu.ac.ir/Maryam_AkhavanKharazian,https://scholar.google.com/citations?user=EAauZd4AAAAJ&hl=en,24,1
+636,Sareh Arjmand,,Biology,,http://scimet.sbu.ac.ir/Sareh_Arjmand,https://scholar.google.com/citations?user=pxbqu0PxDI8C&hl=en,25,1
+296,Shahrooz Asadi,,Civil engineering,,http://scimet.sbu.ac.ir/Shahrooz_Asadi,https://scholar.google.com/citations?user=p06LLHYAAAAJ&hl=en,26,1
+200,Ziba Eslami,,Mathematics,,http://scimet.sbu.ac.ir/Ziba_Eslami,https://scholar.google.com/citations?user=i1fEXFkAAAAJ&hl=en,27,1
+423,Hassan Esmaeilzadeh,,Root,,http://scimet.sbu.ac.ir/Hassan_Esmaeilzadeh,https://scholar.google.com/citations?user=toFQ0_4AAAAJ&hl=en,28,1
+312,Reza Asvadi,,Electrical engineering,,http://scimet.sbu.ac.ir/Reza_Asvadi,https://scholar.google.com/citations?user=5ZwXPA4AAAAJ&hl=en,29,1
+307,Hadi Asharioun,Engineering,Computer science,"Department of Computer Engineering, Engineering",http://scimet.sbu.ac.ir/Hadi_Asharioun,https://scholar.google.com/citations?user=TYn-o0gAAAAJ&hl=en,0,0
+140,Changiz Eslahchi,,Mathematics,,http://scimet.sbu.ac.ir/Changiz_Eslahchi,https://scholar.google.com/citations?user=Dr4pU2MAAAAJ&hl=en,30,1
+396,Amir Reza Asnafi,,Root,,http://scimet.sbu.ac.ir/AmirReza_Asnafi,https://scholar.google.com/citations?user=6J3viSAAAAAJ&hl=en,31,1
+387,Marzieh Athari Nikazm,,Root,,http://scimet.sbu.ac.ir/Marzieh_AthariNikazm,https://scholar.google.com/citations?user=gNQRr_kAAAAJ&hl=en,32,1
+121,Seyed Ebrahim Afjei,,Electrical engineering,,http://scimet.sbu.ac.ir/SeyedEbrahim_Afjei,https://scholar.google.com/citations?user=678H5g8AAAAJ&hl=en,0,0
+126,Ali Akbar Afzalian,,Electrical engineering,,http://scimet.sbu.ac.ir/AliAkbar_Afzalian,https://scholar.google.com/citations?user=yE__YGcAAAAJ&hl=en,0,0
+605,Roham Afghani Khoraskani,,Root,,http://scimet.sbu.ac.ir/Roham_AfghaniKhoraskani,https://scholar.google.com/citations?user=j2chfGQAAAAJ&hl=en,33,1
+464,Zeinab Shariatmadari,,Biology,,http://scimet.sbu.ac.ir/Zeinab_Shariatmadari,https://scholar.google.com/citations?user=7S5D4r4AAAAJ&hl=en,34,1
+467,Tayebeh Akbari-Azirani,,Root,,http://scimet.sbu.ac.ir/Tayebeh_AkbariAzirani,https://scholar.google.com/citations?user=e0vFiqoAAAAJ&hl=en,0,0
+568,Saeed Akbari-Zardkhaneh,,Root,,http://scimet.sbu.ac.ir/Saeed_AkbariZardkhaneh,https://scholar.google.com/citations?user=OBiUtOYAAAAJ&hl=en,35,1
+646,Mohammad Emamzadeh,,Mechanical engineering,,http://scimet.sbu.ac.ir/Mohammad_Emamzadeh,https://scholar.google.com/citations?user=cqq9Xd0AAAAJ&hl=en,36,1
+693,Jamal Amani Rad,,Mathematics,,http://scimet.sbu.ac.ir/Jamal_AmaniRad,https://scholar.google.com/citations?user=LA2VT8kAAAAJ&hl=en,37,1
+668,Meisam Omidi,,Root,,http://scimet.sbu.ac.ir/Meisam_Omidi,https://scholar.google.com/citations?user=Omstr-gAAAAJ&hl=en,38,1
+395,Tayyebe Amirkhani,,Economics,,http://scimet.sbu.ac.ir/Tayyebe_Amirkhani,https://scholar.google.com/citations?user=L9sMbVsAAAAJ&hl=en,0,0
+847,Javad Aminian,,Mechanical engineering,,http://scimet.sbu.ac.ir/Javad_Aminian,https://scholar.google.com/citations?user=ASYOu0IAAAAJ&hl=en,39,1
+366,Mohammad Ali Ansari,,Root,,http://scimet.sbu.ac.ir/MohammadAli_Ansari,https://scholar.google.com/citations?user=bXkALgcAAAAJ&hl=en,42,1
+552,Saeed Imani,,Root,,http://scimet.sbu.ac.ir/Saeed_Imani,https://scholar.google.com/citations?user=vBeQsR0AAAAJ&hl=en,44,1
+246,Ayoob Bazgir,,Chemistry,,http://scimet.sbu.ac.ir/Ayoob_Bazgir,https://scholar.google.com/citations?user=8h64GtwAAAAJ&hl=en,46,1
+759,A. B. Shemirani,,Civil engineering,,http://scimet.sbu.ac.ir/AB_Shemirani,https://scholar.google.com/citations?user=-2_B-mEAAAAJ&hl=en,47,1
+633,Zeinab Bagheri,,Biology,,http://scimet.sbu.ac.ir/Zeinab_Bagheri,https://scholar.google.com/citations?user=baZT_ssAAAAJ&hl=en,48,1
+271,Fatemeh Bagherian,,Root,,http://scimet.sbu.ac.ir/Fatemeh_Bagherian,https://scholar.google.com/citations?user=PgmXTkoAAAAJ&hl=en,50,1
+516,Fatemeh Bakouie,,Biomedical engineering,,http://scimet.sbu.ac.ir/Fatemeh_Bakouie,https://scholar.google.com/citations?user=YE5N52MAAAAJ&hl=en,51,1
+272,Sasan Baleghizadeh,,Root,,http://scimet.sbu.ac.ir/Sasan_Baleghizadeh,https://scholar.google.com/citations?user=JabwOWkAAAAJ&hl=en,0,0
+557,Saleheh Bokharaei,,Root,,http://scimet.sbu.ac.ir/Saleheh_Bokharaei,https://scholar.google.com/citations?user=_0A944sAAAAJ&hl=en,53,1
+316,Vahid Badri,,Electrical engineering,,http://scimet.sbu.ac.ir/Vahid_Badri,https://scholar.google.com/citations?user=toDg_f8AAAAJ&hl=en,54,1
+804,Gagik Badalians Gholikandi,,Civil engineering,,http://scimet.sbu.ac.ir/Gagik_BadaliansGholikandi,https://scholar.google.com/citations?user=fTGXY7kAAAAJ&hl=en,0,0
+599,Amir Hossein Barati,,Root,,http://scimet.sbu.ac.ir/AmirHossein_Barati,https://scholar.google.com/citations?user=xPhAjH8AAAAJ&hl=en,0,0
+277,Rajabali Borzooei,,Mathematics,,http://scimet.sbu.ac.ir/Rajabali_Borzooei,https://scholar.google.com/citations?user=ft-caOoAAAAJ&hl=en,0,0
+141,Shahindokht Barghjelveh,,Root,,http://scimet.sbu.ac.ir/Shahindokht_Barghjelveh,https://scholar.google.com/citations?user=roptMe8AAAAJ&hl=en,56,1
+460,Mohammad Reza Boroumand,,Root,,http://scimet.sbu.ac.ir/MohammadReza_Boroumand,https://scholar.google.com/citations?user=vy7G-7AAAAAJ&hl=en,57,1
+225,Danial Basanj,,Root,,http://scimet.sbu.ac.ir/Danial_Basanj,https://scholar.google.com/citations?user=KGP2-dgAAAAJ&hl=en,58,1
+190,Janet Blake,,Political science,,http://scimet.sbu.ac.ir/Janet_Blake,https://scholar.google.com/citations?user=zQ5d0TgAAAAJ&hl=en,59,1
+645,Shahram Bahrami,,Geography,,http://scimet.sbu.ac.ir/Shahram_Bahrami,https://scholar.google.com/citations?user=TuLpFIsAAAAJ&hl=en,61,1
+327,Ehsan Bahrami Samani,,Mathematics,,http://scimet.sbu.ac.ir/Ehsan_BahramiSamani,https://scholar.google.com/citations?user=ymWkdMYAAAAJ&hl=en,62,1
+485,Kaveh Bahrami,,Root,,http://scimet.sbu.ac.ir/Kaveh_Bahrami,https://scholar.google.com/citations?user=9dU62Z4AAAAJ&hl=en,64,1
+53,Mehrdad Behzadi,,Geology,,http://scimet.sbu.ac.ir/Mehrdad_Behzadi,https://scholar.google.com/citations?user=JOjT46IAAAAJ&hl=en,0,0
+837,Mokhtar Bidi,,Mechanical engineering,,http://scimet.sbu.ac.ir/Mokhtar_Bidi,https://scholar.google.com/citations?user=JieAeMwAAAAJ&hl=en,66,1
+300,Mohammad Reza Bigdeli,,Biology,,http://scimet.sbu.ac.ir/MohammadReza_Bigdeli,https://scholar.google.com/citations?user=MH9SnisAAAAJ&hl=en,68,1
+755,Gholam Mohammad Parsanasab,,Electrical engineering,,http://scimet.sbu.ac.ir/GholamMohammad_Parsanasab,https://scholar.google.com/citations?user=ta8Rx-cAAAAJ&hl=en,70,1
+100,Jamileh Pazooki,,Biology,,http://scimet.sbu.ac.ir/Jamileh_Pazooki,https://scholar.google.com/citations?user=SmYsQjcAAAAJ&hl=en,71,1
+78,Shahrokh Pashaei-Rad,,Biology,,http://scimet.sbu.ac.ir/Shahrokh_PashaeiRad,https://scholar.google.com/citations?user=NX7Co0QAAAAJ&hl=en,72,1
+304,Amir Teimour Payandeh Najafabadi,,Mathematics,,http://scimet.sbu.ac.ir/AmirTeimour_PayandehNajafabadi,https://scholar.google.com/citations?user=Ghg08WgAAAAJ&hl=en,73,1
+682,Ali Partovinia,,Chemistry,,http://scimet.sbu.ac.ir/Ali_Partovinia,https://scholar.google.com/citations?user=4z6uTgcAAAAJ&hl=en,74,1
+289,Kourosh Parand,,Mathematics,,http://scimet.sbu.ac.ir/Kourosh_Parand,https://scholar.google.com/citations?user=44wzW2AAAAAJ&hl=en,75,1
+274,Leili Panaghi,,Root,,http://scimet.sbu.ac.ir/Leili_Panaghi,https://scholar.google.com/citations?user=xbZyzeMAAAAJ&hl=en,76,1
+299,Taghi Pourebrahim,,Root,,http://scimet.sbu.ac.ir/Taghi_Pourebrahim,https://scholar.google.com/citations?user=R8rPpIwAAAAJ&hl=en,77,1
+175,Hamidreza Pouretemad,,Root,,http://scimet.sbu.ac.ir/Hamidreza_Pouretemad,https://scholar.google.com/citations?user=D9xz7u0AAAAJ&hl=en,78,1
+263,Mehdi Pourbarat,,Mathematics,,http://scimet.sbu.ac.ir/Mehdi_Pourbarat,https://scholar.google.com/citations?user=CBHOgoIAAAAJ&hl=en,0,0
+787,Mahdi Pourgholi,,Electrical engineering,,http://scimet.sbu.ac.ir/Mahdi_Pourgholi,https://scholar.google.com/citations?user=Hywi9YgAAAAJ&hl=en,79,1
+781,Abolfazl Pirayesh,,Electrical engineering,,http://scimet.sbu.ac.ir/Abolfazl_Pirayesh,https://scholar.google.com/citations?user=yRwVQZYAAAAJ&hl=en,80,1
+42,Mohammad Hassan Peyrovi,,Chemistry,,http://scimet.sbu.ac.ir/MohammadHassan_Peyrovi,https://scholar.google.com/citations?user=ZZSpaVUAAAAJ&hl=en,81,1
+785,Abbas P. Pirhadi,,Electrical engineering,,http://scimet.sbu.ac.ir/AbbasP_Pirhadi,https://scholar.google.com/citations?user=3piHd5MAAAAJ&hl=en,0,0
+708,Khosro Piri,,Root,,http://scimet.sbu.ac.ir/Khosro_Piri,https://scholar.google.com/citations?hl=en&user=2E316UMAAAAJ&view_op,82,1
+456,Mohammad Tahsildoost,,Root,,http://scimet.sbu.ac.ir/Mohammad_Tahsildoost,https://scholar.google.com/citations?user=kuj2uv8AAAAJ&hl=en,83,1
+825,Mohammad Torabi,,Electrical engineering,,http://scimet.sbu.ac.ir/Mohammad_Torabi,https://scholar.google.com/citations?user=4pmq3ZwAAAAJ&hl=en,85,1
+829,Hossein Torkaman,,Electrical engineering,,http://scimet.sbu.ac.ir/Hossein_Torkaman,https://scholar.google.com/citations?user=6lCvwiQAAAAJ&hl=en,90,1
+831,Farah Torkamani Azar,,Electrical engineering,,http://scimet.sbu.ac.ir/Farah_TorkamaniAzar,https://scholar.google.com/citations?user=M16nthYAAAAJ&hl=en,91,1
+417,Mahboubeh Tasviri,,Chemistry,,http://scimet.sbu.ac.ir/Mahboubeh_Tasviri,https://scholar.google.com/citations?user=L-qOjysAAAAJ&hl=en,92,1
+85,Seyed Hassan Taghvaei,,Root,,http://scimet.sbu.ac.ir/Seyedhassan_Taghvaei,https://scholar.google.com/citations?user=vt9Ph4kAAAAJ&hl=en,93,1
+815,Mostafa Taghizadeh,,Mechanical engineering,,http://scimet.sbu.ac.ir/Mostafa_Taghizadeh,https://scholar.google.com/citations?user=7KK3WjQAAAAJ&hl=en,0,0
+628,Mahmood Talkhabi,,Biology,,http://scimet.sbu.ac.ir/Mahmood_Talkhabi,https://scholar.google.com/citations?user=mUs3ySIAAAAJ&hl=en&oi=ao,0,0
+567,Masoud Tohidfar,,Biology,,http://scimet.sbu.ac.ir/Masoud_Tohidfar,https://scholar.google.com/citations?user=utEjprYAAAAJ&hl=en,96,1
+215,Seyed Hassan Tavassoli,,Root,,http://scimet.sbu.ac.ir/SeyedHassan_Tavassoli,https://scholar.google.com/citations?user=sy-GLVkAAAAJ&hl=en,97,1
+45,Jamileh Tavakoli Nia,,Root,,http://scimet.sbu.ac.ir/Jamileh_Tavakolinia,https://scholar.google.com/citations?user=X2aE_T4AAAAJ&hl=en,0,0
+828,Mostafa Tizghadam,,Civil engineering,,http://scimet.sbu.ac.ir/Mostafa_Tizghadam,https://scholar.google.com/citations?user=I7T8zA0AAAAJ&hl=en,98,1
+820,Somayeh Timarchi,Engineering,Computer science,"Department of Computer Engineering, Engineering",http://scimet.sbu.ac.ir/Somayeh_Timarchi,https://scholar.google.com/citations?user=B33hpiUAAAAJ&hl=en,99,1
+28,Ghassem Jaberipur,Engineering,Computer science,"Department of Computer Engineering, Engineering",http://scimet.sbu.ac.ir/Ghassem_Jaberipur,https://scholar.google.com/citations?user=q9EkcAQAAAAJ&hl=en,100,1
+836,Hamid Jannesari,,Mechanical engineering,,http://scimet.sbu.ac.ir/Hamid_Jannesari,https://scholar.google.com/citations?user=eliVchgAAAAJ&hl=en,101,1
+842,Fatemeh Joda,,Chemistry,,http://scimet.sbu.ac.ir/Fatemeh_Joda,https://scholar.google.com/citations?user=ZuT7T3cAAAAJ&hl=en,102,1
+23,Khosrow Jadidi,,Chemistry,,http://scimet.sbu.ac.ir/Khosrow_Jadidi,https://scholar.google.com/citations?user=rz7vxj0AAAAJ&hl=en,103,1
+230,Gholamreza Jafari,,Root,,http://scimet.sbu.ac.ir/Gholamreza_Jafari,https://scholar.google.com/citations?user=GrbUYKMAAAAJ&hl=en,0,0
+720,Afshar Jafari,,Root,,http://scimet.sbu.ac.ir/Afshar_Jafari,https://scholar.google.com/citations?user=2Vi5IxIAAAAJ&hl=en,105,1
+687,Seyed Mohammad Jafari,,Mechanical engineering,,http://scimet.sbu.ac.ir/SeyedMohammad_Jafari,https://scholar.google.com/citations?user=cvUR9tIAAAAJ&hl=en,107,1
+488,Seyed Rahman Djafari Petroudy,,Root,,http://scimet.sbu.ac.ir/SeyedRahman_DjafariPetroudy,https://scholar.google.com/citations?user=jVIUh-kAAAAJ&hl=en,0,0
+531,Kian Jafari,,Electrical engineering,,http://scimet.sbu.ac.ir/Kian_Jafari,https://scholar.google.com/citations?user=pm9Oh8sAAAAJ&hl=en,114,1
+545,Ali Akbar Jalali,,Root,,http://scimet.sbu.ac.ir/AliAkbar_Jalali,https://scholar.google.com/citations?user=mIo31DsAAAAJ&hl=en,0,0
+375,Hossein T. Jalali,,Root,,http://scimet.sbu.ac.ir/HosseinT_Jalali,https://scholar.google.com/citations?user=_6suG4EAAAAJ&hl=en,0,0
+821,Mohammadreza Jalili Ghazizadeh,,Civil engineering,,http://scimet.sbu.ac.ir/Mohammadreza_JaliliGhazizadeh,https://scholar.google.com/citations?user=AV8UGhl_Y74C&hl=en,0,0
+495,Mahdi Jalili Ghazizade,,Root,,http://scimet.sbu.ac.ir/Mahdi_JaliliGhazizade,https://scholar.google.com/citations?user=yTeRqNYAAAAJ&hl=en,115,1
+407,Fazel Jahangiri,,Root,,http://scimet.sbu.ac.ir/Fazel_Jahangiri,https://scholar.google.com/citations?user=2s2hLTUAAAAJ&hl=en,116,1
+620,A. Jahangiri,,Mechanical engineering,,http://scimet.sbu.ac.ir/A_Jahangiri,https://scholar.google.com/citations?user=1CPrnDcAAAAJ&hl=en,0,0
+535,Fatemeh Jahangiri,,Electrical engineering,,http://scimet.sbu.ac.ir/Fatemeh_Jahangiri,https://scholar.google.com/citations?user=I578Gh0AAAAJ&hl=en,139,1
+331,Ali Jahanian,Engineering,Computer science,"Department of Computer Engineering, Engineering",http://scimet.sbu.ac.ir/Ali_Jahanian,https://scholar.google.com/citations?user=EA0uE3kAAAAJ&hl=en,0,0
+662,Mona Cheraghi,,Root,,http://scimet.sbu.ac.ir/Mona_Cheraghi,https://scholar.google.com/citations?user=UUIeXSkAAAAJ&hl=en,144,1
+180,Hossein Hajiabolhassan,,Mathematics,,http://scimet.sbu.ac.ir/Hossein_Hajiabolhassan,https://scholar.google.com/citations?user=-EQNXpMAAAAJ&hl=en,145,1
+430,Bahman Hajipour,,Economics,,http://scimet.sbu.ac.ir/Bahman_Hajipour,https://scholar.google.com/citations?user=V1--b4kAAAAJ&hl=en,146,1
+510,Mohsen Haji Zeinolabedini,,Root,,http://scimet.sbu.ac.ir/Mohsen_HajiZeinolabedini,https://scholar.google.com/citations?user=wfIkj5AAAAAJ&hl=en,147,1
+586,Sepideh Hamedi,,Chemistry,,http://scimet.sbu.ac.ir/Sepideh_Hamedi,https://scholar.google.com/citations?user=p3rQ2aIAAAAJ&hl=en,148,1
+15,Zohreh Habibi,,Chemistry,,http://scimet.sbu.ac.ir/Zohreh_Habibi,https://scholar.google.com/citations?user=_1P7Mo8AAAAJ&hl=en,149,1
+386,Masoud Hajarian,,Mathematics,,http://scimet.sbu.ac.ir/Masoud_Hajarian,https://scholar.google.com/citations?user=F2hPjosAAAAJ&hl=en,152,1
+468,Alireza Hassanzadeh,,Electrical engineering,,http://scimet.sbu.ac.ir/Alireza_Hassanzadeh,https://scholar.google.com/citations?user=q8ayQW0AAAAJ&hl=en,154,1
+354,Amin Hassan Zadeh,,Mathematics,,http://scimet.sbu.ac.ir/Amin_HassanZadeh,https://scholar.google.com/citations?user=IRQZGW0AAAAJ&hl=en,157,1
+744,Hamidollah Hassanlouei,,Root,,http://scimet.sbu.ac.ir/Hamidollah_Hassanlouei,https://scholar.google.com/citations?user=3OSU1NcAAAAJ&hl=en,158,1
+805,Nemat Hassani,,Civil engineering,,http://scimet.sbu.ac.ir/Nemat_Hassani,https://scholar.google.com/citations?user=Z110-8IAAAAJ&hl=en,159,1
+653,Seyedeh Batool Hassani,,Biology,,http://scimet.sbu.ac.ir/SeyedehBatool_Hassani,https://scholar.google.com/citations?user=YJTSxzwAAAAJ&hl=en,160,1
+284,Mohammad Mahdi Hosseinzadeh,,Geography,,http://scimet.sbu.ac.ir/MohammadMahdi_Hosseinzadeh,https://scholar.google.com/citations?user=b-0ZkygAAAAJ&hl=en,161,1
+465,Ali Hosseiny,,Root,,http://scimet.sbu.ac.ir/Ali_Hosseiny,https://scholar.google.com/citations?user=Zb-8angAAAAJ&hl=en,162,1
+213,Mahboubeh Hosseini-Barzi,,Geology,,http://scimet.sbu.ac.ir/Mahboubeh_HosseiniBarzi,https://scholar.google.com/citations?user=kF68J2IAAAAJ&hl=en,163,1
+654,Asal Hosseini Monazzah,,Mechanical engineering,,http://scimet.sbu.ac.ir/Asal_HosseiniMonazzah,https://scholar.google.com/citations?user=rAc0iAkAAAAJ&hl=en,164,1
+429,Farhad Haghjoo,,Electrical engineering,,http://scimet.sbu.ac.ir/Farhad_Haghjoo,https://scholar.google.com/citations?user=L_xB23sAAAAJ&hl=en,165,1
+738,Mohamad Reza Haghjoo,,Mechanical engineering,,http://scimet.sbu.ac.ir/MohamadReza_Haghjoo,https://scholar.google.com/citations?user=mFBwbJMAAAAJ&hl=en,0,0
+337,Hassan Haghighi,Engineering,Computer science,"Department of Computer Engineering, Engineering",http://scimet.sbu.ac.ir/Hassan_Haghighi,https://scholar.google.com/citations?user=rVA_FtIAAAAJ&hl=en,166,1
+818,Ramin Haghighi-Khoshkhoo,,Mechanical engineering,,http://scimet.sbu.ac.ir/Ramin_HaghighiKhoshkhoo,https://scholar.google.com/citations?user=w6HEq-4AAAAJ&hl=en,171,1
+505,Elham Hakimirad,,Root,,http://scimet.sbu.ac.ir/Elham_Hakimirad,https://scholar.google.com/citations?user=qlN53voAAAAJ&hl=en,172,1
+559,Pantea Hakimian,,Root,,http://scimet.sbu.ac.ir/Pantea_Hakimian,https://scholar.google.com/citations?user=6Kwb6rYAAAAJ&hl=en,173,1
+59,Mohammadreza Hamidizadeh,,Economics,,http://scimet.sbu.ac.ir/Mohammadreza_Hamidizadeh,https://scholar.google.com/citations?user=ZPEWOWgAAAAJ&hl=en,0,0
+364,Seyedeh Mehri Hamidi,,Root,,http://scimet.sbu.ac.ir/SeyedehMehri_Hamidi,https://scholar.google.com/citations?user=g9rke6YAAAAJ&hl=en,174,1
+82,Mahmood Heidari,,Root,,http://scimet.sbu.ac.ir/Mahmood_Heidari,https://scholar.google.com/citations?user=hAvACcwAAAAJ&hl=en,175,1
+752,Saghar Heidari,,Mathematics,,http://scimet.sbu.ac.ir/Saghar_Heidari,https://scholar.google.com/citations?user=IZry-j8AAAAJ&hl=en,177,1
+579,Somaiyeh Khaleghi,,Geography,,http://scimet.sbu.ac.ir/Somaiyeh_Khaleghi,https://scholar.google.com/citations?user=gdb-y7MAAAAJ&hl=en,178,1
+647,Mohammad Reza Khani,,Root,,http://scimet.sbu.ac.ir/MohammadReza_Khani,https://scholar.google.com/citations?user=TMquu0wAAAAJ&hl=en,0,0
+444,Mohammad Khodabakhshi,,Mathematics,,http://scimet.sbu.ac.ir/Mohammad_Khodabakhshi,https://scholar.google.com/citations?user=9WBiN1IAAAAJ&hl=en,182,1
+341,Abasalt Khorasani,,Root,,http://scimet.sbu.ac.ir/Abasalt_Khorasani,https://scholar.google.com/citations?user=WrkGWdAAAAAJ&hl=en,186,1
+740,Saeed Reza Kheradpisheh,Engineering,Computer science,"Department of Computer Engineering, Engineering",http://scimet.sbu.ac.ir/SaeedReza_Kheradpisheh,https://scholar.google.com/citations?user=ZisNRVMAAAAJ&hl=en,187,1
+597,Morteza Kheradmandi,,Electrical engineering,,http://scimet.sbu.ac.ir/Morteza_Kheradmandi,https://scholar.google.com/citations?user=Z0m4JHIAAAAJ&hl=en,188,1
+845,I. Khazaee,,Mathematics,,http://scimet.sbu.ac.ir/I_Khazaee,https://scholar.google.com/citations?user=3UEun9gAAAAJ&hl=en,0,0
+199,Homayoun Khazali,,Mechanical engineering,,http://scimet.sbu.ac.ir/Homayoun_Khazali,https://scholar.google.com/citations?user=dLrIUhQAAAAJ&hl=en,189,1
+566,Reza Khosrowabadi,,Biomedical engineering,,http://scimet.sbu.ac.ir/Reza_Khosrowabadi,https://scholar.google.com/citations?user=-FiQKqQAAAAJ&hl=en,190,1
+362,Nima Khosravi,,Root,,http://scimet.sbu.ac.ir/Nima_Khosravi,https://scholar.google.com/citations?user=vbx39IEAAAAJ&hl=en,191,1
+20,Farhad Khellat,,Mathematics,,http://scimet.sbu.ac.ir/Farhad_Khellat,https://scholar.google.com/citations?user=SBrC5FsAAAAJ&hl=en,192,1
+241,Hamid Reza Khavasi,,Chemistry,,http://scimet.sbu.ac.ir/HamidReza_Khavasi,https://scholar.google.com/citations?user=1YWs2QYAAAAJ&hl=en,0,0
+154,Korous Khoshbakht,,Root,,http://scimet.sbu.ac.ir/Korous_Khoshbakht,https://scholar.google.com/citations?user=cYPCtxUAAAAJ&hl=en,193,1
+766,Zahra Daneshjoo,,Mechanical engineering,,http://scimet.sbu.ac.ir/NA_NA6,https://scholar.google.com/citations?user=HiQeCPQAAAAJ&hl=enJ&hl=en,194,1
+2,Parviz Davoodi,,Economics,,http://scimet.sbu.ac.ir/Parviz_Davoodi,https://scholar.google.com/citations?user=aYURIh0AAAAJ&hl=en,195,1
+309,Negar Davari Ardakani,,Root,,http://scimet.sbu.ac.ir/NegarDavari_Ardakani,https://scholar.google.com/citations?user=glRSA9cAAAAJ&hl=en,0,0
+16,Minoo Dabiri,,Chemistry,,http://scimet.sbu.ac.ir/Minoo_Dabiri,https://scholar.google.com/citations?user=-eTIrGIAAAAJ&hl=en,199,1
+54,Hassan Dargahi,,Economics,,http://scimet.sbu.ac.ir/Hassan_Dargahi,https://scholar.google.com/citations?user=eSapCSYAAAAJ&hl=en,201,1
+14,Behrouz Dorri,,Economics,,http://scimet.sbu.ac.ir/Behrouz_Dorri,https://scholar.google.com/citations?user=lAgmB98AAAAJ&hl=en,202,1
+347,Masoomeh Dashtdar,,Root,,http://scimet.sbu.ac.ir/Masoomeh_Dashtdar,https://scholar.google.com/citations?user=BwTGLU4AAAAJ&hl=en,203,1
+593,Ali Dalafi,,Root,,http://scimet.sbu.ac.ir/Ali_Dalafi,https://scholar.google.com/citations?user=EJH3gakAAAAJ&hl=en,204,1
+719,Ehsan Dehyadegari,,Root,,http://scimet.sbu.ac.ir/Ehsan_Dehyadegari,https://scholar.google.com/citations?user=eElIo8AAAAAJ&hl=en,205,1
+232,Mohsen Dehghani,,Root,,http://scimet.sbu.ac.ir/Mohsen_Dehghani,https://scholar.google.com/citations?user=SuOvmQUAAAAJ&hl=en,208,1
+259,Reza Deihimfard,,Root,,http://scimet.sbu.ac.ir/Reza_Deihimfard,https://scholar.google.com/citations?user=RdbKWJgAAAAJ&hl=en,216,1
+248,Ahmad Reza Rastkar,,Materials science,,http://scimet.sbu.ac.ir/AhmadReza_Rastkar,https://scholar.google.com/citations?user=PQwansYAAAAJ&hl=en,217,1
+313,Farhad Raofie,,Chemistry,,http://scimet.sbu.ac.ir/Farhad_Raofie,https://scholar.google.com/citations?user=GMGg7RkAAAAJ&hl=en,218,1
+455,Masood Rabieh,,Economics,,http://scimet.sbu.ac.ir/Masood_Rabieh,https://scholar.google.com/citations?user=RPdjU_RV6GoC&hl=en,219,1
+336,Hassan Rajabi-Maham,,Biology,,http://scimet.sbu.ac.ir/Hassan_RajabiMaham,https://scholar.google.com/citations?user=-12okloAAAAJ&hl=en,220,1
+632,Moones Rahmandoust,,Root,,http://scimet.sbu.ac.ir/Moones_Rahmandoust,https://scholar.google.com/citations?user=A1tTBHMAAAAJ&hl=en,221,1
+798,Kh Rahmani,,Mechanical engineering,,http://scimet.sbu.ac.ir/Kh_Rahmani,https://scholar.google.com/citations?user=N_O3qMQAAAAJ&hl=en,0,0
+463,Ali Rahmatpour,,Chemistry,,http://scimet.sbu.ac.ir/Ali_Rahmatpour,https://scholar.google.com/citations?user=SywFmMcAAAAJ&hl=en,222,1
+758,Dara Rahmati,Engineering,Computer science,"Department of Computer Engineering, Engineering",http://scimet.sbu.ac.ir/Dara_Rahmati,https://scholar.google.com/citations?user=xwJgOl0AAAAJ&hl=en,223,1
+702,Amin Rasam,,Mechanical engineering,,http://scimet.sbu.ac.ir/Amin_Rasam,https://scholar.google.com/citations?user=F5E5BYIAAAAJ&hl=en,224,1
+378,Esmaeil Rasooly Garmaroody,,Root,,http://scimet.sbu.ac.ir/Esmaeil_RasoolyGarmaroody,https://scholar.google.com/citations?user=rk0eNNYAAAAJ&hl=en,225,1
+536,Yousef Rashidi,,Chemistry,,http://scimet.sbu.ac.ir/Yousef_Rashidi,https://scholar.google.com/citations?user=2-c5NncAAAAJ&hl=en,226,1
+810,Abdollah Rashidi Mehrabadi,,Civil engineering,,http://scimet.sbu.ac.ir/Abdollah_RashidiMehrabadi,https://scholar.google.com/citations?user=hMdCWNg-it8C&hl=en,227,1
+438,Hassan Rezadoost,,Chemistry,,http://scimet.sbu.ac.ir/Hassan_Rezadoost,https://scholar.google.com/citations?user=K2wkKtwAAAAJ&hl=en,228,1
+558,Morteza RezaeiZadeh,,Root,,http://scimet.sbu.ac.ir/Morteza_RezaeiZadeh,https://scholar.google.com/citations?user=eWBk4ssAAAAJ&hl=en,0,0
+790,Alireza Reza Rezazade,,Electrical engineering,,http://scimet.sbu.ac.ir/AlirezaReza_Rezazade,https://scholar.google.com/citations?user=zZHU7sMAAAAJ&hl=en,0,0
+673,Abbas Rezaee Shirin-Abadi,,Chemistry,,http://scimet.sbu.ac.ir/Abbas_RezaeeShirinAbadi,https://scholar.google.com/citations?user=uOCggSsAAAAJ&hl=en,230,1
+317,Niloofar Razavi,,Root,,http://scimet.sbu.ac.ir/Niloofar_Razavi,https://scholar.google.com/citations?user=gYuVQIsAAAAJ&hl=en,232,1
+308,Seyed Omid Ranaei-Siadat,,Chemistry,,http://scimet.sbu.ac.ir/SeyedOmid_RanaeiSiadat,https://scholar.google.com/citations?user=1wBvTiIAAAAJ&hl=en,233,1
+206,Hasan Rafati,,Biology,,http://scimet.sbu.ac.ir/Hasan_Rafati,https://scholar.google.com/citations?user=DPAVipwAAAAJ&hl=en,234,1
+788,Mansour Rafiee,,Electrical engineering,,http://scimet.sbu.ac.ir/Mansour_Rafiee,https://scholar.google.com/citations?user=_St2988AAAAJ&hl=en,236,1
+332,Omid Ramezani,,Root,,http://scimet.sbu.ac.ir/Omid_Ramezani,https://scholar.google.com/citations?user=rDjurHoAAAAJ&hl=en,237,1
+843,Abbas Rohani Bastami,,Mechanical engineering,,http://scimet.sbu.ac.ir/Abbas_RohaniBastami,https://scholar.google.com/citations?user=YtyojdAAAAAJ&hl=en,238,1
+476,Hamidreza Rudi,,Root,,http://scimet.sbu.ac.ir/Hamidreza_Rudi,https://scholar.google.com/citations?user=j3zkbssAAAAJ&hl=en,239,1
+839,Abbas Rahi,,Mechanical engineering,,http://scimet.sbu.ac.ir/Abbas_Rahi,https://scholar.google.com/citations?user=5JzTZZ4AAAAJ&hl=en,240,1
+88,Hossein Riahi,,Biology,,http://scimet.sbu.ac.ir/Hossein_Riahi,https://scholar.google.com/citations?user=RULNxhEAAAAJ&hl=en,242,1
+420,Nematollah Riazi,,Root,,http://scimet.sbu.ac.ir/Nematollah_Riazi,https://scholar.google.com/citations?user=XFhAeswAAAAJ&hl=en,244,1
+314,Firoozeh Rivaz,,Mathematics,,http://scimet.sbu.ac.ir/Firoozeh_Rivaz,https://scholar.google.com/citations?user=gR9rwgQAAAAJ&hl=en,245,1
+197,Ali ZadehMohammadi,,Root,,http://scimet.sbu.ac.ir/Ali_ZadehMohammadi,https://scholar.google.com/citations?user=qZAatY8AAAAJ&hl=en,0,0
+648,Mojtaba Zarei,,Root,,http://scimet.sbu.ac.ir/Mojtaba_Zarei,https://scholar.google.com/citations?user=Z7MpoWAAAAAJ&hl=en,246,1
+453,Mostafa Zarei,,Root,,http://scimet.sbu.ac.ir/Mostafa_Zarei,https://scholar.google.com/citations?user=CoS7UakAAAAJ&hl=en,250,1
+64,Mansour Zahedi,,Chemistry,,http://scimet.sbu.ac.ir/Mansour_Zahedi,https://scholar.google.com/citations?user=F1AHi_IAAAAJ&hl=en,251,1
+439,Fariba Zarani,,Root,,http://scimet.sbu.ac.ir/Fariba_Zarani,https://scholar.google.com/citations?user=Q91ZGQwAAAAJ&hl=en,252,1
+554,Mostafa Zamanian,,Civil engineering,,http://scimet.sbu.ac.ir/Mostafa_Zamanian,https://scholar.google.com/citations?user=gYp4EPYAAAAJ&hl=en,0,0
+714,Zahra Sadat Zomorodian,,Root,,http://scimet.sbu.ac.ir/ZahraSadat_Zomorodian,https://scholar.google.com/citations?user=n4hTOuQAAAAJ&hl=en,0,0
+324,Majid Zandi,,Electrical engineering,,http://scimet.sbu.ac.ir/Majid_Zandi,https://scholar.google.com/citations?user=oe7hbmMAAAAJ&hl=en,255,1
+276,Mostafa Zandieh,,Root,,http://scimet.sbu.ac.ir/Mostafa_Zandieh,https://scholar.google.com/citations?user=B7sh5ecAAAAJ&hl=en,256,1
+410,Mohammad Ismail Zibaii,,Root,,http://scimet.sbu.ac.ir/MohammadIsmail_Zibaii,https://scholar.google.com/citations?user=HHmGVrkAAAAJ&hl=en,257,1
+31,Siamak S. Gousheh,,Root,,http://scimet.sbu.ac.ir/SiamakS_Gousheh,https://scholar.google.com/citations?user=rAghMMYAAAAJ&hl=en,258,1
+615,Amir Saedi-Daryan,,Civil engineering,,http://scimet.sbu.ac.ir/Amir_SaediDaryan,https://scholar.google.com/citations?user=pyld0x0AAAAJ&hl=en,259,1
+809,Ahmad Salemnia,,Electrical engineering,,http://scimet.sbu.ac.ir/Ahmad_Salemnia,https://scholar.google.com/citations?user=h5G0CjUAAAAJ&hl=en,260,1
+283,Amir Salemi,,Chemistry,,http://scimet.sbu.ac.ir/Amir_Salemi,https://scholar.google.com/citations?user=hSlsjy4AAAAJ&hl=en,261,1
+812,Mohammad Sadegh Sepasian,,Electrical engineering,,http://scimet.sbu.ac.ir/MohammadSadegh_Sepasian,https://scholar.google.com/citations?user=olqnjFkAAAAJ&hl=en,264,1
+60,Hamid Reza Sepangi,,Root,,http://scimet.sbu.ac.ir/HamidReza_Sepangi,https://scholar.google.com/citations?user=Q6RZJM0AAAAJ&hl=en,265,1
+656,Roohollah Sarfaraz,,Mechanical engineering,,http://scimet.sbu.ac.ir/Roohollah_Sarfaraz,https://scholar.google.com/citations?user=dnEAGj0AAAAJ&hl=en,266,1
+270,Abbas Saidi,,Biology,,http://scimet.sbu.ac.ir/Abbas_Saidi,https://scholar.google.com/citations?user=dE4uVGUAAAAJ&hl=en,267,1
+563,Yahya Sefidbakht,,Biology,,http://scimet.sbu.ac.ir/Yahya_Sefidbakht,https://scholar.google.com/citations?user=_txoZKkAAAAJ&hl=en,268,1
+572,Neda Soleimani,,Biology,,http://scimet.sbu.ac.ir/Neda_Soleimani,https://scholar.google.com/citations?user=Gry5G7gAAAAJ&hl=en,269,1
+576,Hadi Soleimany,Engineering,Computer science,"Department of Computer Engineering, Engineering",http://scimet.sbu.ac.ir/Hadi_Soleimany,https://scholar.google.com/citations?user=AfBHVmcAAAAJ&hl=en,273,1
+762,Armin Salimi-Badr,Engineering,Computer science,"Department of Computer Engineering, Engineering",http://scimet.sbu.ac.ir/Armin_SalimiBadr,https://scholar.google.com/citations?user=akmKmMQAAAAJ&hl=en,274,1
+540,Negar Sammaknejad,,Root,,http://scimet.sbu.ac.ir/Negar_Sammaknejad,https://scholar.google.com/citations?user=kRtFl5UAAAAJ&hl=en,275,1
+841,Mahmood Sameezadeh,,Mechanical engineering,,http://scimet.sbu.ac.ir/Mahmood_Sameezadeh,https://scholar.google.com/citations?user=Ww6BY4gAAAAJ&hl=en,276,1
+170,Ali Sonboli,,Biology,,http://scimet.sbu.ac.ir/Ali_Sonboli,https://scholar.google.com/citations?user=5_jA9yUAAAAJ&hl=en,277,1
+562,Mohammad Hossein Soorgee,,Mechanical engineering,,http://scimet.sbu.ac.ir/MohammadHossein_Soorgee,https://scholar.google.com/citations?user=yy2KMB8AAAAJ&hl=en,279,1
+89,Saied Saeed Hosseiny Davarani,,Chemistry,,http://scimet.sbu.ac.ir/SaiedSaeed_HosseinyDavarani,https://scholar.google.com/citations?user=YS2GBkUAAAAJ&hl=en,280,1
+474,Parisa Sadat Seyed Mousavi,,Root,,http://scimet.sbu.ac.ir/ParisaSadatSeyed_Mousavi,https://scholar.google.com/citations?user=f9bQ7CwAAAAJ&hl=en,281,1
+527,Hossein Simayi Sarraf,,Political science,,http://scimet.sbu.ac.ir/HosseinSimayi_Sarraf,https://scholar.google.com/citations?user=6GH4hHcAAAAJ&hl=en,0,0
+667,Alireza Shameli-Sendi,Engineering,Computer science,"Department of Computer Engineering, Engineering",http://scimet.sbu.ac.ir/Alireza_ShameliSendi,https://scholar.google.com/citations?user=4LpwekoAAAAJ&hl=en,282,1
+422,M. S. Shahrokhi-Dehkordi,,Mathematics,,http://scimet.sbu.ac.ir/MS_ShahrokhiDehkordi,https://scholar.google.com/citations?user=h7K1YdIAAAAJ&hl=en,283,1
+613,Hosein Shahsavarani,,Biology,,http://scimet.sbu.ac.ir/Hosein_Shahsavarani,https://scholar.google.com/citations?user=L1M3xbcAAAAJ&hl=en,284,1
+282,Hossein Shojaie,,Root,,http://scimet.sbu.ac.ir/Hossein_Shojaie,https://scholar.google.com/citations?user=om3mMtYAAAAJ&hl=en,285,1
+608,Mohsen Shariatinia,,Economics,,http://scimet.sbu.ac.ir/Mohsen_Shariatinia,https://scholar.google.com/citations?user=7wHRC3wAAAAJ&hl=en,286,1
+48,Mohammad Hossein Sharifzadegan,,Root,,http://scimet.sbu.ac.ir/MohammadHossein_Sharifzadegan,https://scholar.google.com/citations?user=ztIZcY0AAAAJ&hl=en,287,1
+32,Masood Sharifi,,Root,,http://scimet.sbu.ac.ir/Masood_Sharifi,https://scholar.google.com/citations?user=Lj1XgrQAAAAJ&hl=en,0,0
+661,Shirin Shoaee,,Mathematics,,http://scimet.sbu.ac.ir/Shirin_Shoaee,https://scholar.google.com/citations?user=hSe_uz4AAAAJ&hl=en,288,1
+76,Ahmad Shaabani,,Chemistry,,http://scimet.sbu.ac.ir/Ahmad_Shaabani,https://scholar.google.com/citations?user=rcpRgmcAAAAJ&hl=en,289,1
+660,Javad Shabani Shayeh,,Chemistry,,http://scimet.sbu.ac.ir/Javad_ShabaniShayeh,https://scholar.google.com/citations?user=Z7jAeVUAAAAJ&hl=en,290,1
+405,Naser Shafiei Sabet,,Geography,,http://scimet.sbu.ac.ir/Naser_ShafieiSabet,https://scholar.google.com/citations?user=wkgB0sIAAAAJ&hl=en,291,1
+388,Ahmad Shekarchi,,Sociology,,http://scimet.sbu.ac.ir/Ahmad_Shekarchi,https://scholar.google.com/citations?user=7GHzPAEAAAAJ&hl=en,293,1
+115,Babak Shokri,,Root,,http://scimet.sbu.ac.ir/Babak_Shokri,https://scholar.google.com/citations?user=nReZzkgAAAAJ&hl=en,294,1
+325,Mohammad Reza Shokri,,Biology,,http://scimet.sbu.ac.ir/MohammadReza_Shokri,https://scholar.google.com/citations?user=eDHRrNoAAAAJ&hl=en,295,1
+609,Yasser Shekofteh,,Root,,http://scimet.sbu.ac.ir/Yasser_Shekofteh,https://scholar.google.com/citations?user=9iMasqcAAAAJ&hl=en,297,1
+503,Sajjad Shokouhyar,,Root,,http://scimet.sbu.ac.ir/Sajjad_Shokouhyar,https://scholar.google.com/citations?user=HcBRd18AAAAJ&hl=en,298,1
+323,Gholamreza Shams,,Root,,http://scimet.sbu.ac.ir/Gholamreza_Shams,https://scholar.google.com/citations?user=qii5bzMAAAAJ&hl=en,299,1
+260,Fereidoon Shams Aliee,Engineering,Computer science,"Department of Computer Engineering, Engineering",http://scimet.sbu.ac.ir/Fereidoon_ShamsAliee,https://scholar.google.com/citations?user=WacQk64AAAAJ&hl=en,301,1
+212,Mehrnoush Shamsfard,Engineering,Computer science,"Department of Computer Engineering, Engineering",http://scimet.sbu.ac.ir/Mehrnoush_Shamsfard,https://scholar.google.com/citations?user=BVAsKDsAAAAJ&hl=en,302,1
+832,Mojtaba Shourian,,Civil engineering,,http://scimet.sbu.ac.ir/Mojtaba_Shourian,https://scholar.google.com/citations?user=gnNGeRgAAAAJ&hl=en,303,1
+403,Afsaneh Shahbazi,,Root,,http://scimet.sbu.ac.ir/Afsaneh_Shahbazi,https://scholar.google.com/citations?user=CnTMQQ4AAAAJ&hl=en,304,1
+279,Shant Shahbazian,,Chemistry,,http://scimet.sbu.ac.ir/Shant_Shahbazian,https://scholar.google.com/citations?user=R88Zz30AAAAJ&hl=en,305,1
+62,Shahriar Shahidi,,Root,,http://scimet.sbu.ac.ir/Shahriar_Shahidi,https://scholar.google.com/citations?user=p6_8xTEAAAAJ&hl=en,306,1
+8,Masoud Sheidai,,Biology,,http://scimet.sbu.ac.ir/Masoud_Sheidai,https://scholar.google.com/citations?user=oUaqB84AAAAJ&hl=en,0,0
+840,Mahmoud Reza Shiravand,,Civil engineering,,http://scimet.sbu.ac.ir/MahmoudReza_Shiravand,https://scholar.google.com/citations?user=a0y0ul4AAAAJ&hl=en,0,0
+659,Zeinab Shirvani Farsani,,Biology,,http://scimet.sbu.ac.ir/Zeinab_ShirvaniFarsani,https://scholar.google.com/citations?user=hMaezfUAAAAJ&hl=en,308,1
+791,Arash Sadeghzadeh,,Electrical engineering,,http://scimet.sbu.ac.ir/Arash_Sadeghzadeh,https://scholar.google.com/citations?user=R0fIejYAAAAJ&hl=en,309,1
+541,Ali Sadeghi,,Root,,http://scimet.sbu.ac.ir/Ali_Sadeghi,https://scholar.google.com/citations?user=nHrTjV4AAAAJ&hl=en,313,1
+858,Saeid Sadeghi,,Root,,http://scimet.sbu.ac.ir/Saeid_Sadeghi,https://scholar.google.com/citations?user=dOZR8yAAAAAJ&hl=en,345,1
+371,Mansoureh Sadat Sadeghi,,Root,,http://scimet.sbu.ac.ir/MansourehSadat_Sadeghi,https://scholar.google.com/citations?user=3PYB2isAAAAJ&hl=en,348,1
+819,Mohammad Safi,,Civil engineering,,http://scimet.sbu.ac.ir/Mohammad_Safi,https://scholar.google.com/citations?user=Qoe_35kAAAAJ&hl=en,358,1
+146,Peyman Salehi,,Chemistry,,http://scimet.sbu.ac.ir/Peyman_Salehi,https://scholar.google.com/citations?user=E8BWXvkAAAAJ&hl=en,359,1
+522,Roya Sedghi,,Chemistry,,http://scimet.sbu.ac.ir/Roya_Sedghi,https://scholar.google.com/citations?user=xHnuvYkAAAAJ&hl=en,362,1
+794,Seyed Mohammad Sajad Sadough,,Electrical engineering,,http://scimet.sbu.ac.ir/SeyedMohammadSajad_Sadough,https://scholar.google.com/citations?user=vcorxAMAAAAJ&hl=en,363,1
+811,Mostafa Sedighizadeh,,Electrical engineering,,http://scimet.sbu.ac.ir/Mostafa_Sedighizadeh,https://scholar.google.com/citations?user=p5EhHCkAAAAJ&hl=en,364,1
+9,Mozaffar Sarrafi,,Root,,http://scimet.sbu.ac.ir/Mozaffar_Sarrafi,https://scholar.google.com/citations?user=RVTOLwIAAAAJ&hl=en,366,1
+311,Farshad Safaei,Engineering,Computer science,"Department of Computer Engineering, Engineering",http://scimet.sbu.ac.ir/Farshad_Safaei,https://scholar.google.com/citations?user=RyYg7HcAAAAJ&hl=en,367,1
+846,Hamid Saffari,,Civil engineering,,http://scimet.sbu.ac.ir/Hamid_Saffari,https://scholar.google.com/citations?user=3VqFm5MAAAAJ&hl=en,369,1
+441,Mohammad Hossein Safarzadeh,,Economics,,http://scimet.sbu.ac.ir/MohammadHossein_Safarzadeh,https://scholar.google.com/citations?user=aUiu6jEAAAAJ&hl=en,371,1
+74,Nasser Safari,,Root,,http://scimet.sbu.ac.ir/Nasser_Safari,https://scholar.google.com/citations?user=5ZvyvQ0AAAAJ&hl=en,372,1
+748,Kianoosh Samimi,,Civil engineering,,http://scimet.sbu.ac.ir/Kianoosh_Samimi,https://scholar.google.com/citations?user=chSBqzgAAAAJ&hl=en,373,1
+658,Parastoo Saniee,,Economics,,http://scimet.sbu.ac.ir/Parastoo_Saniee,https://scholar.google.com/citations?user=lJPGGg4AAAAJ&hl=en,374,1
+255,Alireza R. Talebpour,Engineering,Computer science,"Department of Computer Engineering, Engineering",http://scimet.sbu.ac.ir/AlirezaR_Talebpour,https://scholar.google.com/citations?user=YbivTTUAAAAJ&hl=en,0,0
+92,Mansoureh Tahbaz,,Root,,http://scimet.sbu.ac.ir/Mansoureh_Tahbaz,https://scholar.google.com/citations?user=8ga3pFQAAAAJ&hl=en,375,1
+344,Ali Reza Taheriyoun,,Mathematics,,http://scimet.sbu.ac.ir/AliReza_Taheriyoun,https://scholar.google.com/citations?user=eG0NO0IAAAAJ&hl=en,376,1
+849,Hadi Tabatabaee Malazi,Engineering,Computer science,"Department of Computer Engineering, Engineering",http://scimet.sbu.ac.ir/Hadi_TabatabaeeMalazi,https://scholar.google.com/citations?user=QK5XARsAAAAJ&hl=en,377,1
+102,Gholam Ali Tabarsa,,Economics,,http://scimet.sbu.ac.ir/GholamAli_Tabarsa,https://scholar.google.com/citations?user=C4dmDM4AAAAJ&hl=en,378,1
+716,Shima Tabibian,Engineering,Computer science,"Department of Computer Engineering, Engineering",http://scimet.sbu.ac.ir/Shima_Tabibian,https://scholar.google.com/citations?user=g923zsoAAAAJ&hl=en,379,1
+229,A. S. Toloei,,Root,,http://scimet.sbu.ac.ir/AS_Toloei,https://scholar.google.com/citations?user=dYN1BSsAAAAJ&hl=en,0,0
+101,Mohammad Mehdi Tehranchi,,Root,,http://scimet.sbu.ac.ir/MohammadMehdi_Tehranchi,https://scholar.google.com/citations?user=fIcctdAAAAAJ&hl=en,380,1
+363,Maryam Tahmasbi,,Mathematics,,http://scimet.sbu.ac.ir/Maryam_Tahmasbi,https://scholar.google.com/citations?user=GAmey8oAAAAJ&hl=en,381,1
+665,Masoud Tahmasian,,Root,,http://scimet.sbu.ac.ir/Masoud_Tahmasian,https://scholar.google.com/citations?user=nOke9lkAAAAJ&hl=en,382,1
+721,Mahdi Zarif,,Chemistry,,http://scimet.sbu.ac.ir/Mahdi_Zarif,https://scholar.google.com/citations?user=vgRa3hEAAAAJ&hl=en,384,1
+1,Kambiz Abedi,,Electrical engineering,,http://scimet.sbu.ac.ir/Kambiz_Abedi,https://scholar.google.com/citations?user=RJ_tFn0AAAAJ&hl=en,385,1
+22,Mostafa Abedi,,Electrical engineering,,http://scimet.sbu.ac.ir/Mostafa_Abedi,https://scholar.google.com/citations?user=wN8O-AIAAAAJ&hl=en,386,1
+765,NA NA,,Mechanical engineering,,http://scimet.sbu.ac.ir/NA_NA5,https://scholar.google.com/citations?user=qMjlmOQAAAAJ&hl=en&oi=ao,0,0
+77,Mahboobeh Arefi,,Root,,http://scimet.sbu.ac.ir/Mahboobeh_Arefi,https://scholar.google.com/citations?user=0_ShO58AAAAJ&hl=en,2047,1
+234,Davoud Ashourloo,,Civil engineering,,http://scimet.sbu.ac.ir/Davoud_Ashourloo,https://scholar.google.com/citations?user=mDcBA3oAAAAJ&hl=en,2048,1
+41,Akbar Alemtabriz,,Economics,,http://scimet.sbu.ac.ir/Akbar_Alemtabriz,https://scholar.google.com/citations?user=CTKR1lsAAAAJ&hl=en,0,0
+783,Mohammad Ameri,,Mechanical engineering,,http://scimet.sbu.ac.ir/Mohammad_Ameri,https://scholar.google.com/citations?user=l9zSjhgAAAAJ&hl=en,2049,1
+287,Mohammad Taghi Ameli,,Electrical engineering,,http://scimet.sbu.ac.ir/MohammadTaghi_Ameli,https://scholar.google.com/citations?user=vthQ4Z4AAAAJ&hl=en,2056,1
+250,Maghsoud Abbaspour,,Electrical engineering,,http://scimet.sbu.ac.ir/Maghsoud_Abbaspour,https://scholar.google.com/citations?user=vLIFw30AAAAJ&hl=en,2057,1
+624,Maryam Abbasi,,Civil engineering,,http://scimet.sbu.ac.ir/Maryam_Abbasi,https://scholar.google.com/citations?user=H2oN1vEAAAAJ&hl=en,2058,1
+751,Shehu S AbdusSalam,,Root,,http://scimet.sbu.ac.ir/ShehuS_AbdusSalam,https://scholar.google.com/citations?user=FXV4ymAAAAAJ&hl=en,2074,1
+470,Ali Abdollahi,,Economics,,http://scimet.sbu.ac.ir/Ali_Abdollahi,https://scholar.google.com/citations?user=dBSIQssAAAAJ&hl=en,2079,1
+732,Zahra Abdekhodaie,,Root,,http://scimet.sbu.ac.ir/Zahra_Abdekhodaie,https://scholar.google.com/citations?user=pwCgYdIAAAAJ&hl=en,2091,1
+247,Asghar Abdoli,,Biology,,http://scimet.sbu.ac.ir/Asghar_Abdoli,https://scholar.google.com/citations?user=5nCLhXYAAAAJ&hl=en,2093,1
+65,Behrouz Abdoli,,Root,,http://scimet.sbu.ac.ir/Behrouz_Abdoli,https://scholar.google.com/citations?user=C9EnqIMAAAAJ&hl=en,2095,1
+529,Monireh Abdoos,Engineering,Computer science,"Department of Computer Engineering, Engineering",http://scimet.sbu.ac.ir/Monireh_Abdoos,https://scholar.google.com/citations?user=SxxCUagAAAAJ&hl=en,2096,1
+83,Ali Akbar Arabmaazar,,Economics,,http://scimet.sbu.ac.ir/AliAkbar_Arabmaazar,https://scholar.google.com/citations?user=v-yhXc8AAAAJ&hl=en,0,0
+4,Mohammad Arabmazar Yazdi,,Economics,,http://scimet.sbu.ac.ir/Mohammad_ArabmazarYazdi,https://scholar.google.com/citations?user=0CxVz-MAAAAJ&hl=en,2349,1
+526,Atoosa Sadat Arabaniàn,,Root,,http://scimet.sbu.ac.ir/AtoosaSadat_Arabanin,https://scholar.google.com/citations?user=1Zr8YLQAAAAJ&hl=en,0,0
+650,Eslam Ezzatneshan,,Root,,http://scimet.sbu.ac.ir/Eslam_Ezzatneshan,https://scholar.google.com/citations?user=cH4cCxIAAAAJ&hl=en,2098,1
+345,Shahriar Azizi,,Economics,,http://scimet.sbu.ac.ir/Shahriar_Azizi,https://scholar.google.com/citations?user=Wfth8asAAAAJ&hl=en,2099,1
+339,Vahid Azizi,,Biology,,http://scimet.sbu.ac.ir/Vahid_Azizi,https://scholar.google.com/citations?user=6Cr-R-kAAAAJ&hl=en,2103,1
+320,Hossein Askari,,Biology,,http://scimet.sbu.ac.ir/Hossein_Askari,https://scholar.google.com/citations?user=6BEr_OoAAAAJ&hl=en,2105,1
+638,Seyed Hosein Attarzadeh-Niaki,Engineering,Computer science,"Department of Computer Engineering, Engineering",http://scimet.sbu.ac.ir/SeyedHosein_AttarzadehNiaki,https://scholar.google.com/citations?user=C51ASWgAAAAJ&hl=en,2110,1
+617,Hossein Aghighi,,Root,,http://scimet.sbu.ac.ir/Hossein_Aghighi,https://scholar.google.com/citations?user=pzLrAYIAAAAJ&hl=en,2111,1
+569,Matin Alaghmandan,,Root,,http://scimet.sbu.ac.ir/Matin_Alaghmandan,https://scholar.google.com/citations?user=LfXlrK8AAAAJ&hl=en,2112,1
+419,Atousa Aliahmadi,,Biology,,http://scimet.sbu.ac.ir/Atousa_Aliahmadi,https://scholar.google.com/citations?user=3v57rX0AAAAJ&hl=en,2113,1
+498,Mohammad Ali-Akbari,,Root,,http://scimet.sbu.ac.ir/Mohammad_AliAkbari,https://scholar.google.com/citations?user=44lqUlsAAAAJ&hl=en,2114,1
+621,Sadegh Aliakbary,Engineering,Computer science,"Department of Computer Engineering, Engineering",http://scimet.sbu.ac.ir/Sadegh_Aliakbary,https://scholar.google.com/citations?user=BOt4e6UAAAAJ&hl=en,2116,1
+442,Farshad Alijani,,Root,,http://scimet.sbu.ac.ir/Farshad_Alijani,https://scholar.google.com/citations?user=BC_eymIAAAAJ&hl=en,2117,1
+822,Saeed Alimohammadi,,Civil engineering,,http://scimet.sbu.ac.ir/Saeed_Alimohammadi,https://scholar.google.com/citations?user=TUPpHRgAAAAJ&hl=en,2118,1
+187,Saeed Alirezaei,,Root,,http://scimet.sbu.ac.ir/Saeed_Alirezaei,https://scholar.google.com/citations?user=D2jOcksAAAAJ&hl=en,2119,1
+590,Ebrahim Alizadeh,,Root,,http://scimet.sbu.ac.ir/Ebrahim_Alizadeh,https://scholar.google.com/citations?user=RLaNGFkAAAAJ&hl=en,2124,1
+262,Mohammad Reza Anani Sarab,,Root,,http://scimet.sbu.ac.ir/MohammadReza_AnaniSarab,https://scholar.google.com/citations?user=hRlkfmIAAAAJ&hl=en,2126,1
+686,Ashkan Ayough,,Economics,,http://scimet.sbu.ac.ir/Ashkan_Ayough,https://scholar.google.com/citations?user=sNQ_CnMAAAAJ&hl=en,2127,1
+369,Davood Gharavian,,Electrical engineering,,http://scimet.sbu.ac.ir/Davood_Gharavian,https://scholar.google.com/citations?user=dC2EmS8AAAAJ&hl=en,2128,1
+736,Shahriar Gharibzadeh,,Root,,http://scimet.sbu.ac.ir/Shahriar_Gharibzadeh,https://scholar.google.com/citations?user=A7Yo9AIAAAAJ&hl=en,2129,1
+326,Alireza Farsi,,Root,,http://scimet.sbu.ac.ir/Alireza_Farsi,https://scholar.google.com/citations?user=WJnS2sIAAAAJ&hl=en,2130,1
+110,Hassan Farsijani,,Economics,,http://scimet.sbu.ac.ir/Hassan_Farsijani,https://scholar.google.com/citations?user=TPMnymUAAAAJ&hl=en,0,0
+501,Reza Fareghbal,,Root,,http://scimet.sbu.ac.ir/Reza_Fareghbal,https://scholar.google.com/citations?user=GugaYn4AAAAJ&hl=en,2131,1
+583,Fataneh Fatemi,,Root,,http://scimet.sbu.ac.ir/Fataneh_Fatemi,https://scholar.google.com/citations?user=bEc6s7MAAAAJ&hl=en,2132,1
+303,Jalil Fathabadi,,Root,,http://scimet.sbu.ac.ir/Jalil_Fathabadi,https://scholar.google.com/citations?user=LbtqJ6wAAAAJ&hl=en,2133,1
+119,Kourosh Fathi Vajargah,,Root,,http://scimet.sbu.ac.ir/Kourosh_FathiVajargah,https://scholar.google.com/citations?user=2r-vLl8AAAAJ&hl=en,2134,1
+561,Vahid Fakhari,,Mechanical engineering,,http://scimet.sbu.ac.ir/Vahid_Fakhari,https://scholar.google.com/citations?user=OmlTXk0AAAAJ&hl=en,2135,1
+105,Ali Reza Fakhari,,Chemistry,,http://scimet.sbu.ac.ir/AliReza_Fakhari,https://scholar.google.com/citations?user=RD84ElMAAAAJ&hl=en,2136,1
+406,Hadi Farahani,,Mathematics,,http://scimet.sbu.ac.ir/Hadi_Farahani,https://scholar.google.com/citations?user=N4TgzzoAAAAJ&hl=en,2138,1
+575,Naser Farrokhi,,Biology,,http://scimet.sbu.ac.ir/Naser_Farrokhi,https://scholar.google.com/citations?user=ioUXQlUAAAAJ&hl=en,2141,1
+384,Mohsen Farzaneh,,Biology,,http://scimet.sbu.ac.ir/Mohsen_Farzaneh,https://scholar.google.com/citations?user=fn1gEsQAAAAJ&hl=en,2144,1
+543,Marzieh Farhang,,Root,,http://scimet.sbu.ac.ir/Marzieh_Farhang,https://scholar.google.com/citations?user=bSwfd5oAAAAJ&hl=en,2145,1
+5,Mehrdad Farhoudi,,Root,,http://scimet.sbu.ac.ir/Mehrdad_Farhoudi,https://scholar.google.com/citations?user=z11OaH4AAAAJ&hl=en,2146,1
+228,Mohammad Reza Farid-Rohani,,Mathematics,,http://scimet.sbu.ac.ir/MohammadReza_FaridRohani,https://scholar.google.com/citations?user=pJpU1gUAAAAJ&hl=en,0,0
+242,Shirin Farivar,,Biology,,http://scimet.sbu.ac.ir/Shirin_Farivar,https://scholar.google.com/citations?user=7dRJeL4AAAAJ&hl=en,0,0
+627,Mohamad Fashi,,Root,,http://scimet.sbu.ac.ir/Mohamad_Fashi,https://scholar.google.com/citations?user=pqMYyBwAAAAJ&hl=en,0,0
+404,Mahmood Fazlali,Engineering,Computer science,"Department of Computer Engineering, Engineering",http://scimet.sbu.ac.ir/Mahmood_Fazlali,https://scholar.google.com/citations?user=rFMuExEAAAAJ&hl=en,2149,1
+174,Mohammad Reza Faghihi,,Mathematics,,http://scimet.sbu.ac.ir/MohammadReza_Faghihi,https://scholar.google.com/citations?user=P4rfBmEAAAAJ&hl=en,0,0
+709,Alireza Fallahi,,Root,,http://scimet.sbu.ac.ir/Alireza_Fallahi,https://scholar.google.com/citations?user=4jAME1oAAAAJ&hl=en,2151,1
+130,Zohreh Fanni,,Root,,http://scimet.sbu.ac.ir/Zohreh_Fanni,https://scholar.google.com/citations?user=Fj6cQgcAAAAJ&hl=en,2158,1
+391,Raana Fayaz Millani,,Root,,http://scimet.sbu.ac.ir/Raana_Fayazmillani,https://scholar.google.com/citations?user=Pn7wF5QAAAAJ&hl=en,0,0
+433,Masumeh Ghasemkhani,,Root,,http://scimet.sbu.ac.ir/Masumeh_Ghasemkhani,https://scholar.google.com/citations?user=N3X5G9gAAAAJ&hl=en,0,0
+149,Alireza Ghassempour,,Chemistry,,http://scimet.sbu.ac.ir/Alireza_Ghassempour,https://scholar.google.com/citations?user=ZiePVXIAAAAJ&hl=en,2159,1
+477,Rouhallah Ghasemi,,Root,,http://scimet.sbu.ac.ir/Rouhallah_Ghasemi,https://scholar.google.com/citations?user=HvDjnT8AAAAJ&hl=en,0,0
+412,Mohammad Sadegh Ghazizadeh,,Electrical engineering,,http://scimet.sbu.ac.ir/MohammadSadegh_Ghazizadeh,https://scholar.google.com/citations?user=XAYhjzoAAAAJ&hl=en,2160,1
+728,Payam Ghorbannezhad,,Root,,http://scimet.sbu.ac.ir/Payam_Ghorbannezhad,https://scholar.google.com/citations?user=ZG3Une4AAAAJ&hl=en,2161,1
+500,Mohammad Ghorbanalilu,,Root,,http://scimet.sbu.ac.ir/Mohammad_Ghorbanalilu,https://scholar.google.com/citations?user=K1QSHB0AAAAJ&hl=en,2162,1
+150,Mansour Ghorbani,,Root,,http://scimet.sbu.ac.ir/Mansour_Ghorbani,https://scholar.google.com/citations?user=NiUR0gwAAAAJ&hl=en,2163,1
+424,Seyed Ali Ghorashi,,Electrical engineering,,http://scimet.sbu.ac.ir/SeyedAli_Ghorashi,https://scholar.google.com/citations?user=5aUmAGYAAAAJ&hl=en,2165,1
+689,Ali Akbar Ghotbi-Ravandi,,Biology,,http://scimet.sbu.ac.ir/AliAkbar_GhotbiRavandi,https://scholar.google.com/citations?user=KmVDMVgAAAAJ&hl=en,2167,1
+421,Mohammad Reza Ghalamboran,,Biology,,http://scimet.sbu.ac.ir/MohammadReza_Ghalamboran,https://scholar.google.com/citations?user=PeoytG4AAAAJ&hl=en,2168,1
+413,Alireza R. Gholipour,,Electrical engineering,,http://scimet.sbu.ac.ir/AlirezaR_Gholipour,https://scholar.google.com/citations?user=bgAAP3wAAAAJ&hl=en,2169,1
+222,Hamidreza Ghomi Marzdashti,,Root,,http://scimet.sbu.ac.ir/Hamidreza_GhomiMarzdashti,https://scholar.google.com/citations?user=AoDMCigAAAAJ&hl=en,0,0
+329,S. A.M. Ghannadpour,,Root,,http://scimet.sbu.ac.ir/SAM_Ghannadpour,https://scholar.google.com/citations?user=_QJ2OMYAAAAJ&hl=en,0,0
+181,Majid Ghanaatshoar,,Root,,http://scimet.sbu.ac.ir/Majid_Ghanaatshoar,https://scholar.google.com/citations?user=INMBcc8AAAAJ&hl=en,2170,1
+399,Saeed Ghanbari,,Root,,http://scimet.sbu.ac.ir/Saeed_Ghanbari,https://scholar.google.com/citations?user=PIYncFoAAAAJ&hl=en,2172,1
+161,Ramak Ghavamizadeh Meibodi,,Root,,http://scimet.sbu.ac.ir/Ramak_GhavamizadehMeibodi,https://scholar.google.com/citations?user=3tPIa4cAAAAJ&hl=en,0,0
+537,Morteza Ghourchi,,Root,,http://scimet.sbu.ac.ir/Morteza_Ghourchi,https://scholar.google.com/citations?user=5_eCsm0AAAAJ&hl=en,2178,1
+340,Manijeh Ghahroudi Tali,,Root,,http://scimet.sbu.ac.ir/Manijeh_GhahroudiTali,https://scholar.google.com/citations?user=95pEkeYAAAAJ&hl=en,0,0
+696,Mahdi Gheitasi,,Root,,http://scimet.sbu.ac.ir/Mahdi_Gheitasi,https://scholar.google.com/citations?user=8Zm1V8EAAAAJ&hl=en,0,0
+585,Hossein Kazemi Karegar,,Electrical engineering,,http://scimet.sbu.ac.ir/Hossein_KazemiKaregar,https://scholar.google.com/citations?user=zK5r7_oAAAAJ&hl=en,2180,1
+236,Jafar Kambouzia,,Root,,http://scimet.sbu.ac.ir/Jafar_Kambouzia,https://scholar.google.com/citations?user=yJIJMdwAAAAJ&hl=en,2181,1
+697,Maryam Kavyani,,Root,,http://scimet.sbu.ac.ir/Maryam_Kavyani,https://scholar.google.com/citations?user=6xri4woAAAAJ&hl=en,2182,1
+361,Ali Katanforoush,,Mathematics,,http://scimet.sbu.ac.ir/Ali_Katanforoush,https://scholar.google.com/citations?user=Z_z5rwcAAAAJ&hl=en,2183,1
+196,Hossein Kermanian,,Root,,http://scimet.sbu.ac.ir/Hossein_Kermanian,https://scholar.google.com/citations?user=x6XWh40AAAAJ&hl=en,2184,1
+356,Rouhollah Karimzadeh,,Root,,http://scimet.sbu.ac.ir/Rouhollah_Karimzadeh,https://scholar.google.com/citations?user=dECclNIAAAAJ&hl=en,2185,1
+546,Shokrollah Karimian,,Electrical engineering,,http://scimet.sbu.ac.ir/Shokrollah_Karimian,https://scholar.google.com/citations?user=yjLqM7QAAAAJ&hl=en,2186,1
+729,Hamid Keshavarz,,Root,,http://scimet.sbu.ac.ir/Hamid_Keshavarz,https://scholar.google.com/citations?user=2EUf0-YAAAAJ&hl=en,2187,1
+725,Mohsen Kalantari,,Root,,http://scimet.sbu.ac.ir/Mohsen_Kalantari,https://scholar.google.com/citations?user=8ZDNeecAAAAJ&hl=en,2191,1
+582,Hasan Kouchakzadeh,,Chemistry,,http://scimet.sbu.ac.ir/Hasan_Kouchakzadeh,https://scholar.google.com/citations?user=VO_HT-cAAAAJ&hl=en,2194,1
+619,Mojtaba Koosha,,Root,,http://scimet.sbu.ac.ir/Mojtaba_Koosha,https://scholar.google.com/citations?user=55tpe-YAAAAJ&hl=en,2195,1
+767,Fahimeh Koohdar,,Biology,,http://scimet.sbu.ac.ir/Fahimeh_Koohdar,https://scholar.google.com/citations?user=f6qChk0AAAAJ&hl=en,0,0
+293,Qhasem Keikhosravi,,Root,,http://scimet.sbu.ac.ir/Qhasem_Keikhosravi,https://scholar.google.com/citations?user=-9nQYCQAAAAJ&hl=en,0,0
+550,Mohsen Golbon Haghighi,,Chemistry,,http://scimet.sbu.ac.ir/Mohsen_GolbonHaghighi,https://scholar.google.com/citations?user=wEybZ0kAAAAJ&hl=en,2196,1
+61,Mojtaba Ganjali,,Mathematics,,http://scimet.sbu.ac.ir/Mojtaba_Ganjali,https://scholar.google.com/citations?user=GPd4BtEAAAAJ&hl=en,2197,1
+639,Roghayeh Gavagsaz-Ghoachani,,Electrical engineering,,http://scimet.sbu.ac.ir/Roghayeh_GavagsazGhoachani,https://scholar.google.com/citations?user=6Z9fVXoAAAAJ&hl=en,2199,1
+75,Hassan Lashkari,,Root,,http://scimet.sbu.ac.ir/Hassan_Lashkari,https://scholar.google.com/citations?user=jpJQazAAAAAJ&hl=en,2200,1
+36,Anoshiravan Lotfali Kani,,Root,,http://scimet.sbu.ac.ir/Anoshiravan_LotfaliKani,https://scholar.google.com/citations?user=B1HFuh0AAAAJ&hl=en,0,0
+24,Hamid Latifi,,Root,,http://scimet.sbu.ac.ir/Hamid_Latifi,https://scholar.google.com/citations?user=HsMMUgIAAAAJ&hl=en,2201,1
+517,Azadeh Lak,,Root,,http://scimet.sbu.ac.ir/Azadeh_Lak,https://scholar.google.com/citations?user=Bgm4vDUAAAAJ&hl=en,2203,1
+151,Houman Liaghati,,Economics,,http://scimet.sbu.ac.ir/Houman_Liaghati,https://scholar.google.com/citations?user=53cljbMAAAAJ&hl=en,2204,1
+739,Alireza Mahpour,,Civil engineering,,http://scimet.sbu.ac.ir/Alireza_Mahpour,https://scholar.google.com/citations?user=5RWpYA8AAAAJ&hl=en,2205,1
+335,Naghmeh Mobarghaee Dinan,,Root,,http://scimet.sbu.ac.ir/Naghmeh_MobarghaeeDinan,https://scholar.google.com/citations?user=WnzFoIIAAAAJ&hl=en,2206,1
+544,Mohammad Mojaddam,,Mechanical engineering,,http://scimet.sbu.ac.ir/Mohammad_Mojaddam,https://scholar.google.com/citations?user=-OQV_T8AAAAJ&hl=en,2207,1
+398,Ahmad Reza Mehrabian,,Biology,,http://scimet.sbu.ac.ir/AhmadReza_Mehrabian,https://scholar.google.com/citations?user=d3o_bG4AAAAJ&hl=en,2208,1
+844,Arman Mohseni,,Mechanical engineering,,http://scimet.sbu.ac.ir/Arman_Mohseni,https://scholar.google.com/citations?user=P48E3hAAAAAJ&hl=en,2209,1
+833,Reza Mosavi Mohseni,,Economics,,http://scimet.sbu.ac.ir/RezaMoosavi_Mohseni,https://scholar.google.com/citations?user=cT3MZzkAAAAJ&hl=en,0,0
+208,Seyed Majid Mohseni,,Root,,http://scimet.sbu.ac.ir/Seyed_MajidMohseni,https://scholar.google.com/citations?user=HTqfi34AAAAJ&hl=en,0,0
+570,Marzieh Mohases,,Root,,http://scimet.sbu.ac.ir/Marzieh_Mohases,https://scholar.google.com/citations?user=HL14pxUAAAAJ&hl=en,2211,1
+147,M Mohammadpour Amini,,Chemistry,,http://scimet.sbu.ac.ir/M_MohammadpourAmini,https://scholar.google.com/citations?user=30L692gAAAAJ&hl=en,0,0
+644,Kourosh Mohammadkhani,,Root,,http://scimet.sbu.ac.ir/Kourosh_Mohammadkhani,https://scholar.google.com/citations?user=Jhdu0IsAAAAJ&hl=en,2212,1
+760,HAMID MOHAMMADNEZHAD,,Civil engineering,,http://scimet.sbu.ac.ir/HAMID_MOHAMMADNEZHAD,https://scholar.google.com/citations?user=a-Nta_sAAAAJ&hl=en,2213,1
+695,Reza Mohammadi Chabanloo,,Electrical engineering,,http://scimet.sbu.ac.ir/Reza_MohammadiChabanloo,https://scholar.google.com/citations?user=697SFhUAAAAJ&hl=en,0,0
+607,Saeed Mahmoudkhani,,Root,,http://scimet.sbu.ac.ir/Saeed_Mahmoudkhani,https://scholar.google.com/citations?user=3jdP7osAAAAJ&hl=en,2215,1
+830,Mohammad Javad Mahmoodi,,Mechanical engineering,,http://scimet.sbu.ac.ir/MohammadJavad_Mahmoodi,https://scholar.google.com/citations?user=cDT2lX0AAAAJ&hl=en,2216,1
+193,Hossein Mahmoudi,,Root,,http://scimet.sbu.ac.ir/Hossein_Mahmoudi,https://scholar.google.com/citations?user=BTbZbDAAAAAJ&hl=en,2219,1
+70,Mojgan Mahmoudi,,Mathematics,,http://scimet.sbu.ac.ir/Mojgan_Mahmoudi,https://scholar.google.com/citations?user=npCEch0AAAAJ&hl=en,2223,1
+383,Ahmad Mahmoudi-Aznaveh,Engineering,Computer science,"Department of Computer Engineering, Engineering",http://scimet.sbu.ac.ir/Ahmad_MahmoudiAznaveh,https://scholar.google.com/citations?user=HlT_NN4AAAAJ&hl=en,2224,1
+675,Setareh Mokhtari,,Root,,http://scimet.sbu.ac.ir/Setareh_Mokhtari,https://scholar.google.com/citations?user=iVzsuXQAAAAJ&hl=en,2225,1
+462,Mahmoud Mokhtari,,Root,,http://scimet.sbu.ac.ir/Mahmoud_Mokhtari,https://scholar.google.com/citations?user=f-EAYhMAAAAJ&hl=en,2227,1
+807,Ali A. Mortazavi,,Civil engineering,,http://scimet.sbu.ac.ir/AliA_Mortazavi,https://scholar.google.com/citations?user=z4ZFEbQAAAAJ&hl=en,2231,1
+578,Pegah Moridsadat,,Root,,http://scimet.sbu.ac.ir/Pegah_Moridsadat,https://scholar.google.com/citations?user=VooeXQ0AAAAJ&hl=en,2234,1
+604,Ali Moridi,,Civil engineering,,http://scimet.sbu.ac.ir/Ali_Moridi,https://scholar.google.com/citations?user=pbA0WggAAAAJ&hl=en,2235,1
+342,Mahdi Moridi Farimani,,Biology,,http://scimet.sbu.ac.ir/Mahdi_MoridiFarimani,https://scholar.google.com/citations?user=EHEa1uwAAAAJ&hl=en,2237,1
+131,Reza Massudi,,Root,,http://scimet.sbu.ac.ir/Reza_Massudi,https://scholar.google.com/citations?user=QK3lEdAAAAAJ&hl=en,0,0
+306,Fariborz Masoudi,,Root,,http://scimet.sbu.ac.ir/Fariborz_Masoudi,https://scholar.google.com/citations?user=L0gajh4AAAAJ&hl=en,2238,1
+623,Heidarali Masoudi,,Economics,,http://scimet.sbu.ac.ir/Heidarali_Masoudi,https://scholar.google.com/citations?user=uGJxW8gAAAAJ&hl=en,2239,1
+157,Maryam Musharraf,,Root,,http://scimet.sbu.ac.ir/Maryam_Musharraf,https://scholar.google.com/citations?user=HWDTNZsAAAAJ&hl=en,2240,1
+700,Mohammad Ali Mostafaei,,Mechanical engineering,,http://scimet.sbu.ac.ir/MohammadAli_Mostafaei,https://scholar.google.com/citations?user=ID5e_FoAAAAJ&hl=en,2241,1
+754,Ali Mosallanejad,,Electrical engineering,,http://scimet.sbu.ac.ir/Ali_Mosallanejad,https://scholar.google.com/citations?user=F2UDw4EAAAAJ&hl=en,2242,1
+782,Homayoun Motiee,,Civil engineering,,http://scimet.sbu.ac.ir/Homayoun_Motiee,https://scholar.google.com/citations?user=T2pwMiEAAAAJ&hl=en,2244,1
+142,Mohammad Ali Mazaheri,,Root,,http://scimet.sbu.ac.ir/MohammadAli_Mazaheri,https://scholar.google.com/citations?user=5ak7DGAAAAAJ&hl=en,0,0
+480,Farokhlagha Moazami,,Mathematics,,http://scimet.sbu.ac.ir/Farokhlagha_Moazami,https://scholar.google.com/citations?user=4v4v5r0AAAAJ&hl=en,2245,1
+681,Mohammad Hossein Moaiyeri,Engineering,Computer science,"Department of Computer Engineering, Engineering",http://scimet.sbu.ac.ir/MohammadHossein_Moaiyeri,https://scholar.google.com/citations?user=VzPbMOoAAAAJ&hl=en,2246,1
+663,Masoud Meghdadi,,Electrical engineering,,http://scimet.sbu.ac.ir/Masoud_Meghdadi,https://scholar.google.com/citations?user=kRBx6a0AAAAJ&hl=en,2247,1
+519,Hamidreza Mollasalehi,,Biology,,http://scimet.sbu.ac.ir/Hamidreza_Mollasalehi,https://scholar.google.com/citations?user=eBONeEYAAAAJ&hl=en,2248,1
+690,Behzad Malekpourasl,,Root,,http://scimet.sbu.ac.ir/Behzad_Malekpourasl,https://scholar.google.com/citations?user=WCt3szEAAAAJ&hl=en,2249,1
+548,Hadi Maleki,,Biology,,http://scimet.sbu.ac.ir/Hadi_Maleki,https://scholar.google.com/citations?user=KeJ5-doAAAAJ&hl=en,2251,1
+730,Mohsen H. Montazeri,,Electrical engineering,,http://scimet.sbu.ac.ir/MohsenH_Montazeri,https://scholar.google.com/citations?user=0DALQzsAAAAJ&hl=en,0,0
+547,Shahriyar Mansouri,,Root,,http://scimet.sbu.ac.ir/Shahriyar_Mansouri,https://scholar.google.com/citations?user=bvEGupkAAAAJ&hl=en,2255,1
+185,Morteza Moniri,,Mathematics,,http://scimet.sbu.ac.ir/Morteza_Moniri,https://scholar.google.com/citations?user=8TbbUMEAAAAJ&hl=en,2256,1
+275,Fereshteh Mootabi,,Root,,http://scimet.sbu.ac.ir/Fereshteh_Mootabi,https://scholar.google.com/citations?user=1r5L3y4AAAAJ&hl=en,2257,1
+294,S MS Movahed,,Root,,http://scimet.sbu.ac.ir/SMS_Movahed,https://scholar.google.com/citations?user=uhy9JDAAAAAJ&hl=en,0,0
+780,S. Saeid Mousavi Nadoushani,,Civil engineering,,http://scimet.sbu.ac.ir/SSaeid_MousaviNadoushani,https://scholar.google.com/citations?user=x5g0ybEAAAAJ&hl=en,0,0
+184,Ezeddin Mohajerani,,Root,,http://scimet.sbu.ac.ir/Ezeddin_Mohajerani,https://scholar.google.com/citations?user=mW-eOmYAAAAJ&hl=en,2259,1
+249,Abdolmajid Mahdavi-Damghani,,Root,,http://scimet.sbu.ac.ir/Abdolmajid_MahdaviDamghani,https://scholar.google.com/citations?user=i5AlLKoAAAAJ&hl=en,2260,1
+827,Hamid Reza Mahdiani,,Electrical engineering,,http://scimet.sbu.ac.ir/HamidReza_Mahdiani,https://scholar.google.com/citations?user=oCxA7B0AAAAJ&hl=en,2261,1
+799,Maryam Mirabi,,Civil engineering,,http://scimet.sbu.ac.ir/Maryam_Mirabi,https://scholar.google.com/citations?user=q3WxSIcAAAAJ&hl=en,2262,1
+167,Mohammad Hossein Mirjalili,,Root,,http://scimet.sbu.ac.ir/MohammadHossein_Mirjalili,https://scholar.google.com/citations?user=Y2x_J6QAAAAJ&hl=en,2263,1
+235,Mahinnaz Mirdehghan,,Root,,http://scimet.sbu.ac.ir/Mahinnaz_Mirdehghan,https://scholar.google.com/citations?user=H_OQnf4AAAAJ&hl=en,2264,1
+219,Peiman Mirzaei,,Chemistry,,http://scimet.sbu.ac.ir/Peiman_Mirzaei,https://scholar.google.com/citations?user=R3JT7LkAAAAJ&hl=en,2265,1
+612,Seyed Mojtaba Mirfendereski,,Chemistry,,http://scimet.sbu.ac.ir/SeyedMojtaba_Mirfendereski,https://scholar.google.com/citations?user=Gs33WRsAAAAJ&hl=en,2266,1
+221,Dariush Minai-Tehrani,,Biology,,http://scimet.sbu.ac.ir/Dariush_MinaiTehrani,https://scholar.google.com/citations?user=aQLPrvEAAAAJ&hl=en,2267,1
+469,Mohammad Javad Naeiji,,Economics,,http://scimet.sbu.ac.ir/MohammadJavad_Naeiji,https://scholar.google.com/citations?user=rytnsaIAAAAJ&hl=en,2268,1
+227,Soheila Naderi,,Chemistry,,http://scimet.sbu.ac.ir/Soheila_Naderi,https://scholar.google.com/citations?user=EM1vu38AAAAJ&hl=en,2269,1
+481,Ali Nadian-Ghomsheh,,Electrical engineering,,http://scimet.sbu.ac.ir/Ali_NadianGhomsheh,https://scholar.google.com/citations?user=RfRhW8QAAAAJ&hl=en,2271,1
+602,Morteza Nazerian,,Root,,http://scimet.sbu.ac.ir/Morteza_Nazerian,https://scholar.google.com/citations?user=fTOMRuoAAAAJ&hl=en,2272,1
+51,Eslam Nazemi,,Root,,http://scimet.sbu.ac.ir/Eslam_Nazemi,https://scholar.google.com/citations?user=0sn-HWgAAAAJ&hl=en,2273,1
+46,Keivan Navi,Engineering,Computer science,"Department of Computer Engineering, Engineering",http://scimet.sbu.ac.ir/Keivan_Navi,https://scholar.google.com/citations?user=QEs-nLIAAAAJ&hl=en,2274,1
+594,Negar Nabatian,,Mechanical engineering,,http://scimet.sbu.ac.ir/Negar_Nabatian,https://scholar.google.com/citations?user=xDIF7jUAAAAJ&hl=en,2275,1
+43,Mohammad Reza Nabid,,Chemistry,,http://scimet.sbu.ac.ir/MohammadReza_Nabid,https://scholar.google.com/citations?user=rJO3yzQAAAAJ&hl=en,2276,1
+733,Pegah Nejat,,Root,,http://scimet.sbu.ac.ir/Pegah_Nejat,https://scholar.google.com/citations?user=MtW35ZsAAAAJ&hl=en,2277,1
+338,Vahid Nejati,,Root,,http://scimet.sbu.ac.ir/Vahid_Nejati,https://scholar.google.com/citations?user=6quJ34QAAAAJ&hl=en,2278,1
+731,Mohammadreza Nakhaei,,Mechanical engineering,,http://scimet.sbu.ac.ir/Mohammadreza_Nakhaei,https://scholar.google.com/citations?user=czYpbUEAAAAJ&hl=en,0,0
+560,Sahar Nedae Tousi,,Root,,http://scimet.sbu.ac.ir/SaharNedae_Tousi,https://scholar.google.com/citations?user=abVSDhsAAAAJ&hl=en,2282,1
+98,Hamid Nadimi,,Root,,http://scimet.sbu.ac.ir/Hamid_Nadimi,https://scholar.google.com/citations?user=EThraDAAAAAJ&hl=en,0,0
+251,Samad Nejad-Ebrahimi,,Biology,,http://scimet.sbu.ac.ir/Samad_NejadEbrahimi,https://scholar.google.com/citations?user=i9kBp_4AAAAJ&hl=en,2284,1
+452,Moharram N Iradmusa,,Mathematics,,http://scimet.sbu.ac.ir/MoharramN_Iradmusa,https://scholar.google.com/citations?user=XhbigoQAAAAJ&hl=en,2285,1
+549,Mahmood Neshati,Engineering,Computer science,"Department of Computer Engineering, Engineering",http://scimet.sbu.ac.ir/Mahmood_Neshati,https://scholar.google.com/citations?user=drrI9MAAAAAJ&hl=en,2286,1
+408,Ali Heidar Nasrolahi,,Biology,,http://scimet.sbu.ac.ir/AliHeidar_Nasrolahi,https://scholar.google.com/citations?user=IdnaIOoAAAAJ&hl=en,0,0
+346,Kazem Nosrati,,Root,,http://scimet.sbu.ac.ir/Kazem_Nosrati,https://scholar.google.com/citations?user=STdgpoMAAAAJ&hl=en,2287,1
+528,Sadollah Nasiri,,Root,,http://scimet.sbu.ac.ir/Sadollah_Nasiri,https://scholar.google.com/citations?user=QE9zQTcAAAAJ&hl=en,2288,1
+397,Navid Nezafati,,Root,,http://scimet.sbu.ac.ir/Navid_Nezafati,https://scholar.google.com/citations?user=-OS5klMAAAAJ&hl=en,2289,1
+507,Neda Nazarbol,,Root,,http://scimet.sbu.ac.ir/Neda_Nazarbol,https://scholar.google.com/citations?user=XG7bwnkAAAAJ&hl=en,0,0
+177,Ahad Nazari,,Root,,http://scimet.sbu.ac.ir/Ahad_Nazari,https://scholar.google.com/citations?user=IWCqqkoAAAAJ&hl=en,2290,1
+722,Shahab Al Din Naghavi,,Chemistry,,http://scimet.sbu.ac.ir/ShahabAlDin_Naghavi,https://scholar.google.com/citations?user=xOVFAPMAAAAJ&hl=en,0,0
+402,Behrouz Notash,,Chemistry,,http://scimet.sbu.ac.ir/Behrouz_Notash,https://scholar.google.com/citations?user=4zGGcGkAAAAJ&hl=en,2291,1
+377,Saeed Nojavan,,Chemistry,,http://scimet.sbu.ac.ir/Saeed_Nojavan,https://scholar.google.com/citations?user=VdQcDEYAAAAJ&hl=en,2292,1
+823,Ali Noorzad,,Civil engineering,,http://scimet.sbu.ac.ir/Ali_Noorzad,https://scholar.google.com/citations?user=s-S3Fd0AAAAJ&hl=en,0,0
+777,Saman Noorzadeh,,Root,,http://scimet.sbu.ac.ir/NA_NA13,https://scholar.google.com/citations?user=UglC2kwAAAAJ&hl=en,2293,1
+198,Maryam Nourshahi,,Root,,http://scimet.sbu.ac.ir/Maryam_Nourshahi,https://scholar.google.com/citations?user=VCXdUEUAAAAJ&hl=en,2294,1
+542,Saeid Norouzian-Maleki,,Root,,http://scimet.sbu.ac.ir/Saeid_NorouzianMaleki,https://scholar.google.com/citations?user=QyC0AMcAAAAJ&hl=en,2295,1
+264,Omid Noori,,Root,,http://scimet.sbu.ac.ir/Omid_Noori,https://scholar.google.com/citations?user=ZHAQLq8AAAAJ&hl=en,2296,1
+606,M. N. Manzar,,Electrical engineering,,http://scimet.sbu.ac.ir/MN_Manzar,https://scholar.google.com/citations?user=xhAOuFkAAAAJ&hl=en,2297,1
+596,Musa Nushi,,Root,,http://scimet.sbu.ac.ir/Musa_Nushi,https://scholar.google.com/citations?user=OR7G2qQAAAAJ&hl=en,2298,1
+629,Yaser Nikpeyman,,Root,,http://scimet.sbu.ac.ir/Yaser_Nikpeyman,https://scholar.google.com/citations?user=8fCPZdYAAAAJ&hl=en,2299,1
+614,Nader Nikkam,,Biology,,http://scimet.sbu.ac.ir/Nader_Nikkam,https://scholar.google.com/citations?user=yRXMlh0AAAAJ&hl=en,2300,1
+244,Ali Reza Niknam,,Biology,,http://scimet.sbu.ac.ir/AliReza_Niknam,https://scholar.google.com/citations?user=PbtNWGAAAAAJ&hl=en,2301,1
+482,Majid Vaseghi,,Mechanical engineering,,http://scimet.sbu.ac.ir/Majid_Vaseghi,https://scholar.google.com/citations?user=15MjHnUAAAAJ&hl=en,2302,1
+571,Fatemeh Vojdani,,Root,,http://scimet.sbu.ac.ir/Fatemeh_Vojdani,https://scholar.google.com/citations?user=cz23ep4AAAAJ&hl=en,2303,1
+532,Mojtaba Vahidi-Asl,Engineering,Computer science,"Department of Computer Engineering, Engineering",http://scimet.sbu.ac.ir/Mojtaba_VahidiAsl,https://scholar.google.com/citations?user=Ex_tgAgAAAAJ&hl=en,2304,1
+533,Vida Varahrami,,Economics,,http://scimet.sbu.ac.ir/Vida_Varahrami,https://scholar.google.com/citations?user=RX9K_y0AAAAJ&hl=en,2305,1
+616,Elham Vatankhah,,Root,,http://scimet.sbu.ac.ir/Elham_Vatankhah,https://scholar.google.com/citations?user=QXn45TEAAAAJ&hl=en,2306,1
+204,Taraneh Vazifehshenas,,Root,,http://scimet.sbu.ac.ir/Taraneh_Vazifehshenas,https://scholar.google.com/citations?user=bgham0sAAAAJ&hl=en,2307,1
+834,Alireza Vafaeinejad,,Civil engineering,,http://scimet.sbu.ac.ir/Alireza_Vafaeinejad,https://scholar.google.com/citations?user=1w_C6FUAAAAJ&hl=en,2308,1
+349,Hamid Reza Valipour,,Root,,http://scimet.sbu.ac.ir/HamidReza_Valipour,https://scholar.google.com/citations?user=WYEf74wAAAAJ&hl=en,2309,1
+285,Hadi Veisi,,Root,,http://scimet.sbu.ac.ir/Hadi_Veisi,https://scholar.google.com/citations?user=F15q0ZUAAAAJ&hl=en,2311,1
+318,Javad Hadian,,Root,,http://scimet.sbu.ac.ir/Javad_Hadian,https://scholar.google.com/citations?user=gePhjjUAAAAJ&hl=en,2313,1
+265,Seyed Hossein Hashemi,,Root,,http://scimet.sbu.ac.ir/SeyedHossein_Hashemi,https://scholar.google.com/citations?user=kKFKJyAAAAAJ&hl=en,2314,1
+450,Omid Hashemipour,,Electrical engineering,,http://scimet.sbu.ac.ir/Omid_Hashemipour,https://scholar.google.com/citations?user=82XtiaoAAAAJ&hl=en,2318,1
+486,Babak Honarbakhsh,,Electrical engineering,,http://scimet.sbu.ac.ir/Babak_Honarbakhsh,https://scholar.google.com/citations?user=qZy2w30AAAAJ&hl=en,2319,1
+223,Fariborz Hovanloo,,Root,,http://scimet.sbu.ac.ir/Fariborz_Hovanloo,https://scholar.google.com/citations?user=yanTG8QAAAAJ&hl=en,2320,1
+12,Mahboubeh Houshiar,,Root,,http://scimet.sbu.ac.ir/Mahboubeh_Houshiar,https://scholar.google.com/citations?user=DdTwe7QAAAAJ&hl=en,2321,1
+795,Seyed Majid Yadavar-Nikravesh,,Mechanical engineering,,http://scimet.sbu.ac.ir/SeyedMajid_YadavarNikravesh,https://scholar.google.com/citations?user=skMiwqAAAAAJ&hl=en,2322,1
+838,Arash Yazdanpanah-Goharrizi,,Electrical engineering,,http://scimet.sbu.ac.ir/Arash_YazdanpanahGoharrizi,https://scholar.google.com/citations?user=Vp-LzJMAAAAJ&hl=en,2323,1
+514,Mehdi Yazdani,,Economics,,http://scimet.sbu.ac.ir/Mehdi_Yazdani,https://scholar.google.com/citations?user=Ljnw8AMAAAAJ&hl=en,0,0
+601,Jafar Yazdi,,Civil engineering,,http://scimet.sbu.ac.ir/Jafar_Yazdi,https://scholar.google.com/citations?user=rDaALqUAAAAJ&hl=en,2329,1
+114,Mohammad Yazdi,,Root,,http://scimet.sbu.ac.ir/Mohammad_Yazdi,https://scholar.google.com/citations?user=wm5wxJYAAAAJ&hl=en,2333,1
+848,Alireza Yazdizadeh,,Electrical engineering,,http://scimet.sbu.ac.ir/Alireza_Yazdizadeh,https://scholar.google.com/citations?user=vmyY_5kAAAAJ&hl=en,2362,1
+484,Aboutorab Yaghmaie,,Root,,http://scimet.sbu.ac.ir/Aboutorab_Yaghmaie,https://scholar.google.com/citations?user=oH2YkddtjfwC&hl=en,2363,1
+737,Bijan Yeganeh,,Civil engineering,,http://scimet.sbu.ac.ir/Bijan_Yeganeh,https://scholar.google.com/citations?user=zZ8-9AMAAAAJ&hl=en,2364,1
+240,Sohrabali Yousefi,,Mathematics,,http://scimet.sbu.ac.ir/Sohrabali_Yousefi,https://scholar.google.com/citations?user=QpafpxQAAAAJ&hl=en,2365,1
